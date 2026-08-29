@@ -1,0 +1,249 @@
+# Regenerate README.md from SimplifyJobs
+
+import argparse
+import datetime as dt
+import json
+import re
+import sys
+import urllib.request
+from pathlib import Path
+
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+
+UPSTREAM_URL = (
+    "https://raw.githubusercontent.com/SimplifyJobs/"
+    "Summer2027-Internships/dev/.github/scripts/listings.json"
+)
+
+# ----------------------------- your filters -----------------------------
+TERMS = {"Summer 2027"}          # only show listings tagged with these terms
+CATEGORIES = {                   
+    "Software",                  
+    "AI/ML/Data",                # available categories: Software, AI/ML/Data, Quant, Hardware, Product
+    "Quant",
+}
+MAX_AGE_DAYS = None             
+
+# section order + display for the nav and per-category tables
+CATEGORY_META = {
+    "Software": ("💻", "Software Engineering", "software"),
+    "AI/ML/Data": ("🤖", "Data Science, AI & ML", "ai-ml-data"),
+    "Quant": ("📈", "Quantitative Finance", "quant"),
+}
+
+# per-flag badges: (unverified, verified)
+# unverified = auto-published from suggested_annotations.yaml
+# verified   = confirmed: true in annotations.yaml
+BADGES = {
+    "defense": ("\U0001F7E1", "\U0001F480"),   # 🟡 DoD >$1M / 💀 verified
+    "ice": ("\U0001F7E0", "\U0001F940"),       # 🟠 ICE >$250k / 🥀 verified
+}
+
+FIRE = "\U0001F525"  # 🔥 FAANG from Simplify FAANG_PLUS list
+
+FIRE_COMPANIES = {
+    "airbnb", "adobe", "amazon", "amd", "anthropic", "apple", "asana",
+    "atlassian", "bytedance", "cloudflare", "coinbase", "crowdstrike",
+    "databricks", "datadog", "doordash", "dropbox", "duolingo", "figma",
+    "google", "ibm", "instacart", "intel", "linkedin", "lyft", "meta",
+    "microsoft", "netflix", "notion", "nvidia", "openai", "oracle",
+    "palantir", "paypal", "perplexity", "pinterest", "ramp", "reddit",
+    "rippling", "robinhood", "roblox", "salesforce", "samsara",
+    "servicenow", "shopify", "slack", "snap", "snapchat", "spacex",
+    "splunk", "snowflake", "stripe", "square", "tesla", "tinder",
+    "tiktok", "uber", "visa", "waymo", "x",
+}
+
+LEGAL_SUFFIXES = re.compile(
+    r"\b(inc|incorporated|llc|llp|ltd|limited|corp|corporation|co|company|"
+    r"plc|gmbh|holdings|group)\b\.?", re.IGNORECASE
+)
+
+
+def normalize(name: str) -> str:
+    """Normalize a company name for matching: lowercase, strip legal
+    suffixes and punctuation, collapse whitespace."""
+    name = name.lower()
+    name = LEGAL_SUFFIXES.sub("", name)
+    name = re.sub(r"[^a-z0-9 ]+", " ", name)
+    return re.sub(r"\s+", " ", name).strip()
+
+
+def load_listings(local_path: str | None) -> list[dict]:
+    if local_path:
+        raw = Path(local_path).read_text()
+    else:
+        with urllib.request.urlopen(UPSTREAM_URL, timeout=60) as resp:
+            raw = resp.read().decode()
+    listings = json.loads(raw)
+    if not isinstance(listings, list) or not listings:
+        sys.exit("Upstream listings file was empty or malformed; aborting "
+                 "so the last good README is preserved.")
+    return listings
+
+
+def load_annotations() -> dict[str, dict]:
+    # suggested_annotations.yaml is auto-published (unverified badges);
+    # annotations.yaml is loaded second so hand-edits always win per flag
+    merged: dict[str, dict] = {}
+    for fname in ("suggested_annotations.yaml", "annotations.yaml"):
+        path = ROOT / fname
+        if not path.exists():
+            continue
+        data = yaml.safe_load(path.read_text()) or {}
+        for company, meta in data.items():
+            entry = merged.setdefault(normalize(company), {"flags": {}})
+            entry["flags"].update((meta or {}).get("flags") or {})
+    return merged
+
+
+def keep(listing: dict) -> bool:
+    if not listing.get("active") or not listing.get("is_visible", True):
+        return False
+    if TERMS and not TERMS.intersection(listing.get("terms") or []):
+        return False
+    if CATEGORIES and listing.get("category") not in CATEGORIES:
+        return False
+    if MAX_AGE_DAYS is not None:
+        age = (dt.datetime.now(dt.timezone.utc).timestamp()
+               - listing.get("date_posted", 0)) / 86400
+        if age > MAX_AGE_DAYS:
+            return False
+    return True
+
+
+def age_str(posted: int) -> str:
+    days = int((dt.datetime.now(dt.timezone.utc).timestamp() - posted) / 86400)
+    if days <= 0:
+        return "today"
+    if days < 31:
+        return f"{days}d"
+    return f"{days // 30}mo"
+
+def emoji_for(annotation: dict) -> str:
+    # one badge per flag; a company can carry several (e.g. 💀 🟠)
+    out = []
+    for fname, f in (annotation.get("flags") or {}).items():
+        pair = BADGES.get(fname)
+        if not pair:
+            continue
+        verified = isinstance(f, dict) and f.get("confirmed")
+        out.append(pair[1] if verified else pair[0])
+    return " ".join(out)
+
+def md_escape(text: str) -> str:
+    return text.replace("|", "\\|")
+
+
+def render(listings: list[dict], annotations: dict[str, dict]) -> str:
+    by_cat: dict[str, list[str]] = {c: [] for c in CATEGORY_META}
+    flagged: dict[str, dict] = {}
+    total = 0
+
+    for l in sorted(listings, key=lambda x: x.get("date_posted", 0),
+                    reverse=True):
+        if not keep(l):
+            continue
+        company = l["company_name"]
+        ann = annotations.get(normalize(company), {})
+        badge = emoji_for(ann)
+        if normalize(company) in FIRE_COMPANIES:
+            badge = (badge + " " + FIRE).strip()
+        if ann and emoji_for(ann):
+            flagged.setdefault(company, ann)
+        name_cell = f"{badge} **{md_escape(company)}**" if badge \
+            else f"**{md_escape(company)}**"
+        title = md_escape(l["title"])
+        locs = md_escape("; ".join(l.get("locations") or ["—"]))
+        row = (f"| {name_cell} | {title} | {locs} "
+               f"| [Apply]({l['url']}) | {age_str(l.get('date_posted', 0))} |")
+        by_cat.setdefault(l.get("category"), []).append(row)
+        total += 1
+
+    now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    nav = " · ".join(
+        f"[{emoji} {label}](#{anchor})"
+        for cat, (emoji, label, anchor) in CATEGORY_META.items()
+        if by_cat.get(cat)
+    )
+
+    out = [
+        "### Summer 2027 Tech Internships",
+        "",
+        "Copy of [SimplifyJobs Summer 2027 Internships]"
+        "(https://github.com/SimplifyJobs/Summer2027-Internships) "
+        "with a flag for weapons manufacturers.",
+        "",
+        "Legend:",
+        "",
+        f"- {BADGES['defense'][0]} = Any company with a DoD contract above $1M"
+        "",
+        f"- {BADGES['ice'][0]} = Any company with ICE contract above $250k"
+        "",
+        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturers"
+        "",
+        f"- {BADGES['ice'][1]} = Human-verified companies working with ICE"
+        "",
+        f"- {FIRE} = FAANG+",
+        "",
+        f"Last updated: {now} · {total} active listings",
+        "",
+        f"Browse: {nav}",
+        "",
+    ]
+
+    for cat, (emoji, label, anchor) in CATEGORY_META.items():
+        rows = by_cat.get(cat)
+        if not rows:
+            continue
+        out += [
+            f'<a id="{anchor}"></a>',
+            "",
+            f"## {emoji} {label}",
+            "",
+            "| Company | Role | Location | Application | Age |",
+            "| --- | --- | --- | --- | --- |",
+            *rows,
+            "",
+        ]
+
+    out += [
+        "## Annotation notes",
+        "",
+        *(sorted(
+            f"- {emoji_for(flagged[c])} **{c}**: " + "; ".join(
+                (f.get("detail", "") or fname)
+                + (f" — source: {f.get('source')}" if isinstance(f, dict)
+                   and f.get("source") else "")
+                for fname, f in (
+                    (fname, f if isinstance(f, dict) else {})
+                    for fname, f in
+                    (flagged[c].get("flags") or {}).items())
+            ) for c in flagged
+        ) or ["_No annotated companies in the current listings._"]),
+        "",
+        "Listing data from [SimplifyJobs/Summer2027-Internships]"
+        "(https://github.com/SimplifyJobs/Summer2027-Internships) "
+        "(CC BY-NC 4.0).",
+        "",
+    ]
+    return "\n".join(out)
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--local", help="path to a local listings.json")
+    ap.add_argument("--out", default=str(ROOT / "README.md"))
+    args = ap.parse_args()
+
+    listings = load_listings(args.local)
+    annotations = load_annotations()
+    Path(args.out).write_text(render(listings, annotations))
+    print(f"Wrote {args.out} ({len(listings)} listings fetched)")
+
+
+if __name__ == "__main__":
+    main()

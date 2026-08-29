@@ -1,3 +1,4 @@
+# spot check specific companies
 import json, urllib.request
 
 API = "https://api.usaspending.gov/api/v2/search/spending_by_award/"

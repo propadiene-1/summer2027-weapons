@@ -14,7 +14,7 @@
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 08:35 UTC · 624 active listings
+Last updated: 2026-08-29 08:39 UTC · 624 active listings
 
 Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#ai-ml-data) · [📈 Quantitative Finance](#quant)
 

@@ -18,7 +18,7 @@ More details can be found in [Annotations](#annotations).
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 19:34 UTC · 621 active listings
+Last updated: 2026-08-29 19:37 UTC · 621 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -99,7 +99,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **BNY** | Software Developer Intern - Engineering | NYC | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253) | 5d |
 | 🔴 **Gulfstream** | Software Engineer Intern - IEF | Savannah, GA | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) | 5d |
 | **Mastercard** | Software Engineer Intern | <details><summary><strong>4 locations</strong></summary>O'Fallon, MO<br>Arlington County, Arlington, VA<br>NYC<br>Atlanta, GA</details> | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | 5d |
-| **Motorola** | Android Application Developer Intern - Summer 2027 | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) | 5d |
+| 🔴 🔵 **Motorola** | Android Application Developer Intern - Summer 2027 | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) | 5d |
 | **Freddie Mac** | Software Developer Intern - Single-Family | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | 5d |
 | **Freddie Mac** | Multifamily Software Development Intern - Summer 2027 | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) | 5d |
 | **Freddie Mac** | Technology Intern - Enterprise Operations + Technology | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) | 5d |
@@ -165,7 +165,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **TikTok** | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | [Apply](https://lifeattiktok.com/search/7673663349758675205) | 15d |
 | 🔴 **KPMG** | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) | 15d |
 | 🔴 **KPMG** | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | [Apply](https://careers.kpmg.ca/jobs/33306?icims=1) | 15d |
-| **Motorola** | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL<br>Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | 15d |
+| 🔴 🔵 **Motorola** | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL<br>Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | 15d |
 | **Specter Aerospace** | Full Stack Developer Co-op | Boston, MA<br>Peabody, MA | [Apply](https://specteraerospace.bamboohr.com/careers/122/) | 16d |
 | **RRS Group** | Software Engineer Intern - Placement Year | SF | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | 16d |
 | 🔴 **Teledyne** | Software Engineer Intern - NHRC | Huntsville, AL | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | 16d |
@@ -461,7 +461,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - AML-Engine-Orchestration | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | 18d |
 | 🔥 **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | 18d |
 | 🔥 **ByteDance** | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | 18d |
-| **Motorola** | Supply Chain Data Analyst Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 18d |
+| 🔴 🔵 **Motorola** | Supply Chain Data Analyst Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 18d |
 | 🔴 🔵 **Booz Allen** | AI RAN Telecommunications Engineer Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 18d |
 | 🔥 **TikTok** | Issue Discovery Operations Intern - Content Ecosystem | San Jose, CA | [Apply](https://lifeattiktok.com/search/7667582040108222773) | 18d |
 | **Citadel** | Sector Data Scientist Intern | NYC | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | 18d |
@@ -712,6 +712,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 - 🔴 🔵 **Deloitte**: DoD contracts ~$1,611,153,659 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$294,282,990 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Grant Thornton**: DoD contracts ~$88,721,861 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$48,728,897 (2021–2026, 4 awards) — source: usaspending
 - 🔴 🔵 **Leidos**: DoD contracts ~$5,364,392,668 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$2,544,100 (2021–2026, 8 awards) — source: usaspending
+- 🔴 🔵 **Motorola**: DoD contracts ~$356,926,189 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$118,546,908 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Parsons**: DoD contracts ~$9,067,614,744 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$25,410,608 (2021–2026, 10 awards) — source: usaspending
 
 </details>

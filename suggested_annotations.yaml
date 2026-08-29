@@ -140,7 +140,7 @@ Leidos:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
-Motorola:
+Motorola Solutions:
   flags:
     defense:
       confirmed: false

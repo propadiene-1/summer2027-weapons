@@ -189,7 +189,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)",
         "",
-        "More details can be found in the Annotations section.",
+        "More details can be found in [Annotations](#annotations).",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",

@@ -6,7 +6,7 @@
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
 
-More details can be found in the Annotations section.
+More details can be found in [Annotations](#annotations).
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
@@ -18,7 +18,7 @@ More details can be found in the Annotations section.
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 17:03 UTC · 621 active listings
+Last updated: 2026-08-29 19:34 UTC · 621 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -78,11 +78,11 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Compeer Financial** | Engineering Intern | Lakeville, MN<br>Mankato, MN | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008) | 3d |
 | **Compeer Financial** | Engineering Intern | Sun Prairie, WI<br>Mankato, MN<br>Bloomington, IL | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008) | 3d |
 | **Empirical Foods** | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | [Apply](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) | 3d |
-| **Nokia** | Software Engineer Co-op - Deepfield | Ann Arbor, MI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | 3d |
-| **Verkada** | Mobile Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 3d |
-| **Verkada** | Security Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | 3d |
-| **Verkada** | Frontend Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | 3d |
-| **Verkada** | Backend Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) | 3d |
+| **Nokia** | Software Engineer Co-op - Deepfield | Ann Arbor, MI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | 4d |
+| **Verkada** | Mobile Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 4d |
+| **Verkada** | Security Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | 4d |
+| **Verkada** | Frontend Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | 4d |
+| **Verkada** | Backend Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) | 4d |
 | ☠️ **RTX** | Software Engineer Intern | Jupiter, FL | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485) | 4d |
 | **The Hartford** | Software Engineer Intern - Technology & Data | Columbus, OH | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) | 4d |
 | **Brunswick** | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212) | 4d |
@@ -99,7 +99,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **BNY** | Software Developer Intern - Engineering | NYC | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253) | 5d |
 | 🔴 **Gulfstream** | Software Engineer Intern - IEF | Savannah, GA | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) | 5d |
 | **Mastercard** | Software Engineer Intern | <details><summary><strong>4 locations</strong></summary>O'Fallon, MO<br>Arlington County, Arlington, VA<br>NYC<br>Atlanta, GA</details> | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) | 5d |
-| 🔴 🔵 **Motorola** | Android Application Developer Intern - Summer 2027 | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) | 5d |
+| **Motorola** | Android Application Developer Intern - Summer 2027 | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) | 5d |
 | **Freddie Mac** | Software Developer Intern - Single-Family | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) | 5d |
 | **Freddie Mac** | Multifamily Software Development Intern - Summer 2027 | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) | 5d |
 | **Freddie Mac** | Technology Intern - Enterprise Operations + Technology | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/EO-T-Technology-Intern--Summer-2027_JR17542) | 5d |
@@ -165,12 +165,12 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **TikTok** | Mobile Software Engineer Intern - Global E-Commerce | San Jose, CA | [Apply](https://lifeattiktok.com/search/7673663349758675205) | 15d |
 | 🔴 **KPMG** | Product Specialist Intern Co-op - Asset Management Digital Solutions | Toronto, ON, Canada | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) | 15d |
 | 🔴 **KPMG** | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | Toronto, ON, Canada | [Apply](https://careers.kpmg.ca/jobs/33306?icims=1) | 15d |
-| 🔴 🔵 **Motorola** | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL<br>Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | 15d |
+| **Motorola** | Android Platform Software Engineer Intern - Summer 2027 | Schaumburg, IL<br>Plantation, FL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | 15d |
 | **Specter Aerospace** | Full Stack Developer Co-op | Boston, MA<br>Peabody, MA | [Apply](https://specteraerospace.bamboohr.com/careers/122/) | 16d |
 | **RRS Group** | Software Engineer Intern - Placement Year | SF | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) | 16d |
 | 🔴 **Teledyne** | Software Engineer Intern - NHRC | Huntsville, AL | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | 16d |
 | 🔴 **Teledyne** | Software Engineer Intern - NHRC | Huntsville, AL | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) | 16d |
-| 🔥 **ByteDance** | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672386983965100341/detail) | 17d |
+| 🔥 **ByteDance** | Software Engineer Intern - AML-Engine-Orchestration | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672386983965100341/detail) | 18d |
 | **DV Trading** | Software Engineer Intern | NYC | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) | 18d |
 | **DV Trading** | Software Engineer Intern - DV Commodities | London, UK | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) | 18d |
 | 🔥 **ByteDance** | Software Engineer Intern - AML-Engine-Orchestration | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671162985123907845/detail) | 18d |
@@ -320,8 +320,8 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔴 🔵 **Booz Allen** | Data Scientist Intern - University - Summer Games | El Segundo, CA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) | 2d |
 | **Repsol** | Geology & Geophysics Intern | The Woodlands, TX | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/G-G-Intern_83639-1) | 2d |
 | **Elk Valley Resources** | Geographic Information Systems Co-op | Calgary, AB, Canada | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) | 2d |
-| **Auto-Owners Insurance** | Data Engineering Intern - Summer 2027 | Lansing, MI | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | 2d |
-| **WhiteWater Midstream** | Data Science Intern - Summer 2027 | Austin, TX | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | 2d |
+| **Auto-Owners Insurance** | Data Engineering Intern - Summer 2027 | Lansing, MI | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | 3d |
+| **WhiteWater Midstream** | Data Science Intern - Summer 2027 | Austin, TX | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | 3d |
 | 🔥 **TikTok** | AI Infrastructure Engineer Intern - Recommendation & LLM | San Jose, CA | [Apply](https://lifeattiktok.com/search/7672671220798818613) | 3d |
 | **Repsol** | Reservoir Engineer Intern | The Woodlands, TX | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1) | 3d |
 | **MKS Instruments** | Business Intelligence/Data Analytics Intern | Andover, MA | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657) | 3d |
@@ -456,24 +456,24 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **TikTok** | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | San Jose, CA | [Apply](https://lifeattiktok.com/search/7672883129493948677) | 17d |
 | 🔥 **TikTok** | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | Seattle, WA | [Apply](https://lifeattiktok.com/search/7672881840860940597) | 17d |
 | 🔥 **TikTok** | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | Seattle, WA | [Apply](https://lifeattiktok.com/search/7672920375646488885) | 17d |
-| 🔴 🔵 **Deloitte** | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 17d |
-| 🔥 **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | 17d |
-| 🔥 **ByteDance** | Machine Learning Engineer Intern - AML-Engine-Orchestration | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | 17d |
-| 🔥 **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | 17d |
-| 🔥 **ByteDance** | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | 17d |
-| 🔴 🔵 **Motorola** | Supply Chain Data Analyst Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 18d |
+| 🔴 🔵 **Deloitte** | AI and Data Engineering Summer Scholar Intern - Government & Public Services | Austin, TX | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | 18d |
+| 🔥 **ByteDance** | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | 18d |
+| 🔥 **ByteDance** | Machine Learning Engineer Intern - AML-Engine-Orchestration | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672382828525832501/detail) | 18d |
+| 🔥 **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672391300141877557/detail) | 18d |
+| 🔥 **ByteDance** | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | 18d |
+| **Motorola** | Supply Chain Data Analyst Intern | Chicago, IL | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489) | 18d |
 | 🔴 🔵 **Booz Allen** | AI RAN Telecommunications Engineer Intern | McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | 18d |
 | 🔥 **TikTok** | Issue Discovery Operations Intern - Content Ecosystem | San Jose, CA | [Apply](https://lifeattiktok.com/search/7667582040108222773) | 18d |
 | **Citadel** | Sector Data Scientist Intern | NYC | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | 18d |
 | 🔴 **Altamira Technologies** | Research and Development Intern | Fairborn, OH | [Apply](https://jobs.jobvite.com/altamiracorps/job/oHqCAfw3?nl=1&nl=1&fr=false) | 18d |
-| 🔥 **ByteDance** | Machine Learning Engineer Intern | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671291260529821957/detail) | 18d |
-| 🔥 **ByteDance** | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | 18d |
-| 🔥 **ByteDance** | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | 18d |
-| 🔥 **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671096345243535669/detail) | 18d |
-| **Montenson** | Sustainability Engineer Intern | Denver, CO | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) | 18d |
-| **Montenson** | System Administrator Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) | 18d |
-| **Montenson** | Artificial Intelligence Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 18d |
-| **Montenson** | Data Analytics Intern - Insights | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) | 18d |
+| 🔥 **ByteDance** | Machine Learning Engineer Intern | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671291260529821957/detail) | 19d |
+| 🔥 **ByteDance** | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | 19d |
+| 🔥 **ByteDance** | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | 19d |
+| 🔥 **ByteDance** | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7671096345243535669/detail) | 19d |
+| **Montenson** | Sustainability Engineer Intern | Denver, CO | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367) | 19d |
+| **Montenson** | System Administrator Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) | 19d |
+| **Montenson** | Artificial Intelligence Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | 19d |
+| **Montenson** | Data Analytics Intern - Insights | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) | 19d |
 | 🔥 **TikTok** | Data Engineer Intern - Monetization Data | San Jose, CA | [Apply](https://lifeattiktok.com/search/7671232204182276405) | 19d |
 | **PSP Investments** | AI Solutions Intern - External Manager Selection & Monitoring | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | 19d |
 | **LPL Financial Holdings** | Data Engineer Intern - Data | Austin, TX<br>Fort Mill, SC<br>Charlotte, NC | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | 19d |
@@ -579,7 +579,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | --- | --- | --- | --- | --- |
 | **Schroders** | Public Markets Quants Intern - Quants (Public Markets) | London, UK | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | 0d |
 | **Mackenzie Investments** | Investment Management Intern - Canadian Equities | Winnipeg, MB, Canada | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5993/job?mobile=true&needsRedirect=false) | 2d |
-| **WhiteWater Midstream** | Trading Operations Intern - Summer 2027 | Austin, TX | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007) | 2d |
+| **WhiteWater Midstream** | Trading Operations Intern - Summer 2027 | Austin, TX | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007) | 3d |
 | **DV Trading** | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | 3d |
 | **Fannie Mae** | Treasury & Capital Markets Intern - Quantitative Research Track | Washington, DC | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | 3d |
 | 🔴 **BP** | Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk | Chicago, IL | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1) | 4d |
@@ -588,8 +588,8 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **InfiniteQuant** | Quantitative Researcher Intern - Summer 2027 | Dubai - United Arab Emirates<br>NYC | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634) | 5d |
 | **Cigna Group** | Healthcare Policy & Regulated Markets Intern | St. Louis, MO | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403) | 5d |
 | **Freddie Mac** | Capital Markets Intern - Summer 2027 | McLean, VA | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Intern---Summer-2027_JR17560) | 5d |
-| **Susquehanna International Group** | Trading Systems Engineer Intern | London, UK | [Apply](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | 7d |
-| **Susquehanna International Group** | Quantitative Strategy Developer Intern | London, UK<br>Dublin, Ireland | [Apply](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | 7d |
+| **Susquehanna International Group** | Trading Systems Engineer Intern | London, UK | [Apply](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | 8d |
+| **Susquehanna International Group** | Quantitative Strategy Developer Intern | London, UK<br>Dublin, Ireland | [Apply](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | 8d |
 | **Ontario Teachers' Pension Plan** | Investments Intern | Toronto, ON, Canada | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern--Investments--Total-Fund-Management--Global-Trading--May-2027--4-Months-_7170) | 8d |
 | **PIMCO** | Trading Analyst Intern | Newport Beach, CA | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) | 9d |
 | **Wells Fargo** | Quantitative Analytics Intern - Multiple Teams | Charlotte, NC | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--RADS-Masters----Early-Careers_R-569402) | 11d |
@@ -610,10 +610,10 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Northwestern Mutual** | Quantitative Analyst Intern - Public Investments | Milwaukee, WI | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) | 17d |
 | **Quantbot Technologies** | Quantitative Researcher Intern | London, UK | [Apply](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) | 17d |
 | **Quantbot Technologies** | Data Trading Analyst Intern - Data Trading Lab | London, UK | [Apply](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) | 17d |
-| **Quantbot Technologies** | Quantitative Researcher Intern | NYC | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 17d |
-| **Quantbot Technologies** | Data Trading Analyst Intern | NYC | [Apply](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 17d |
+| **Quantbot Technologies** | Quantitative Researcher Intern | NYC | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) | 18d |
+| **Quantbot Technologies** | Data Trading Analyst Intern | NYC | [Apply](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) | 18d |
 | **ConocoPhillips** | Trading Analytics Intern | Houston, TX | [Apply](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | 18d |
-| **Montenson** | Investment Analyst Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | 18d |
+| **Montenson** | Investment Analyst Intern | Minnesota | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23362) | 19d |
 | **Capula** | Trading and Research Intern | London, UK | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) | 21d |
 | **Belvedere Trading** | Quantitative Trading Intern - Summer 2027 | Chicago, IL | [Apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply) | 21d |
 | **Optiver** | Quantitative Intern - Summer 2027 | Austin, TX | [Apply](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) | 23d |
@@ -712,7 +712,6 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 - 🔴 🔵 **Deloitte**: DoD contracts ~$1,611,153,659 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$294,282,990 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Grant Thornton**: DoD contracts ~$88,721,861 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$48,728,897 (2021–2026, 4 awards) — source: usaspending
 - 🔴 🔵 **Leidos**: DoD contracts ~$5,364,392,668 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$2,544,100 (2021–2026, 8 awards) — source: usaspending
-- 🔴 🔵 **Motorola**: DoD contracts ~$356,926,189 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$118,546,908 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Parsons**: DoD contracts ~$9,067,614,744 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$25,410,608 (2021–2026, 10 awards) — source: usaspending
 
 </details>

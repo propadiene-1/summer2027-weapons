@@ -16,7 +16,7 @@ Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 09:33 UTC · 624 active listings
+Last updated: 2026-08-29 09:34 UTC · 624 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

@@ -1,0 +1,210 @@
+Altamira Technologies:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$203,753,295 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+AnaVation:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$138,752,762 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Appian:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$119,666,081 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+BP:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$536,469,498 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Booz Allen:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$2,466,243,307 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$279,679,007 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+CACI:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$5,443,203,703 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$411,939,436 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Deloitte:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,611,153,659 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$294,282,990 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Grant Thornton:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$88,721,861 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$48,728,897 (2021\u20132026, 4 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Gulfstream:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$480,350,372 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+HNTB:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$84,542,905 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Honeywell:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$4,992,412,246 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Humana:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$80,989,917,912 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+KPMG:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,047,444,680 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Leidos:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$5,364,392,668 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$2,544,100 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Motorola:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$356,926,189 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$118,546,908 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Nationwide:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$184,149,779 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Parsons:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$9,067,614,744 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$25,410,608 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Philips:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$127,471,415 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Polaris:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$334,850,398 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Teledyne:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$3,235,435,557 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+The Boeing Company:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$129,476,217,771 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending

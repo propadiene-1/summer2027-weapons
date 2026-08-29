@@ -6,62 +6,62 @@
 Lockheed Martin:
   flags:
     defense:
-      detail: "World's largest arms producer"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 RTX:
   flags:
     defense:
-      detail: "Major defense prime (Raytheon missiles & defense)"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 Northrop Grumman:
   flags:
     defense:
-      detail: "Major defense prime (Sentinel ICBM, B-21)"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 General Dynamics:
   flags:
     defense:
-      detail: "Major defense prime (combat vehicles, munitions)"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 Boeing:
   flags:
     defense:
-      detail: "Top-5 arms producer alongside commercial aviation"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 L3Harris:
   flags:
     defense:
-      detail: "Defense electronics and munitions (incl. Aerojet)"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 BAE Systems:
   flags:
     defense:
-      detail: "Largest European arms producer"
+      detail: ""
       source: "SIPRI Top 100"
       confirmed: true
 
 Anduril:
   flags:
     defense:
-      detail: "Autonomous weapons systems"
+      detail: ""
       source: "company website"
       confirmed: true
 
 Palantir:
   flags:
     defense:
-      detail: "Large DoD software contracts (Maven, TITAN)"
-      source: "usaspending"
+      detail: ""
+      source: "company website"
       confirmed: true

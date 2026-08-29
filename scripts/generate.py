@@ -37,8 +37,8 @@ CATEGORY_META = {
 # unverified = auto-published from suggested_annotations.yaml
 # verified   = confirmed: true in annotations.yaml
 BADGES = {
-    "defense": ("\U0001F7E1", "\U0001F480"),   # 🟡 DoD >$1M / 💀 verified
-    "ice": ("\U0001F7E0", "\U0001F940"),       # 🟠 ICE >$250k / 🥀 verified
+    "defense": ("\U0001F7E1", "\U0001F480"),   # 🟡 DoD >$50M / 💀 verified
+    "ice": ("\U0001F7E0", "\U0001F940"),       # 🟠 ICE >$1M / 🥀 verified
 }
 
 FIRE = "\U0001F525"  # 🔥 FAANG from Simplify FAANG_PLUS list
@@ -117,7 +117,7 @@ def keep(listing: dict) -> bool:
 def age_str(posted: int) -> str:
     days = int((dt.datetime.now(dt.timezone.utc).timestamp() - posted) / 86400)
     if days <= 0:
-        return "today"
+        return "0d"
     if days < 31:
         return f"{days}d"
     return f"{days // 30}mo"
@@ -138,7 +138,7 @@ def md_escape(text: str) -> str:
 
 
 def render(listings: list[dict], annotations: dict[str, dict]) -> str:
-    by_cat: dict[str, list[str]] = {c: [] for c in CATEGORY_META}
+    by_cat: dict[str, list[tuple]] = {c: [] for c in CATEGORY_META}
     flagged: dict[str, dict] = {}
     total = 0
 
@@ -156,11 +156,19 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         name_cell = f"{badge} **{md_escape(company)}**" if badge \
             else f"**{md_escape(company)}**"
         title = md_escape(l["title"])
-        locs = md_escape("; ".join(l.get("locations") or ["—"]))
-        row = (f"| {name_cell} | {title} | {locs} "
-               f"| [Apply]({l['url']}) | {age_str(l.get('date_posted', 0))} |")
-        by_cat.setdefault(l.get("category"), []).append(row)
+        # one location per line; >3 locations collapse into a dropdown
+        loc_list = [md_escape(x) for x in (l.get("locations") or ["—"])]
+        if len(loc_list) > 3:
+            locs = (f"<details><summary><strong>{len(loc_list)} locations"
+                    f"</strong></summary>" + "<br>".join(loc_list)
+                    + "</details>")
+        else:
+            locs = "<br>".join(loc_list)
+        by_cat.setdefault(l.get("category"), []).append(
+            (name_cell, title, locs, l["url"], age_str(l.get("date_posted", 0)))
+        )
         total += 1
+
 
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
@@ -171,21 +179,21 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
     )
 
     out = [
+        '<a id="top"></a>',
+        "",
         "### Summer 2027 Tech Internships",
         "",
-        "Copy of [SimplifyJobs Summer 2027 Internships]"
+        "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
         "with a flag for weapons manufacturers.",
         "",
-        "Legend:",
+        f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
-        f"- {BADGES['defense'][0]} = Any company with a DoD contract above $1M"
+        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer",
         "",
-        f"- {BADGES['ice'][0]} = Any company with ICE contract above $250k"
+        f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026)",
         "",
-        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturers"
-        "",
-        f"- {BADGES['ice'][1]} = Human-verified companies working with ICE"
+        f"- {BADGES['ice'][1]} = Human-verified companies working with ICE",
         "",
         f"- {FIRE} = FAANG+",
         "",
@@ -204,9 +212,18 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
             "",
             f"## {emoji} {label}",
             "",
+            "[\u2191 Back to top](#top)",
+            "",
+            "<details open>",
+            f"<summary>Show/hide {len(rows)} listings</summary>",
+            "",  # blank line required so the markdown table renders inside
             "| Company | Role | Location | Application | Age |",
             "| --- | --- | --- | --- | --- |",
-            *rows,
+            *(f"| {name} | {title} | {locs} "
+              f"| [Apply]({url}) | {age} |"
+              for name, title, locs, url, age in rows),
+            "",
+            "</details>",
             "",
         ]
 

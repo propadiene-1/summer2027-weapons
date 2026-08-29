@@ -9,15 +9,15 @@ from pathlib import Path
 
 import yaml
 
-from generate import UPSTREAM_URL, load_listings, normalize
+from generate import UPSTREAM_URL, keep, load_listings, normalize
 
 ROOT = Path(__file__).resolve().parent.parent
 CHECKED = ROOT / "checked_companies.yaml"
 SUGGESTED = ROOT / "suggested_annotations.yaml"
 
 USASPENDING_API = "https://api.usaspending.gov/api/v2/search/spending_by_award/"
-DOD_THRESHOLD_USD = 1_000_000   # at least 1M with DoD
-ICE_THRESHOLD_USD = 250_000     # at least 250k with ICE
+DOD_THRESHOLD_USD = 50_000_000   # at least 50M with DoD
+ICE_THRESHOLD_USD = 1_000_000     # at least 1M with ICE
 FUZZY_REVIEW_BAND = 0.85        # match ratio below which we mark "needs review"
 
 
@@ -39,6 +39,8 @@ def dod_awards(company: str) -> list[dict]: #query USAspending for DoD contracts
         },
         "fields": ["Award ID", "Recipient Name", "Award Amount"],
         "limit": 10,
+        "sort": "Award Amount",
+        "order": "desc",
         "page": 1,
     }
     req = urllib.request.Request(
@@ -61,6 +63,8 @@ def ice_awards(company: str) -> list[dict]:
         },
         "fields": ["Award ID", "Recipient Name", "Award Amount"],
         "limit": 10,
+        "sort": "Award Amount",
+        "order": "desc",
         "page": 1,
     }
     req = urllib.request.Request(
@@ -93,9 +97,9 @@ def main() -> None:
     checked = load_yaml(CHECKED)
     suggested = load_yaml(SUGGESTED)
 
-    companies = {}  # normalized -> display name, active listings only
+    companies = {}  # normalized -> display name; same filters as the README table
     for l in listings:
-        if l.get("active"):
+        if keep(l):
             companies.setdefault(normalize(l["company_name"]),
                                  l["company_name"])
 

@@ -185,9 +185,11 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
-        "with a flag for (suspected and confirmed) weapons manufacturers. ",
+        "with a flag for large defense contracts. ",
         "",
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)",
+        "",
+        "More details can be found in the Annotations section.",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
@@ -230,7 +232,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         ]
 
     out += [
-        "## Annotation notes",
+        "## Annotations",
         "",
         "<details open>",
         "<summary>Show/Hide notes</summary>",

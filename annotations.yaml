@@ -1,67 +1,87 @@
-# true = red skull; false = yellow skull
-# entries are auto-yellow until human verification
+# entries are auto-suspected until human verification
 # existing SIPRI top 100 auto-included
-# key by company name, suffix-insensitive
 
 Lockheed Martin:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$186,030,393,266 (2021-2026); World's highest-earning arms company"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
 
 RTX:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
 
 Northrop Grumman:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$56,078,399,158 (2021-2026); World's third-highest-earning arms company"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
+    ice:
+      detail: "ICE contracts ~$88,667,039 (2021-2026, 10 awards)"
+      source: "usaspending"
 
 General Dynamics:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$38,928,406,445 (2021-2026); World's fifth-highest-earning arms company"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
+    ice:
+      detail: "ICE contracts ~$242,286,824 (2021-2026, 10 awards)"
+      source: "usaspending"
 
 Boeing:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company"
+      source: "SIPRI Top 100 (2024)"
       confirmed: true
+    ice:
+      detail: "ICE contracts ~$2,863,085 (2021-2026, 2 awards)"
+      source: "usaspending"
 
 L3Harris:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$8,988,941,534 (2021-2026); World's 10th-highest-earning arms company"
+      source: "usaspending; SIPRI Top 100"
       confirmed: true
+    ice: 
+      detail: "ICE contracts ~$20,143,352 (2021-2026, 7 awards)"
+      source: "usaspending"
 
 BAE Systems:
   flags:
     defense:
-      detail: ""
-      source: "SIPRI Top 100"
+      detail: "DoD contracts ~$31,302,545,238 (2021-2026); World's fourth-highest-earning arms company"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
 
 Anduril:
   flags:
     defense:
-      detail: ""
-      source: "company website"
+      detail: "DoD contracts ~$800,452,063 (2021-2026)"
+      source: "usaspending"
       confirmed: true
 
 Palantir:
   flags:
     defense:
-      detail: ""
-      source: "company website"
+      detail: "DoD contracts ~$2,063,033,492 (2021-2026); US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade"
+      source: "usaspending; US Army Public Affairs"
+      confirmed: true
+    ice:
+      detail: "ICE contracts ~$422,588,090 (2021-2026); "
+      confirmed: true
+
+Honeywell:
+  flags:
+    defense:
+      detail: "DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in an attack killing 14 kids"
+      source: "usaspending; Al Jazeera"
       confirmed: true

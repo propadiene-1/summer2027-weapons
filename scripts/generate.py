@@ -37,8 +37,8 @@ CATEGORY_META = {
 # unverified = auto-published from suggested_annotations.yaml
 # verified   = confirmed: true in annotations.yaml
 BADGES = {
-    "defense": ("\U0001F7E1", "\U0001F480"),   # 🟡 DoD >$50M / 💀 verified
-    "ice": ("\U0001F7E0", "\U0001F940"),       # 🟠 ICE >$1M / 🥀 verified
+    "defense": ("\U0001F534", "\u2620\uFE0F"),  # 🔴 DoD >$50M / ☠️ verified
+    "ice": ("\U0001F535", "\U0001F940"),        # 🔵 ICE >$1M / 🥀 verified
 }
 
 FIRE = "\U0001F525"  # 🔥 FAANG from Simplify FAANG_PLUS list
@@ -185,7 +185,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
-        "with a flag for weapons manufacturers. ",
+        "with a flag for (suspected and confirmed) weapons manufacturers. ",
         "",
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)",
         "",

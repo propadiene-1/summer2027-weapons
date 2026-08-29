@@ -18,7 +18,7 @@ More details can be found in [Annotations](#annotations).
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 19:34 UTC · 621 active listings
+Last updated: 2026-08-29 19:36 UTC · 621 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

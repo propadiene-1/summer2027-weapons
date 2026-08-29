@@ -181,7 +181,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
     out = [
         '<a id="top"></a>',
         "",
-        "### Summer 2027 Tech Internships",
+        "## Summer 2027 Tech Internships",
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "

@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-### Summer 2027 Tech Internships
+## Summer 2027 Tech Internships
 
 [SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for weapons manufacturers.
 
@@ -14,7 +14,7 @@
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 08:39 UTC · 624 active listings
+Last updated: 2026-08-29 08:43 UTC · 624 active listings
 
 Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#ai-ml-data) · [📈 Quantitative Finance](#quant)
 

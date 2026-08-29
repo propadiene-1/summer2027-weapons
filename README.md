@@ -10,13 +10,13 @@ Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
 
 - 🔵 = Any company with ICE contracts totalling above $1M (2021-2026)
 
-- ☠️ = Human-verified weapons manufacturer
+- ☠️ = Human-verified weapons manufacturer / military intelligence company
 
-- 🥀 = Human-verified companies working with ICE
+- 🥀 = Human-verified companies building for ICE
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 09:33 UTC · 624 active listings
+Last updated: 2026-08-29 10:07 UTC · 623 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -281,7 +281,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/Hide 278 listings</summary>
+<summary>Show/Hide 277 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -402,7 +402,6 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 10d |
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | 10d |
 | 🔥 **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | 10d |
-| 🔥 **NVIDIA** | Generative AI Ph.D. Research Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | 10d |
 | 🔥 **NVIDIA** | Large Language Models Intern - Research | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | 10d |
 | 🔥 **NVIDIA** | Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | 10d |
 | 🔥 **NVIDIA** | Deep Learning Computer Architecture Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | 10d |
@@ -694,7 +693,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 - ☠️ **Honeywell**: DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in an attack killing 14 kids — source: usaspending; Al Jazeera
 - ☠️ **RTX**: DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024)
 - ☠️ 🔵 **Northrop Grumman**: DoD contracts ~$56,078,399,158 (2021-2026); World's third-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$88,667,039 (2021-2026, 10 awards) — source: usaspending
-- ☠️ 🥀 **Palantir**: DoD contracts ~$2,063,033,492 (2021-2026); US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade — source: usaspending; US Army Public Affairs; ICE contracts ~$422,588,090 (2021-2026); 
+- ☠️ 🥀 **Palantir**: DoD contracts ~$2,063,033,492 (2021-2026); including recent increase of [$795M](https://www.war.gov/News/Contracts/Contract/Article/4194643/contracts-for-may-21-2025/) for the Maven AI targeting system; US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade — source: usaspending; US Department of War; US Army Public Affairs; ICE contracts ~$422,588,090 (2021-2026); including for the [ImmigrationOS](https://sam.gov/opp/f71acee6010c423db4902446a59a690c/view) targeting system — source: usaspending; SAM.gov (US General Services Administration)
 - 🔴 **Altamira Technologies**: DoD contracts ~$203,753,295 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **AnaVation**: DoD contracts ~$138,752,762 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **Appian**: DoD contracts ~$119,666,081 (2021–2026, 10 awards) — source: usaspending

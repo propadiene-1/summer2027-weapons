@@ -72,11 +72,12 @@ Anduril:
 Palantir:
   flags:
     defense:
-      detail: "DoD contracts ~$2,063,033,492 (2021-2026); US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade"
-      source: "usaspending; US Army Public Affairs"
+      detail: "DoD contracts ~$2,063,033,492 (2021-2026); including recent increase of [$795M](https://www.war.gov/News/Contracts/Contract/Article/4194643/contracts-for-may-21-2025/) for the Maven AI targeting system; US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade"
+      source: "usaspending; US Department of War; US Army Public Affairs"
       confirmed: true
     ice:
-      detail: "ICE contracts ~$422,588,090 (2021-2026); "
+      detail: "ICE contracts ~$422,588,090 (2021-2026); including for the [ImmigrationOS](https://sam.gov/opp/f71acee6010c423db4902446a59a690c/view) targeting system"
+      source: "usaspending; SAM.gov (US General Services Administration)"
       confirmed: true
 
 Honeywell:

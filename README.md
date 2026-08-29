@@ -2,9 +2,11 @@
 
 # Summer 2027 Tech Internships
 
-[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for (suspected and confirmed) weapons manufacturers. 
+[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for large defense contracts. 
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
+
+More details can be found in the Annotations section.
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
@@ -16,7 +18,7 @@ Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 10:11 UTC · 623 active listings
+Last updated: 2026-08-29 11:39 UTC · 624 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -281,7 +283,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/Hide 277 listings</summary>
+<summary>Show/Hide 278 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -402,6 +404,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 10d |
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | 10d |
 | 🔥 **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | 10d |
+| 🔥 **NVIDIA** | Generative AI Ph.D. Research Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | 10d |
 | 🔥 **NVIDIA** | Large Language Models Intern - Research | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) | 10d |
 | 🔥 **NVIDIA** | Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) | 10d |
 | 🔥 **NVIDIA** | Deep Learning Computer Architecture Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | 10d |
@@ -685,7 +688,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 
 </details>
 
-## Annotation notes
+## Annotations
 
 <details open>
 <summary>Show/Hide notes</summary>

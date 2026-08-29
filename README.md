@@ -1,31 +1,33 @@
 <a id="top"></a>
 
-## Summer 2027 Tech Internships
+# Summer 2027 Tech Internships
 
-[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for weapons manufacturers.
+[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for weapons manufacturers. 
+
+Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)
 
 - 🟡 = Any company with DoD contracts totalling above $50M (2021-2026)
 
-- 💀 = Human-verified weapons manufacturer
-
 - 🟠 = Any company with ICE contracts totalling above $1M (2021-2026)
+
+- 💀 = Human-verified weapons manufacturer
 
 - 🥀 = Human-verified companies working with ICE
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 08:43 UTC · 624 active listings
+Last updated: 2026-08-29 08:53 UTC · 624 active listings
 
-Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#ai-ml-data) · [📈 Quantitative Finance](#quant)
+Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
 <a id="software"></a>
 
-## 💻 Software Engineering
+## Software Engineering
 
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/hide 240 listings</summary>
+<summary>Show/Hide 240 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -274,12 +276,12 @@ Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#
 
 <a id="ai-ml-data"></a>
 
-## 🤖 Data Science, AI & ML
+## Data Science, AI & ML
 
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/hide 278 listings</summary>
+<summary>Show/Hide 278 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -566,12 +568,12 @@ Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#
 
 <a id="quant"></a>
 
-## 📈 Quantitative Finance
+## Quantitative Finance
 
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/hide 106 listings</summary>
+<summary>Show/Hide 106 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -686,6 +688,9 @@ Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#
 
 ## Annotation notes
 
+<details open>
+<summary>Show/Hide notes</summary>
+
 - 💀 **Northrop Grumman**: defense — source: SIPRI Top 100
 - 💀 **Palantir**: defense — source: company website
 - 💀 **RTX**: defense — source: SIPRI Top 100
@@ -710,5 +715,7 @@ Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#
 - 🟡 🟠 **Leidos**: DoD contracts ~$5,364,392,668 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$2,544,100 (2021–2026, 8 awards) — source: usaspending
 - 🟡 🟠 **Motorola**: DoD contracts ~$356,926,189 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$118,546,908 (2021–2026, 10 awards) — source: usaspending
 - 🟡 🟠 **Parsons**: DoD contracts ~$9,067,614,744 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$25,410,608 (2021–2026, 10 awards) — source: usaspending
+
+</details>
 
 Listing data from [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) (CC BY-NC 4.0).

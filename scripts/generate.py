@@ -173,7 +173,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     nav = " · ".join(
-        f"[{emoji} {label}](#{anchor})"
+        f"[{label}](#{anchor})"
         for cat, (emoji, label, anchor) in CATEGORY_META.items()
         if by_cat.get(cat)
     )
@@ -181,17 +181,19 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
     out = [
         '<a id="top"></a>',
         "",
-        "## Summer 2027 Tech Internships",
+        "# Summer 2027 Tech Internships",
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
-        "with a flag for weapons manufacturers.",
+        "with a flag for weapons manufacturers. ",
+        "",
+        "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
-        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer",
-        "",
         f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026)",
+        "",
+        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer",
         "",
         f"- {BADGES['ice'][1]} = Human-verified companies working with ICE",
         "",
@@ -210,12 +212,12 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         out += [
             f'<a id="{anchor}"></a>',
             "",
-            f"## {emoji} {label}",
+            f"## {label}",
             "",
             "[\u2191 Back to top](#top)",
             "",
             "<details open>",
-            f"<summary>Show/hide {len(rows)} listings</summary>",
+            f"<summary>Show/Hide {len(rows)} listings</summary>",
             "",  # blank line required so the markdown table renders inside
             "| Company | Role | Location | Application | Age |",
             "| --- | --- | --- | --- | --- |",
@@ -230,6 +232,9 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
     out += [
         "## Annotation notes",
         "",
+        "<details open>",
+        "<summary>Show/Hide notes</summary>",
+        "",  # blank line required so the markdown renders inside
         *(sorted(
             f"- {emoji_for(flagged[c])} **{c}**: " + "; ".join(
                 (f.get("detail", "") or fname)
@@ -242,11 +247,14 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
             ) for c in flagged
         ) or ["_No annotated companies in the current listings._"]),
         "",
+        "</details>",
+        "",
         "Listing data from [SimplifyJobs/Summer2027-Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
         "(CC BY-NC 4.0).",
         "",
     ]
+
     return "\n".join(out)
 
 

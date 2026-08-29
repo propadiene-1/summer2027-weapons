@@ -10,7 +10,7 @@ Legend:
 - 🥀 = Human-verified companies working with ICE
 - 🔥 = FAANG+
 
-Last updated: 2026-08-29 07:38 UTC · 626 active listings
+Last updated: 2026-08-29 07:39 UTC · 626 active listings
 
 Browse: [💻 Software Engineering](#software) · [🤖 Data Science, AI & ML](#ai-ml-data) · [📈 Quantitative Finance](#quant)
 

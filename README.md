@@ -14,7 +14,7 @@ Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). De
 
 - 🥀 = Human-verified companies building for ICE
 
-- ⚪ = Human-cleared (working for the DoD, but not weapons/surveillance)
+- ⚪ = Human-cleared (not weapons/surveillance)
 
 - 🔥 = FAANG+
 

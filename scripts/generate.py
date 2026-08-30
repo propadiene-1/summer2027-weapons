@@ -187,9 +187,10 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
         "with a flag for large defense contracts. ",
         "",
-        "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/)",
+        "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). "
+        "Details for each company can be found in [Annotations](#annotations).",
         "",
-        "More details can be found in [Annotations](#annotations).",
+        "This is intended as a starting point for research. The flags are based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). ",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
@@ -233,6 +234,8 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
 
     out += [
         "## Annotations",
+        "",
+        "Details for each company are listed below. The program sums the top 10 largest contracts from the past 5 years, so some companies may have much more in DoD contracts than represented here.",
         "",
         "<details open>",
         "<summary>Show/Hide notes</summary>",

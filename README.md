@@ -10,7 +10,7 @@ This is intended as a starting point for research. I recommend looking into each
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
-- 🔵 = Any company with ICE contracts totalling above $1M (2021-2026) (not including Customs and Border Patrol)
+- 🔵 = Any company with ICE contracts totalling above $1M (2021-2026) (not including CBP)
 
 - ☠️ = Human-verified weapons manufacturer / military surveillance tech
 
@@ -20,7 +20,7 @@ This is intended as a starting point for research. I recommend looking into each
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 21:13 UTC · 617 active listings
+Last updated: 2026-08-30 21:14 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

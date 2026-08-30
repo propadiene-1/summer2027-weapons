@@ -18,7 +18,7 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 20:40 UTC · 617 active listings
+Last updated: 2026-08-30 20:41 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

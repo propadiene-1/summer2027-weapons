@@ -37,8 +37,8 @@ CATEGORY_META = {
 # unverified = auto-published from suggested_annotations.yaml
 # verified   = confirmed: true in annotations.yaml
 BADGES = {
-    "defense": ("\U0001F534", "\u2620\uFE0F"),  # 🔴 DoD >$50M / ☠️ verified
-    "ice": ("\U0001F535", "\U0001F940"),        # 🔵 ICE >$1M / 🥀 verified
+    "defense": ("\U0001F534", "\u2620\uFE0F", "\u26AA"),  # 🔴 / ☠️ / ⚪
+    "ice": ("\U0001F535", "\U0001F940", "\u26AA"),        # 🔵 / 🥀 / ⚪
 }
 
 FIRE = "\U0001F525"  # 🔥 FAANG from Simplify FAANG_PLUS list
@@ -123,14 +123,19 @@ def age_str(posted: int) -> str:
     return f"{days // 30}mo"
 
 def emoji_for(annotation: dict) -> str:
-    # one badge per flag; a company can carry several (e.g. 💀 🟠)
+    # one badge per flag: unverified / verified / cleared
     out = []
     for fname, f in (annotation.get("flags") or {}).items():
         pair = BADGES.get(fname)
         if not pair:
             continue
-        verified = isinstance(f, dict) and f.get("confirmed")
-        out.append(pair[1] if verified else pair[0])
+        f = f if isinstance(f, dict) else {}
+        if f.get("cleared"):
+            out.append(pair[2])
+        elif f.get("confirmed"):
+            out.append(pair[1])
+        else:
+            out.append(pair[0])
     return " ".join(out)
 
 def md_escape(text: str) -> str:
@@ -190,7 +195,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). "
         "Details for each company can be found in [Annotations](#annotations).",
         "",
-        "This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). ",
+        "This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. ",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
@@ -199,6 +204,8 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer / military surveillance tech",
         "",
         f"- {BADGES['ice'][1]} = Human-verified companies building for ICE",
+        "",
+        f"- {BADGES['defense'][2]} = Human-cleared: working for the DoD, but not weapons/surveillance",
         "",
         f"- {FIRE} = FAANG+",
         "",

@@ -6,7 +6,7 @@
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). Details for each company can be found in [Annotations](#annotations).
 
-This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). 
+This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. 
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
@@ -16,9 +16,11 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🥀 = Human-verified companies building for ICE
 
+- ⚪ = Human-cleared: working for the DoD, but not weapons/surveillance
+
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 20:43 UTC · 617 active listings
+Last updated: 2026-08-30 21:02 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -290,8 +292,8 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Northwood Space** | Supply Chain Data & Analytics Intern | LA<br>Torrance, CA | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true) | 1d |
 | **Charles Schwab** | Data Engineering Intern - Data Engineering | Austin, TX<br>Westlake, TX<br>Southlake, TX | [Apply](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | 1d |
 | **Vertiv** | Service Technology Research Intern - Summer 2027 | Westerville, OH | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | 1d |
-| **CSX** | Engineering Intern - Positive Train Control - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826) | 1d |
-| **CSX** | Technology Intern - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54806) | 1d |
+| **CSX** | Engineering Intern - Positive Train Control - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826) | 2d |
+| **CSX** | Technology Intern - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54806) | 2d |
 | **CSX** | Intermodal Intern - Summer 2027 - Paid | Jacksonville, FL | [Apply](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817) | 2d |
 | **The Walt Disney Company** | Pricing & Product Development Intern - Spring 2027 | Lake Buena Vista, FL | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Pricing---Product-Development-Intern--Spring-2027_10158266) | 2d |
 | **Iberdrola Group** | Technology – Cyber & Data Intern | <details><summary><strong>6 locations</strong></summary>Boston, MA<br>Rochester, NY<br>Augusta, ME<br>Orange, CT<br>Portland, OR<br>Portland, ME</details> | [Apply](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/XMLNAME-2027-Technology--Cyber---Data-Internship-Program_R-32747) | 2d |
@@ -399,7 +401,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Verition Fund Management** | Technology Intern | <details><summary><strong>6 locations</strong></summary>Greenwich, CT<br>Houston, TX<br>Miami, FL<br>Chicago, IL<br>Norwalk, CT<br>NYC</details> | [Apply](https://www.verition.com/open-positions?gh_jid=5214784007) | 10d |
 | **Allegheny County** | Business Analytics Intern | Pittsburgh, PA | [Apply](https://alleghenycounty.bamboohr.com/careers/663/) | 10d |
 | **Zipline** | Computational Physics Intern - Summer 2027 | South SF | [Apply](https://www.zipline.com/open-roles?gh_jid=7904720003) | 10d |
-| 🔥 **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670875283026053381) | 10d |
+| 🔥 **TikTok** | Machine Learning MLOps Intern - Global Site Reliability Engineering | San Jose, CA | [Apply](https://lifeattiktok.com/search/7670875283026053381) | 11d |
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | [Apply](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | 11d |
 | 🔥 **ByteDance** | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | [Apply](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | 11d |
 | 🔥 **NVIDIA** | Ph.D. Research Autonomous Vehicles Intern | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | 11d |
@@ -477,8 +479,8 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | 🔥 **TikTok** | Data Engineer Intern - Monetization Data | San Jose, CA | [Apply](https://lifeattiktok.com/search/7671232204182276405) | 20d |
 | **PSP Investments** | AI Solutions Intern - External Manager Selection & Monitoring | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | 20d |
 | **LPL Financial Holdings** | Data Engineer Intern - Data | Austin, TX<br>Fort Mill, SC<br>Charlotte, NC | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | 20d |
-| 🔴 **HNTB** | Strategic Technology Intern - SED Division | Tampa, FL<br>Tallahassee, FL | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) | 21d |
-| 🔴 **HNTB** | Strategic Technology Intern - SED Division | Tampa, FL<br>Tallahassee, FL | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1) | 21d |
+| ⚪ **HNTB** | Strategic Technology Intern - SED Division | Tampa, FL<br>Tallahassee, FL | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) | 21d |
+| ⚪ **HNTB** | Strategic Technology Intern - SED Division | Tampa, FL<br>Tallahassee, FL | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092-1) | 21d |
 | **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group | London, UK | [Apply](https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004) | 22d |
 | **Epic Games** | Machine Learning Intern | Canada<br>United Kingdom<br>United States | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 22d |
 | **Epic Games** | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | 22d |
@@ -577,7 +579,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
-| **Schroders** | Public Markets Quants Intern - Quants (Public Markets) | London, UK | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | 1d |
+| **Schroders** | Public Markets Quants Intern - Quants (Public Markets) | London, UK | [Apply](https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941) | 2d |
 | **Mackenzie Investments** | Investment Management Intern - Canadian Equities | Winnipeg, MB, Canada | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/5993/job?mobile=true&needsRedirect=false) | 3d |
 | **WhiteWater Midstream** | Trading Operations Intern - Summer 2027 | Austin, TX | [Apply](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007) | 4d |
 | **DV Trading** | Futures & Options Trading Analyst Intern - Summer 2027 | NYC | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) | 4d |
@@ -691,14 +693,14 @@ Details for each company are listed below. The program sums the top 10 largest c
 - ☠️ **Honeywell**: DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children — source: usaspending; Al Jazeera
 - ☠️ **RTX**: DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024)
 - ☠️ 🔵 **Northrop Grumman**: DoD contracts ~$56,078,399,158 (2021-2026); World's third-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$88,667,039 (2021-2026, 10 awards) — source: usaspending
-- ☠️ 🔵 **The Boeing Company**: DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company — source: SIPRI Top 100 (2024); ICE contracts ~$2,863,085 (2021-2026, 2 awards) — source: usaspending
+- ☠️ 🔵 **The Boeing Company**: DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$2,863,085 (2021-2026, 2 awards) — source: usaspending
 - ☠️ 🥀 **Palantir**: DoD contracts ~$2,063,033,492 (2021-2026); including recent increase of [$795M](https://www.war.gov/News/Contracts/Contract/Article/4194643/contracts-for-may-21-2025/) for the Maven AI targeting system; US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade — source: usaspending; US Department of War; US Army Public Affairs; ICE contracts ~$422,588,090 (2021-2026); including for the [ImmigrationOS](https://sam.gov/opp/f71acee6010c423db4902446a59a690c/view) targeting system — source: usaspending; SAM.gov (US General Services Administration)
+- ⚪ **HNTB**: DoD contracts ~$84,542,905 (2021–2026, 8 awards); Mostly for facilities construction, public works and Arlington National Cemetery — source: usaspending
 - 🔴 **Altamira Technologies**: DoD contracts ~$203,753,295 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **AnaVation**: DoD contracts ~$138,752,762 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **Appian**: DoD contracts ~$119,666,081 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **BP**: DoD contracts ~$536,469,498 (2021–2026, 9 awards) — source: usaspending
 - 🔴 **Gulfstream**: DoD contracts ~$480,350,372 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **HNTB**: DoD contracts ~$84,542,905 (2021–2026, 8 awards) — source: usaspending
 - 🔴 **Humana**: DoD contracts ~$80,989,917,912 (2021–2026, 6 awards) — source: usaspending
 - 🔴 **KPMG**: DoD contracts ~$1,047,444,680 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **Nationwide**: DoD contracts ~$184,149,779 (2021–2026, 10 awards) — source: usaspending

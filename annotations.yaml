@@ -39,13 +39,13 @@ The Boeing Company:
   flags:
     defense:
       detail: "DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company"
-      source: "SIPRI Top 100 (2024)"
+      source: "usaspending; SIPRI Top 100 (2024)"
       confirmed: true
     ice:
       detail: "ICE contracts ~$2,863,085 (2021-2026, 2 awards)"
       source: "usaspending"
 
-L3Harris:
+L3Harris Technologies:
   flags:
     defense:
       detail: "DoD contracts ~$8,988,941,534 (2021-2026); World's 10th-highest-earning arms company"
@@ -86,3 +86,10 @@ Honeywell:
       detail: "DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children"
       source: "usaspending; Al Jazeera"
       confirmed: true
+HNTB:
+  flags:
+    defense:
+      confirmed: false
+      cleared: true
+      detail: "DoD contracts ~$84,542,905 (2021\u20132026, 8 awards); Mostly for facilities construction, public works and Arlington National Cemetery"
+      source: "usaspending"

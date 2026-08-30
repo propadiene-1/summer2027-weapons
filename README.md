@@ -6,8 +6,6 @@
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). Details for each company can be found in [Annotations](#annotations).
 
-This is intended as a starting point for research. I recommend looking into each company yourself. 
-
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
 - 🔵 = Any company with ICE contracts totalling above $1M (2021-2026) (not including CBP)
@@ -20,7 +18,9 @@ This is intended as a starting point for research. I recommend looking into each
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 21:14 UTC · 617 active listings
+This is intended as a starting point for research. Since the main flag is based on raw DoD contract amounts, there may be some variation. 
+
+Last updated: 2026-08-30 21:25 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -74,7 +74,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **The Hartford** | Software Engineer Intern - Technology, Data, AI, and Operations | Charlotte, NC | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649) | 4d |
 | **DTCC** | Application Developer Intern | Tampa, FL<br>Dallas, TX<br>Jersey City, NJ | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459) | 4d |
 | **Zip** | Software Engineer Intern | SF | [Apply](https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true) | 4d |
-| **The Voleon Group** | Software Engineer Intern | Berkeley, CA<br>NYC | [Apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true) | 4d |
+| **The Voleon Group** | Software Engineer Intern | Berkeley, CA<br>NYC | [Apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true) | 5d |
 | **Compeer Financial** | Engineering Intern | Sun Prairie, WI<br>Mankato, MN<br>Bloomington, IL | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008) | 5d |
 | **Compeer Financial** | Engineering Intern | Sun Prairie, WI | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008) | 5d |
 | **Compeer Financial** | Engineering Intern | Lakeville, MN<br>Mankato, MN | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008) | 5d |

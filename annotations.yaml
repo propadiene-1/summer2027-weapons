@@ -84,7 +84,7 @@ Honeywell:
   flags:
     defense:
       detail: "DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children"
-      source: "usaspending; Al Jazeera"
+      source: "usaspending"
       confirmed: true
 HNTB:
   flags:

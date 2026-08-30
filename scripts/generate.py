@@ -239,6 +239,32 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
             "",
         ]
 
+    def note_line(c):
+        parts = []
+        for fname, f in (flagged[c].get("flags") or {}).items():
+            f = f if isinstance(f, dict) else {}
+            detail = f.get("detail", "") or fname
+            src = f.get("source", "")
+            parts.append(detail + (f" — source: {src}" if src else ""))
+        return f"- {emoji_for(flagged[c])} **{c}**: " + "; ".join(parts)
+
+    def note_rank(c):
+        # 0 = verified defense (☠️), 1 = verified ice (🥀),
+        # 2 = unverified circles, 3 = fully cleared (⚪)
+        flags = {k: (f if isinstance(f, dict) else {})
+                 for k, f in (flagged[c].get("flags") or {}).items()}
+        live = {k: f for k, f in flags.items() if not f.get("cleared")}
+        if not live:
+            return 3
+        if flags.get("defense", {}).get("confirmed"):
+            return 0
+        if flags.get("ice", {}).get("confirmed"):
+            return 1
+        return 2
+
+    notes = [note_line(c)
+             for c in sorted(flagged, key=lambda c: (note_rank(c), c.lower()))]
+    
     out += [
         "## Annotations",
         "",
@@ -247,17 +273,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "<details open>",
         "<summary>Show/Hide notes</summary>",
         "",  # blank line required so the markdown renders inside
-        *(sorted(
-            f"- {emoji_for(flagged[c])} **{c}**: " + "; ".join(
-                (f.get("detail", "") or fname)
-                + (f" — source: {f.get('source')}" if isinstance(f, dict)
-                   and f.get("source") else "")
-                for fname, f in (
-                    (fname, f if isinstance(f, dict) else {})
-                    for fname, f in
-                    (flagged[c].get("flags") or {}).items())
-            ) for c in flagged
-        ) or ["_No annotated companies in the current listings._"]),
+        *(notes or ["_No annotated companies in the current listings._"]),
         "",
         "</details>",
         "",

@@ -20,7 +20,7 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 21:02 UTC · 617 active listings
+Last updated: 2026-08-30 21:09 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -79,7 +79,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Compeer Financial** | Engineering Intern | Sun Prairie, WI | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405015008) | 4d |
 | **Compeer Financial** | Engineering Intern | Lakeville, MN<br>Mankato, MN | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008) | 4d |
 | **Compeer Financial** | Engineering Intern | Sun Prairie, WI<br>Mankato, MN<br>Bloomington, IL | [Apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404994008) | 4d |
-| **Empirical Foods** | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | [Apply](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) | 4d |
+| **Empirical Foods** | Software Engineer Intern - Summer 2027 | Dakota Dunes, SD | [Apply](https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false) | 5d |
 | **Nokia** | Software Engineer Co-op - Deepfield | Ann Arbor, MI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908) | 5d |
 | **Verkada** | Mobile Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 5d |
 | **Verkada** | Security Software Engineer Intern | San Mateo, CA | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | 5d |
@@ -337,9 +337,9 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Repsol** | Production Allocation Engineering Intern | The Woodlands, TX | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1) | 4d |
 | **Repsol** | Development Planning Engineer Intern | The Woodlands, TX | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1) | 4d |
 | **DTCC** | Data Solutions Intern - Internship Program | Boston, MA<br>Tampa, FL | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214478) | 4d |
-| ☠️ **Honeywell** | Artificial Intelligence/Machine Learning Intern | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | 4d |
-| ☠️ **Honeywell** | Information Systems Intern - IT - Cyber Engineer & Data Science | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554) | 4d |
-| ☠️ **Honeywell** | Information Systems Intern - Multiple Teams | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555) | 4d |
+| ☠️ **Honeywell** | Artificial Intelligence/Machine Learning Intern | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | 5d |
+| ☠️ **Honeywell** | Information Systems Intern - IT - Cyber Engineer & Data Science | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554) | 5d |
+| ☠️ **Honeywell** | Information Systems Intern - Multiple Teams | United States | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555) | 5d |
 | **Rystad Energy** | Analyst Intern - Summer 2027 | Houston, TX | [Apply](https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply) | 5d |
 | **Cigna Group** | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386) | 5d |
 | **Brunswick** | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238) | 5d |
@@ -691,29 +691,29 @@ Details for each company are listed below. The program sums the top 10 largest c
 <summary>Show/Hide notes</summary>
 
 - ☠️ **Honeywell**: DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children — source: usaspending; Al Jazeera
-- ☠️ **RTX**: DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024)
 - ☠️ 🔵 **Northrop Grumman**: DoD contracts ~$56,078,399,158 (2021-2026); World's third-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$88,667,039 (2021-2026, 10 awards) — source: usaspending
-- ☠️ 🔵 **The Boeing Company**: DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$2,863,085 (2021-2026, 2 awards) — source: usaspending
 - ☠️ 🥀 **Palantir**: DoD contracts ~$2,063,033,492 (2021-2026); including recent increase of [$795M](https://www.war.gov/News/Contracts/Contract/Article/4194643/contracts-for-may-21-2025/) for the Maven AI targeting system; US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade — source: usaspending; US Department of War; US Army Public Affairs; ICE contracts ~$422,588,090 (2021-2026); including for the [ImmigrationOS](https://sam.gov/opp/f71acee6010c423db4902446a59a690c/view) targeting system — source: usaspending; SAM.gov (US General Services Administration)
-- ⚪ **HNTB**: DoD contracts ~$84,542,905 (2021–2026, 8 awards); Mostly for facilities construction, public works and Arlington National Cemetery — source: usaspending
+- ☠️ **RTX**: DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024)
+- ☠️ 🔵 **The Boeing Company**: DoD contracts ~$133,621,762,176 (2021-2026, 10 awards); World's sixth-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$2,863,085 (2021-2026, 2 awards) — source: usaspending
 - 🔴 **Altamira Technologies**: DoD contracts ~$203,753,295 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **AnaVation**: DoD contracts ~$138,752,762 (2021–2026, 10 awards) — source: usaspending
 - 🔴 **Appian**: DoD contracts ~$119,666,081 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **BP**: DoD contracts ~$536,469,498 (2021–2026, 9 awards) — source: usaspending
-- 🔴 **Gulfstream**: DoD contracts ~$480,350,372 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **Humana**: DoD contracts ~$80,989,917,912 (2021–2026, 6 awards) — source: usaspending
-- 🔴 **KPMG**: DoD contracts ~$1,047,444,680 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **Nationwide**: DoD contracts ~$184,149,779 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **Philips**: DoD contracts ~$127,471,415 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **Polaris**: DoD contracts ~$334,850,398 (2021–2026, 10 awards) — source: usaspending
-- 🔴 **Teledyne**: DoD contracts ~$3,235,435,557 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Booz Allen**: DoD contracts ~$2,466,243,307 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$279,679,007 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **BP**: DoD contracts ~$536,469,498 (2021–2026, 9 awards) — source: usaspending
 - 🔴 🔵 **CACI**: DoD contracts ~$5,443,203,703 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$411,939,436 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Deloitte**: DoD contracts ~$1,611,153,659 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$294,282,990 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Grant Thornton**: DoD contracts ~$88,721,861 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$48,728,897 (2021–2026, 4 awards) — source: usaspending
+- 🔴 **Gulfstream**: DoD contracts ~$480,350,372 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **Humana**: DoD contracts ~$80,989,917,912 (2021–2026, 6 awards) — source: usaspending
+- 🔴 **KPMG**: DoD contracts ~$1,047,444,680 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Leidos**: DoD contracts ~$5,364,392,668 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$2,544,100 (2021–2026, 8 awards) — source: usaspending
 - 🔴 🔵 **Motorola**: DoD contracts ~$356,926,189 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$118,546,908 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **Nationwide**: DoD contracts ~$184,149,779 (2021–2026, 10 awards) — source: usaspending
 - 🔴 🔵 **Parsons**: DoD contracts ~$9,067,614,744 (2021–2026, 10 awards) — source: usaspending; ICE contracts ~$25,410,608 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **Philips**: DoD contracts ~$127,471,415 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **Polaris**: DoD contracts ~$334,850,398 (2021–2026, 10 awards) — source: usaspending
+- 🔴 **Teledyne**: DoD contracts ~$3,235,435,557 (2021–2026, 10 awards) — source: usaspending
+- ⚪ **HNTB**: DoD contracts ~$84,542,905 (2021–2026, 8 awards); Mostly for facilities construction, public works and Arlington National Cemetery — source: usaspending
 
 </details>
 

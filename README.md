@@ -2,23 +2,23 @@
 
 # Summer 2027 Tech Internships
 
-[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with a flag for large defense contracts. 
+[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with flags for large defense contracts and human-verified weapons manufacturers. 
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). Details for each company can be found in [Annotations](#annotations).
 
-This is intended as a starting point for research. The flags are based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). 
+This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). 
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
-- 🔵 = Any company with ICE contracts totalling above $1M (2021-2026)
+- 🔵 = Any company with ICE contracts totalling above $1M (2021-2026) (not including Customs and Border Patrol)
 
-- ☠️ = Human-verified weapons manufacturer / military intelligence company
+- ☠️ = Human-verified weapons manufacturer / military surveillance tech
 
 - 🥀 = Human-verified companies building for ICE
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 20:29 UTC · 617 active listings
+Last updated: 2026-08-30 20:40 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

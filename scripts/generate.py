@@ -185,18 +185,18 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
-        "with a flag for large defense contracts. ",
+        "with flags for large defense contracts and human-verified weapons manufacturers. ",
         "",
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). "
         "Details for each company can be found in [Annotations](#annotations).",
         "",
-        "This is intended as a starting point for research. The flags are based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). ",
+        "This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. (For example, HNTB primarily does civil infrastructure while Boeing manufactures bombs). ",
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
-        f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026)",
+        f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026) (not including Customs and Border Patrol)",
         "",
-        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer / military intelligence company",
+        f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer / military surveillance tech",
         "",
         f"- {BADGES['ice'][1]} = Human-verified companies building for ICE",
         "",

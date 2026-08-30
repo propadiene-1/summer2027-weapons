@@ -20,7 +20,7 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 21:09 UTC · 617 active listings
+Last updated: 2026-08-30 21:10 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -690,7 +690,7 @@ Details for each company are listed below. The program sums the top 10 largest c
 <details open>
 <summary>Show/Hide notes</summary>
 
-- ☠️ **Honeywell**: DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children — source: usaspending; Al Jazeera
+- ☠️ **Honeywell**: DoD contracts ~$4,992,412,246 (2021–2026); Honeywell component [reportedly](https://www.aljazeera.com/news/2024/6/6/us-weapons-parts-used-in-israeli-attack-on-gaza-school-al-jazeera-analysis) found in a missile attack killing 14 children — source: usaspending
 - ☠️ 🔵 **Northrop Grumman**: DoD contracts ~$56,078,399,158 (2021-2026); World's third-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024); ICE contracts ~$88,667,039 (2021-2026, 10 awards) — source: usaspending
 - ☠️ 🥀 **Palantir**: DoD contracts ~$2,063,033,492 (2021-2026); including recent increase of [$795M](https://www.war.gov/News/Contracts/Contract/Article/4194643/contracts-for-may-21-2025/) for the Maven AI targeting system; US Army contract capped at [$10B](https://www.army.mil/article/287506/u_s_army_awards_enterprise_service_agreement_to_enhance_military_readiness_and_drive_operational_efficiency) over the next decade — source: usaspending; US Department of War; US Army Public Affairs; ICE contracts ~$422,588,090 (2021-2026); including for the [ImmigrationOS](https://sam.gov/opp/f71acee6010c423db4902446a59a690c/view) targeting system — source: usaspending; SAM.gov (US General Services Administration)
 - ☠️ **RTX**: DoD contracts ~$43,832,007,676 (2021-2026); World's second-highest-earning arms company — source: usaspending; SIPRI Top 100 (2024)

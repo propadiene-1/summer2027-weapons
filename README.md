@@ -18,7 +18,7 @@ This is intended as a starting point for research. The flags are based on raw Do
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 20:28 UTC · 617 active listings
+Last updated: 2026-08-30 20:29 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -87,7 +87,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **The Hartford** | Software Engineer Intern - Technology & Data | Columbus, OH | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) | 5d |
 | **Brunswick** | Systems Engineer Co-op - Software Engineering | Fond du Lac, WI | [Apply](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212) | 5d |
 | **BTI360** | Software Engineer Intern | Herndon, VA | [Apply](https://job-boards.greenhouse.io/bti36021/jobs/8155152) | 5d |
-| **Springs Window Fashions** | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | [Apply](https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false) | 5d |
+| **Springs Window Fashions** | Software Engineering Intern - Summer 2027 | Long Island City, Queens, NY | [Apply](https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false) | 6d |
 | **Sage** | Software Engineer Intern - Full Stack | NYC | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131185004) | 6d |
 | **Sage** | Software Engineer Intern - Edge - Summer 2027 | NYC | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131191004) | 6d |
 | **Westinghouse Electric Company** | Computer Engineering / Software Engineering Intern | Cranberry Township, PA | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors) | 6d |

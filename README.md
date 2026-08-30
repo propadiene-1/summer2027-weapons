@@ -2,7 +2,7 @@
 
 # Summer 2027 Tech Internships
 
-[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with flags for large defense contracts and human-verified weapons manufacturers. 
+[SimplifyJobs Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) with flags for large defense contracts and weapons manufacturers. 
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). Details for each company can be found in [Annotations](#annotations).
 
@@ -18,7 +18,7 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 20:41 UTC · 617 active listings
+Last updated: 2026-08-30 20:43 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

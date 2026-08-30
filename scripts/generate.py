@@ -185,7 +185,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         "[SimplifyJobs Summer 2027 Internships]"
         "(https://github.com/SimplifyJobs/Summer2027-Internships) "
-        "with flags for large defense contracts and human-verified weapons manufacturers. ",
+        "with flags for large defense contracts and weapons manufacturers. ",
         "",
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). "
         "Details for each company can be found in [Annotations](#annotations).",

@@ -6,7 +6,7 @@
 
 Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). Details for each company can be found in [Annotations](#annotations).
 
-This is intended as a starting point for research. The main flag is based on raw DoD contract amounts, so I recommend looking into each company yourself. 
+This is intended as a starting point for research. I recommend looking into each company yourself. 
 
 - 🔴 = Any company with DoD contracts totalling above $50M (2021-2026)
 
@@ -16,11 +16,11 @@ This is intended as a starting point for research. The main flag is based on raw
 
 - 🥀 = Human-verified companies building for ICE
 
-- ⚪ = Human-cleared: working for the DoD, but not weapons/surveillance
+- ⚪ = Human-cleared (working for the DoD, but not weapons/surveillance)
 
 - 🔥 = FAANG+
 
-Last updated: 2026-08-30 21:10 UTC · 617 active listings
+Last updated: 2026-08-30 21:13 UTC · 617 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 

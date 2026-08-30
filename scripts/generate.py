@@ -195,8 +195,6 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). "
         "Details for each company can be found in [Annotations](#annotations).",
         "",
-        "This is intended as a starting point for research. I recommend looking into each company yourself. ",
-        "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
         f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026) (not including CBP)",
@@ -208,6 +206,8 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         f"- {BADGES['defense'][2]} = Human-cleared (working for the DoD, but not weapons/surveillance)",
         "",
         f"- {FIRE} = FAANG+",
+        "",
+        "This is intended as a starting point for research. Since the main flag is based on raw DoD contract amounts, there may be some variation. ",
         "",
         f"Last updated: {now} · {total} active listings",
         "",

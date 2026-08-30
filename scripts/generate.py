@@ -199,7 +199,7 @@ def render(listings: list[dict], annotations: dict[str, dict]) -> str:
         "",
         f"- {BADGES['defense'][0]} = Any company with DoD contracts totalling above $50M (2021-2026)",
         "",
-        f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026) (not including Customs and Border Patrol)",
+        f"- {BADGES['ice'][0]} = Any company with ICE contracts totalling above $1M (2021-2026) (not including CBP)",
         "",
         f"- {BADGES['defense'][1]} = Human-verified weapons manufacturer / military surveillance tech",
         "",

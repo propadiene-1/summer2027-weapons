@@ -58,6 +58,14 @@ CACI:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Cardinal Health:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$87,509,025 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Deloitte:
   flags:
     defense:

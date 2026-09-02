@@ -1,3 +1,11 @@
+AeroVironment:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,649,811,104 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Altamira Technologies:
   flags:
     defense:
@@ -66,6 +74,14 @@ Cardinal Health:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Citi:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$196,687,045 (2021\u20132026, 3 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Deloitte:
   flags:
     defense:
@@ -77,6 +93,14 @@ Deloitte:
     ice:
       confirmed: false
       detail: "ICE contracts ~$294,282,990 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Dev Technology Group:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$212,101,027 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -134,6 +158,14 @@ KPMG:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Kinder Morgan:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$89,193,116 (2021\u20132026, 1 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Leidos:
   flags:
     defense:
@@ -145,6 +177,20 @@ Leidos:
     ice:
       confirmed: false
       detail: "ICE contracts ~$2,544,100 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Microsoft:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,293,774,228 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$11,562,601 (2021\u20132026, 8 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

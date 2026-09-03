@@ -104,6 +104,14 @@ Dev Technology Group:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+GlobalFoundries:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,096,832,869 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Grant Thornton:
   flags:
     defense:
@@ -150,6 +158,14 @@ Humana:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Intel:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$6,000,000 (2021\u20132026, 2 awards)"
+      match_confidence: 0.91
+      needs_review: true
+      source: usaspending
 KPMG:
   flags:
     defense:
@@ -177,6 +193,14 @@ Leidos:
     ice:
       confirmed: false
       detail: "ICE contracts ~$2,544,100 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+McKesson:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$9,316,709 (2021\u20132026, 2 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -254,11 +278,27 @@ Qorvo:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Sierra:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$6,937,617,096 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Teledyne:
   flags:
     defense:
       confirmed: false
       detail: "DoD contracts ~$3,235,435,557 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Textron:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$20,345,127,829 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

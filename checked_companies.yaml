@@ -10,10 +10,14 @@ aig:
   checked: '2026-09-02'
 air products:
   checked: '2026-08-29'
+alberta investment management:
+  checked: '2026-09-03'
 alixpartners:
   checked: '2026-08-29'
 allegheny county:
   checked: '2026-08-29'
+allied solutions:
+  checked: '2026-09-03'
 altamira technologies:
   checked: '2026-08-29'
 amd:
@@ -50,6 +54,8 @@ atoms:
   checked: '2026-08-29'
 auto owners insurance:
   checked: '2026-08-29'
+baird:
+  checked: '2026-09-03'
 belvedere trading:
   checked: '2026-08-29'
 berrydunn:
@@ -102,6 +108,8 @@ citi:
   checked: '2026-09-02'
 clarios:
   checked: '2026-09-02'
+clorox:
+  checked: '2026-09-03'
 cno financial:
   checked: '2026-08-29'
 commerce bank:
@@ -114,6 +122,8 @@ continental resources:
   checked: '2026-08-29'
 corning:
   checked: '2026-09-02'
+crum forster insurance:
+  checked: '2026-09-03'
 csx:
   checked: '2026-08-29'
 ctgt:
@@ -198,6 +208,8 @@ general motors:
   checked: '2026-09-02'
 genworth financial:
   checked: '2026-08-29'
+globalfoundries:
+  checked: '2026-09-03'
 glossgenius:
   checked: '2026-08-29'
 goldman sachs:
@@ -210,6 +222,10 @@ guidewell mutual:
   checked: '2026-08-29'
 gulfstream:
   checked: '2026-08-29'
+hadrian:
+  checked: '2026-09-03'
+hd supply:
+  checked: '2026-09-03'
 heliux:
   checked: '2026-08-29'
 hermeus:
@@ -244,6 +260,8 @@ infinitequant:
   checked: '2026-08-29'
 ingredion:
   checked: '2026-09-02'
+intel:
+  checked: '2026-09-03'
 intuit:
   checked: '2026-08-29'
 isn software:
@@ -286,6 +304,8 @@ mastercard:
   checked: '2026-08-29'
 maven securities:
   checked: '2026-08-29'
+mckesson:
+  checked: '2026-09-03'
 medline:
   checked: '2026-09-01'
 medpace:
@@ -310,6 +330,8 @@ montenson:
   checked: '2026-08-29'
 motorola:
   checked: '2026-08-29'
+national information solutions cooperative:
+  checked: '2026-09-03'
 nationwide:
   checked: '2026-08-29'
 newrez:
@@ -356,12 +378,18 @@ philips:
   checked: '2026-08-29'
 pimco:
   checked: '2026-08-29'
+poet:
+  checked: '2026-09-03'
 polaris:
   checked: '2026-08-29'
+post:
+  checked: '2026-09-03'
 pricewaterhousecoopers pwc:
   checked: '2026-08-29'
 procter gamble:
   checked: '2026-08-29'
+protiviti:
+  checked: '2026-09-03'
 prudential financial:
   checked: '2026-08-29'
 psp investments:
@@ -374,16 +402,22 @@ quadrillion:
   checked: '2026-08-29'
 quantbot technologies:
   checked: '2026-08-29'
+ragle:
+  checked: '2026-09-03'
 regions bank:
   checked: '2026-08-29'
 repsol:
   checked: '2026-08-29'
+robert bosch venture capital:
+  checked: '2026-09-03'
 roblox:
   checked: '2026-08-29'
 royal bank of canada:
   checked: '2026-08-29'
 rrs:
   checked: '2026-08-29'
+rsm:
+  checked: '2026-09-03'
 ryan companies:
   checked: '2026-08-29'
 rystad energy:
@@ -394,32 +428,48 @@ salesforce:
   checked: '2026-08-29'
 schroders:
   checked: '2026-08-29'
+shure:
+  checked: '2026-09-03'
+sierra:
+  checked: '2026-09-03'
+southern star central gas pipeline:
+  checked: '2026-09-03'
 spacex:
   checked: '2026-08-29'
 specter aerospace:
   checked: '2026-08-29'
 springs window fashions:
   checked: '2026-08-29'
+steel dynamics:
+  checked: '2026-09-03'
 stepstone:
   checked: '2026-08-29'
+stoke space:
+  checked: '2026-09-03'
 stryker:
   checked: '2026-08-31'
 susquehanna international:
   checked: '2026-08-29'
 susquehanna international sig:
   checked: '2026-08-29'
+tarrant regional water district:
+  checked: '2026-09-03'
 teledyne:
   checked: '2026-08-29'
 telus digital:
   checked: '2026-08-29'
 tesla:
   checked: '2026-08-29'
+textron:
+  checked: '2026-09-03'
 the boeing:
   checked: '2026-08-29'
 the federal reserve system:
   checked: '2026-08-29'
 the hartford:
   checked: '2026-08-29'
+the home depot:
+  checked: '2026-09-03'
 the nuclear:
   checked: '2026-08-29'
 the trade desk:

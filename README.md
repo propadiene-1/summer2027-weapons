@@ -20,7 +20,7 @@ Contract amounts are pulled from [usaspending.gov](https://usaspending.gov/). De
 
 This is intended as a starting point for research. Since the main flag is based on raw DoD contract amounts, there may be some variation. 
 
-Last updated: 2026-09-04 19:03 UTC · 927 active listings
+Last updated: 2026-09-04 19:04 UTC · 926 active listings
 
 Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data) · [Quantitative Finance](#quant)
 
@@ -856,7 +856,7 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 [↑ Back to top](#top)
 
 <details open>
-<summary>Show/Hide 130 listings</summary>
+<summary>Show/Hide 129 listings</summary>
 
 | Company | Role | Location | Application | Age |
 | --- | --- | --- | --- | --- |
@@ -940,7 +940,6 @@ Browse: [Software Engineering](#software) · [Data Science, AI & ML](#ai-ml-data
 | **Virtu Financial** | Quantitative Trading Intern | Austin, TX<br>Chicago, IL<br>NYC | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | 1mo |
 | **Chicago Trading Company** | Quant Trading Intern | London, UK | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | 1mo |
 | **AQR Capital Management** | Trading Analyst Intern | Greenwich, CT | [Apply](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | 1mo |
-| **Castleton Commodities International** | Commodities Trading Analyst Internship | Houston, TX<br>Stamford, CT | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1) | 1mo |
 | **Castleton Commodities International** | Commodities Trading Analyst Intern | London, UK | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1) | 1mo |
 | **Chicago Trading Company** | Quant Trading Intern | Chicago, IL | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | 1mo |
 | **Optiver** | Trading Automation and Operations Intern | Chicago, IL | [Apply](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | 1mo |

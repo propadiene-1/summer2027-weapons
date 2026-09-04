@@ -14,11 +14,27 @@ Altamira Technologies:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Amazon:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$554,895,565 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 AnaVation:
   flags:
     defense:
       confirmed: false
       detail: "DoD contracts ~$138,752,762 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Apex:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$157,298,677 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -74,6 +90,14 @@ Cardinal Health:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Caterpillar:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$408,594,008 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Citi:
   flags:
     defense:
@@ -101,6 +125,20 @@ Dev Technology Group:
     ice:
       confirmed: false
       detail: "ICE contracts ~$212,101,027 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Ernst & Young:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$2,013,523,865 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$20,572,939 (2021\u20132026, 6 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -254,6 +292,14 @@ Parsons:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Pennsylvania State University:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$689,728,198 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Philips:
   flags:
     defense:
@@ -278,11 +324,27 @@ Qorvo:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Saab:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,280,299,440 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Sierra:
   flags:
     defense:
       confirmed: false
       detail: "DoD contracts ~$6,937,617,096 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Sierra Nevada Corporation:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,200,894,886 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

@@ -38,7 +38,7 @@ CATEGORY_META = {
 # verified   = confirmed: true in annotations.yaml
 BADGES = {
     "defense": ("\U0001F534", "\u2620\uFE0F", "\u26AA"),  # 🔴 / ☠️ / ⚪
-    "ice": ("\U0001F535", "\U0001F940", "\u26AA"),        # 🔵 / 🥀 / ⚪
+    "ice": ("\U0001F535", "\U0001F9CA", "\u26AA"),        # 🔵 / 🧊 / ⚪ \U0001F940
 }
 
 FIRE = "\U0001F525"  # 🔥 FAANG from Simplify FAANG_PLUS list

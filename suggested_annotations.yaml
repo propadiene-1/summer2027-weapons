@@ -82,6 +82,14 @@ CACI:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+CDM Smith:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$153,382,130 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Cardinal Health:
   flags:
     defense:
@@ -106,6 +114,14 @@ Citi:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Cox:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$338,020,298 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Deloitte:
   flags:
     defense:
@@ -125,6 +141,14 @@ Dev Technology Group:
     ice:
       confirmed: false
       detail: "ICE contracts ~$212,101,027 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Entergy:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$121,732,227 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -212,6 +236,14 @@ KPMG:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Keysight Technologies:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$64,877,946 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Kinder Morgan:
   flags:
     defense:
@@ -253,6 +285,14 @@ Microsoft:
     ice:
       confirmed: false
       detail: "ICE contracts ~$11,562,601 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Moderna:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$9,993,306,277 (2021\u20132026, 2 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -329,6 +369,14 @@ Saab:
     defense:
       confirmed: false
       detail: "DoD contracts ~$1,280,299,440 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Scale AI:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$124,011,641 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

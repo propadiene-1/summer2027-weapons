@@ -44,6 +44,8 @@ apex:
   checked: '2026-09-04'
 appian:
   checked: '2026-08-29'
+applied materials:
+  checked: '2026-09-05'
 aqr capital management:
   checked: '2026-08-29'
 aquatic capital management:
@@ -64,6 +66,8 @@ axq capital:
   checked: '2026-09-04'
 baird:
   checked: '2026-09-03'
+bank of montreal:
+  checked: '2026-09-05'
 barclays:
   checked: '2026-09-04'
 belvedere trading:
@@ -106,10 +110,14 @@ castleton commodities international:
   checked: '2026-08-29'
 caterpillar:
   checked: '2026-09-04'
+cdm smith:
+  checked: '2026-09-05'
 charles schwab:
   checked: '2026-08-29'
 chicago trading:
   checked: '2026-08-29'
+cibc:
+  checked: '2026-09-05'
 cigna:
   checked: '2026-08-29'
 circleback:
@@ -134,6 +142,8 @@ continental resources:
   checked: '2026-08-29'
 corning:
   checked: '2026-09-02'
+cox:
+  checked: '2026-09-05'
 crum forster insurance:
   checked: '2026-09-03'
 csx:
@@ -182,6 +192,10 @@ ellipsis labs:
   checked: '2026-08-29'
 empirical foods:
   checked: '2026-08-29'
+enfos:
+  checked: '2026-09-05'
+entergy:
+  checked: '2026-09-05'
 epic games:
   checked: '2026-08-29'
 ernst young:
@@ -222,6 +236,8 @@ ge vernova:
   checked: '2026-08-29'
 geico:
   checked: '2026-09-02'
+general dynamics uk:
+  checked: '2026-09-05'
 general matter:
   checked: '2026-08-29'
 general motors:
@@ -238,6 +254,8 @@ google:
   checked: '2026-08-29'
 grant thornton:
   checked: '2026-08-29'
+greenheck:
+  checked: '2026-09-05'
 guidewell mutual:
   checked: '2026-08-29'
 gulfstream:
@@ -270,12 +288,18 @@ hudson river trading:
   checked: '2026-08-29'
 humana:
   checked: '2026-08-29'
+hunt oil:
+  checked: '2026-09-05'
 huntington bancshares:
   checked: '2026-08-29'
+hy vee:
+  checked: '2026-09-05'
 iat insurance:
   checked: '2026-09-01'
 iberdrola:
   checked: '2026-08-29'
+id me:
+  checked: '2026-09-05'
 imc trading:
   checked: '2026-08-29'
 imeg:
@@ -306,6 +330,8 @@ jump trading:
   checked: '2026-08-29'
 keybank:
   checked: '2026-08-29'
+keysight technologies:
+  checked: '2026-09-05'
 kinder morgan:
   checked: '2026-09-02'
 kpmg:
@@ -352,6 +378,8 @@ microsoft:
   checked: '2026-09-02'
 mks instruments:
   checked: '2026-08-29'
+moderna:
+  checked: '2026-09-05'
 momentive:
   checked: '2026-09-01'
 montenson:
@@ -394,6 +422,8 @@ panasonic:
   checked: '2026-09-01'
 parsons:
   checked: '2026-08-29'
+paypal:
+  checked: '2026-09-05'
 pdt partners:
   checked: '2026-08-29'
 pella:
@@ -402,6 +432,8 @@ pennsylvania state university:
   checked: '2026-09-04'
 perpay:
   checked: '2026-09-02'
+perry homes:
+  checked: '2026-09-05'
 persona ai:
   checked: '2026-08-29'
 pgim:
@@ -444,10 +476,14 @@ regions bank:
   checked: '2026-08-29'
 repsol:
   checked: '2026-08-29'
+rivian and volkswagen technologies:
+  checked: '2026-09-05'
 robert bosch venture capital:
   checked: '2026-09-03'
 roblox:
   checked: '2026-08-29'
+rovisys:
+  checked: '2026-09-05'
 royal bank of canada:
   checked: '2026-08-29'
 rrs:
@@ -464,6 +500,10 @@ sage:
   checked: '2026-08-29'
 salesforce:
   checked: '2026-08-29'
+scale ai:
+  checked: '2026-09-05'
+schonfeld:
+  checked: '2026-09-05'
 schroders:
   checked: '2026-08-29'
 shure:
@@ -514,6 +554,8 @@ textron:
   checked: '2026-09-03'
 the boeing:
   checked: '2026-08-29'
+the exploration:
+  checked: '2026-09-05'
 the federal reserve system:
   checked: '2026-08-29'
 the hartford:
@@ -530,12 +572,20 @@ the walt disney:
   checked: '2026-08-29'
 tiktok:
   checked: '2026-08-29'
+tjx:
+  checked: '2026-09-05'
 tmeic americas:
   checked: '2026-08-29'
 tower research capital:
   checked: '2026-08-29'
+trane technologies:
+  checked: '2026-09-05'
+transcard payments:
+  checked: '2026-09-05'
 transmarket:
   checked: '2026-08-29'
+travelers:
+  checked: '2026-09-05'
 trillium:
   checked: '2026-08-29'
 two sigma:

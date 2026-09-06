@@ -420,3 +420,11 @@ The Boeing Company:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+United Parcel Service:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$188,080,088 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending

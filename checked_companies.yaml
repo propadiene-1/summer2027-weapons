@@ -92,6 +92,8 @@ boston scientific:
   checked: '2026-09-02'
 bp:
   checked: '2026-08-29'
+brevan howard:
+  checked: '2026-09-07'
 brunswick:
   checked: '2026-08-29'
 bti360:
@@ -176,6 +178,8 @@ draftkings:
   checked: '2026-09-01'
 drivetime:
   checked: '2026-09-04'
+dropbox:
+  checked: '2026-09-07'
 drw:
   checked: '2026-08-29'
 dtcc:
@@ -300,12 +304,16 @@ iat insurance:
   checked: '2026-09-01'
 iberdrola:
   checked: '2026-08-29'
+icf international:
+  checked: '2026-09-07'
 id me:
   checked: '2026-09-05'
 imc trading:
   checked: '2026-08-29'
 imeg:
   checked: '2026-08-29'
+incident io:
+  checked: '2026-09-07'
 infinitequant:
   checked: '2026-08-29'
 ingredion:
@@ -354,6 +362,8 @@ marmon:
   checked: '2026-08-29'
 marsh:
   checked: '2026-08-29'
+marsh mclennan:
+  checked: '2026-09-07'
 marshall wace:
   checked: '2026-08-29'
 mastercard:
@@ -412,6 +422,8 @@ nucor:
   checked: '2026-09-04'
 nvidia:
   checked: '2026-08-29'
+nxp semiconductors:
+  checked: '2026-09-07'
 old mission:
   checked: '2026-08-29'
 ontario teachers pension plan:
@@ -578,6 +590,8 @@ tjx:
   checked: '2026-09-05'
 tmeic americas:
   checked: '2026-08-29'
+tokyo electron:
+  checked: '2026-09-07'
 tower research capital:
   checked: '2026-08-29'
 trane technologies:
@@ -642,6 +656,8 @@ wipfli:
   checked: '2026-09-06'
 xantium:
   checked: '2026-08-29'
+xcel energy:
+  checked: '2026-09-07'
 zip:
   checked: '2026-08-29'
 zipline:

@@ -274,6 +274,14 @@ McKesson:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Merck:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$2,213,406,616 (2021\u20132026, 3 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Microsoft:
   flags:
     defense:

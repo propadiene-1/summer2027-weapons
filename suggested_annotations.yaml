@@ -54,6 +54,14 @@ BP:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Boeing:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$133,621,762,176 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Booz Allen:
   flags:
     defense:
@@ -163,6 +171,14 @@ Ernst & Young:
     ice:
       confirmed: false
       detail: "ICE contracts ~$20,572,939 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+General Dynamics Mission Systems:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$6,315,050,307 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -348,6 +364,20 @@ Pennsylvania State University:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Peraton:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$3,579,352,594 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$220,598,288 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Philips:
   flags:
     defense:
@@ -369,6 +399,20 @@ Qorvo:
     defense:
       confirmed: false
       detail: "DoD contracts ~$70,236,856 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+SECURE:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$553,350,895 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$223,096,966 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -401,6 +445,14 @@ Sierra Nevada Corporation:
     defense:
       confirmed: false
       detail: "DoD contracts ~$1,200,894,886 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Spirit AeroSystems:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$83,530,136 (2021\u20132026, 7 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

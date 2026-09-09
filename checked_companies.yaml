@@ -1,5 +1,7 @@
 aarete:
   checked: '2026-09-06'
+abb:
+  checked: '2026-09-09'
 abbvie:
   checked: '2026-08-29'
 adobe:
@@ -20,6 +22,8 @@ alixpartners:
   checked: '2026-08-29'
 allegheny county:
   checked: '2026-08-29'
+allen control systems:
+  checked: '2026-09-09'
 allied solutions:
   checked: '2026-09-03'
 altamira technologies:
@@ -86,6 +90,8 @@ bluecross blueshield of nebraska:
   checked: '2026-09-01'
 bny:
   checked: '2026-08-29'
+boeing:
+  checked: '2026-09-09'
 booz allen:
   checked: '2026-08-29'
 bosch home comfort:
@@ -100,8 +106,12 @@ brunswick:
   checked: '2026-08-29'
 bti360:
   checked: '2026-08-29'
+burlington stores:
+  checked: '2026-09-09'
 bytedance:
   checked: '2026-08-29'
+c h robinson:
+  checked: '2026-09-09'
 c3 ai:
   checked: '2026-09-01'
 caci:
@@ -138,6 +148,8 @@ clorox:
   checked: '2026-09-03'
 cno financial:
   checked: '2026-08-29'
+coinbase:
+  checked: '2026-09-09'
 commerce bank:
   checked: '2026-08-29'
 compeer financial:
@@ -148,6 +160,8 @@ continental resources:
   checked: '2026-08-29'
 corning:
   checked: '2026-09-02'
+country financial:
+  checked: '2026-09-09'
 cox:
   checked: '2026-09-05'
 crum forster insurance:
@@ -160,6 +174,8 @@ cvent:
   checked: '2026-09-01'
 cybernetic labs:
   checked: '2026-08-29'
+datadog:
+  checked: '2026-09-09'
 dee zee:
   checked: '2026-08-29'
 deloitte:
@@ -208,6 +224,8 @@ entergy:
   checked: '2026-09-05'
 epic games:
   checked: '2026-08-29'
+ercot:
+  checked: '2026-09-09'
 ernst young:
   checked: '2026-09-04'
 eulerity:
@@ -234,6 +252,8 @@ fti consulting:
   checked: '2026-08-29'
 g research:
   checked: '2026-08-29'
+gallup:
+  checked: '2026-09-09'
 garda capital partners:
   checked: '2026-08-29'
 ge aerospace:
@@ -246,6 +266,8 @@ ge vernova:
   checked: '2026-08-29'
 geico:
   checked: '2026-09-02'
+general dynamics mission systems:
+  checked: '2026-09-09'
 general dynamics uk:
   checked: '2026-09-05'
 general matter:
@@ -342,6 +364,8 @@ jp morgan chase:
   checked: '2026-08-29'
 jump trading:
   checked: '2026-08-29'
+k2 space:
+  checked: '2026-09-09'
 keybank:
   checked: '2026-08-29'
 keysight technologies:
@@ -382,6 +406,8 @@ medpace:
   checked: '2026-08-29'
 medtronic:
   checked: '2026-08-29'
+meijer:
+  checked: '2026-09-09'
 melius:
   checked: '2026-08-29'
 merchants bank of indiana:
@@ -408,6 +434,10 @@ national information solutions cooperative:
   checked: '2026-09-03'
 nationwide:
   checked: '2026-08-29'
+navy federal:
+  checked: '2026-09-09'
+neighbor:
+  checked: '2026-09-09'
 newrez:
   checked: '2026-09-02'
 nike:
@@ -432,6 +462,8 @@ nxp semiconductors:
   checked: '2026-09-07'
 old mission:
   checked: '2026-08-29'
+one finance:
+  checked: '2026-09-09'
 ontario teachers pension plan:
   checked: '2026-08-29'
 oppenheimer:
@@ -450,6 +482,8 @@ pella:
   checked: '2026-09-02'
 pennsylvania state university:
   checked: '2026-09-04'
+peraton:
+  checked: '2026-09-09'
 perpay:
   checked: '2026-09-02'
 perry homes:
@@ -476,6 +510,8 @@ principal financial:
   checked: '2026-09-04'
 procter gamble:
   checked: '2026-08-29'
+protective life:
+  checked: '2026-09-09'
 protiviti:
   checked: '2026-09-03'
 prudential financial:
@@ -496,6 +532,10 @@ regions bank:
   checked: '2026-08-29'
 repsol:
   checked: '2026-08-29'
+revel:
+  checked: '2026-09-09'
+rf smart:
+  checked: '2026-09-09'
 rivian and volkswagen technologies:
   checked: '2026-09-05'
 robert bosch venture capital:
@@ -526,6 +566,10 @@ schonfeld:
   checked: '2026-09-05'
 schroders:
   checked: '2026-08-29'
+secure:
+  checked: '2026-09-09'
+semgrep:
+  checked: '2026-09-09'
 shure:
   checked: '2026-09-03'
 sierra:
@@ -542,6 +586,8 @@ spacex:
   checked: '2026-08-29'
 specter aerospace:
   checked: '2026-08-29'
+spirit aerosystems:
+  checked: '2026-09-09'
 springs window fashions:
   checked: '2026-08-29'
 state farm:
@@ -560,6 +606,8 @@ susquehanna international sig:
   checked: '2026-08-29'
 t rowe price:
   checked: '2026-09-04'
+talos:
+  checked: '2026-09-09'
 tarrant regional water district:
   checked: '2026-09-03'
 td bank:
@@ -612,6 +660,8 @@ travelers:
   checked: '2026-09-05'
 trillium:
   checked: '2026-08-29'
+trimble:
+  checked: '2026-09-09'
 twg global:
   checked: '2026-09-06'
 two sigma:

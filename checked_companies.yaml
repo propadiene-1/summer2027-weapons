@@ -76,6 +76,10 @@ bank of montreal:
   checked: '2026-09-05'
 barclays:
   checked: '2026-09-04'
+barnes thornburg:
+  checked: '2026-09-10'
+barr:
+  checked: '2026-09-10'
 belvedere trading:
   checked: '2026-08-29'
 berrydunn:
@@ -150,18 +154,24 @@ cno financial:
   checked: '2026-08-29'
 coinbase:
   checked: '2026-09-09'
+collier aerospace:
+  checked: '2026-09-10'
 commerce bank:
   checked: '2026-08-29'
 compeer financial:
   checked: '2026-08-29'
 conocophillips:
   checked: '2026-08-29'
+constellation energy:
+  checked: '2026-09-10'
 continental resources:
   checked: '2026-08-29'
 corning:
   checked: '2026-09-02'
 country financial:
   checked: '2026-09-09'
+covestro:
+  checked: '2026-09-10'
 cox:
   checked: '2026-09-05'
 crum forster insurance:
@@ -178,8 +188,12 @@ datadog:
   checked: '2026-09-09'
 dee zee:
   checked: '2026-08-29'
+dell technologies:
+  checked: '2026-09-10'
 deloitte:
   checked: '2026-08-29'
+delta dental of iowa:
+  checked: '2026-09-10'
 deutsche bank:
   checked: '2026-08-29'
 dev technology:
@@ -194,6 +208,8 @@ dimensional fund advisors:
   checked: '2026-08-29'
 directv:
   checked: '2026-09-04'
+domino data lab:
+  checked: '2026-09-10'
 draftkings:
   checked: '2026-09-01'
 drivetime:
@@ -236,6 +252,8 @@ fannie mae:
   checked: '2026-08-29'
 fast enterprises:
   checked: '2026-08-29'
+federated insurance:
+  checked: '2026-09-10'
 fifth third bank:
   checked: '2026-09-01'
 finastra:
@@ -306,6 +324,8 @@ hilton worldwide:
   checked: '2026-09-04'
 hitachi:
   checked: '2026-08-29'
+hmh:
+  checked: '2026-09-10'
 hntb:
   checked: '2026-08-29'
 honeywell:
@@ -338,6 +358,8 @@ imc trading:
   checked: '2026-08-29'
 imeg:
   checked: '2026-08-29'
+immuta:
+  checked: '2026-09-10'
 incident io:
   checked: '2026-09-07'
 infinitequant:
@@ -366,6 +388,8 @@ jump trading:
   checked: '2026-08-29'
 k2 space:
   checked: '2026-09-09'
+kensho:
+  checked: '2026-09-10'
 keybank:
   checked: '2026-08-29'
 keysight technologies:
@@ -454,6 +478,8 @@ northwood space:
   checked: '2026-08-29'
 notion:
   checked: '2026-08-29'
+nova tech:
+  checked: '2026-09-10'
 nucor:
   checked: '2026-09-04'
 nvidia:
@@ -470,6 +496,10 @@ oppenheimer:
   checked: '2026-09-02'
 optiver:
   checked: '2026-08-29'
+ovintiv:
+  checked: '2026-09-10'
+pacific fusion:
+  checked: '2026-09-10'
 panasonic:
   checked: '2026-09-01'
 parsons:
@@ -494,8 +524,12 @@ pgim:
   checked: '2026-08-29'
 philips:
   checked: '2026-08-29'
+pilot:
+  checked: '2026-09-10'
 pimco:
   checked: '2026-08-29'
+planview:
+  checked: '2026-09-10'
 poet:
   checked: '2026-09-03'
 polaris:
@@ -518,6 +552,8 @@ prudential financial:
   checked: '2026-08-29'
 psp investments:
   checked: '2026-08-29'
+publicis groupe:
+  checked: '2026-09-10'
 pylon:
   checked: '2026-08-29'
 qorvo:
@@ -554,12 +590,16 @@ ryan companies:
   checked: '2026-08-29'
 rystad energy:
   checked: '2026-08-29'
+s p global:
+  checked: '2026-09-10'
 saab:
   checked: '2026-09-04'
 sage:
   checked: '2026-08-29'
 salesforce:
   checked: '2026-08-29'
+saronic:
+  checked: '2026-09-10'
 scale ai:
   checked: '2026-09-05'
 schonfeld:
@@ -570,6 +610,8 @@ secure:
   checked: '2026-09-09'
 semgrep:
   checked: '2026-09-09'
+shield ai:
+  checked: '2026-09-10'
 shure:
   checked: '2026-09-03'
 sierra:
@@ -620,6 +662,8 @@ tesla:
   checked: '2026-08-29'
 textron:
   checked: '2026-09-03'
+the aerospace:
+  checked: '2026-09-10'
 the boeing:
   checked: '2026-08-29'
 the exploration:
@@ -650,6 +694,8 @@ tokyo electron:
   checked: '2026-09-07'
 tower research capital:
   checked: '2026-08-29'
+tradeweb:
+  checked: '2026-09-10'
 trane technologies:
   checked: '2026-09-05'
 transcard payments:
@@ -666,6 +712,8 @@ twg global:
   checked: '2026-09-06'
 two sigma:
   checked: '2026-08-29'
+u s bank:
+  checked: '2026-09-10'
 uline:
   checked: '2026-08-29'
 united airlines:
@@ -676,6 +724,8 @@ united parcel service:
   checked: '2026-09-06'
 universal health services:
   checked: '2026-09-06'
+usaa:
+  checked: '2026-09-10'
 vanguard:
   checked: '2026-08-29'
 verisk:

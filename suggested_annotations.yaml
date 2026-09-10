@@ -122,6 +122,14 @@ Citi:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Constellation Energy:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$144,919,489 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Cox:
   flags:
     defense:
@@ -469,6 +477,14 @@ Textron:
     defense:
       confirmed: false
       detail: "DoD contracts ~$20,345,127,829 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+The Aerospace Corporation:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$12,859,733,149 (2021\u20132026, 2 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

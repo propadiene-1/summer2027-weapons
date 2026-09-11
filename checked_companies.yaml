@@ -80,6 +80,8 @@ barnes thornburg:
   checked: '2026-09-10'
 barr:
   checked: '2026-09-10'
+bedrock robotics:
+  checked: '2026-09-11'
 belvedere trading:
   checked: '2026-08-29'
 berrydunn:
@@ -146,6 +148,8 @@ citadel:
   checked: '2026-08-29'
 citi:
   checked: '2026-09-02'
+citizens financial:
+  checked: '2026-09-11'
 clarios:
   checked: '2026-09-02'
 clorox:
@@ -184,6 +188,8 @@ cvent:
   checked: '2026-09-01'
 cybernetic labs:
   checked: '2026-08-29'
+danaher:
+  checked: '2026-09-11'
 datadog:
   checked: '2026-09-09'
 dee zee:
@@ -232,6 +238,8 @@ elk valley resources:
   checked: '2026-08-29'
 ellipsis labs:
   checked: '2026-08-29'
+emerson electric:
+  checked: '2026-09-11'
 empirical foods:
   checked: '2026-08-29'
 enfos:
@@ -292,6 +300,8 @@ general matter:
   checked: '2026-08-29'
 general motors:
   checked: '2026-09-02'
+geneva trading:
+  checked: '2026-09-11'
 genworth financial:
   checked: '2026-08-29'
 globalfoundries:
@@ -336,6 +346,8 @@ hp iq:
   checked: '2026-09-01'
 hpr hyannis port research:
   checked: '2026-08-29'
+hudl:
+  checked: '2026-09-11'
 hudson river trading:
   checked: '2026-08-29'
 humana:
@@ -360,6 +372,8 @@ imeg:
   checked: '2026-08-29'
 immuta:
   checked: '2026-09-10'
+impulse space:
+  checked: '2026-09-11'
 incident io:
   checked: '2026-09-07'
 infinitequant:
@@ -390,6 +404,8 @@ k2 space:
   checked: '2026-09-09'
 kensho:
   checked: '2026-09-10'
+ketjen:
+  checked: '2026-09-11'
 keybank:
   checked: '2026-08-29'
 keysight technologies:
@@ -608,6 +624,8 @@ schroders:
   checked: '2026-08-29'
 secure:
   checked: '2026-09-09'
+securian financial:
+  checked: '2026-09-11'
 semgrep:
   checked: '2026-09-09'
 shield ai:
@@ -650,6 +668,10 @@ t rowe price:
   checked: '2026-09-04'
 talos:
   checked: '2026-09-09'
+tanium:
+  checked: '2026-09-11'
+target:
+  checked: '2026-09-11'
 tarrant regional water district:
   checked: '2026-09-03'
 td bank:
@@ -674,8 +696,12 @@ the hartford:
   checked: '2026-08-29'
 the home depot:
   checked: '2026-09-03'
+the mj companies:
+  checked: '2026-09-11'
 the nuclear:
   checked: '2026-08-29'
+the toro:
+  checked: '2026-09-11'
 the trade desk:
   checked: '2026-08-29'
 the voleon:
@@ -732,14 +758,20 @@ verisk:
   checked: '2026-09-06'
 verition fund management:
   checked: '2026-08-29'
+verizon communications:
+  checked: '2026-09-11'
 verkada:
   checked: '2026-08-29'
 vermeer:
   checked: '2026-09-06'
 vertiv:
   checked: '2026-08-29'
+viam:
+  checked: '2026-09-11'
 virtu financial:
   checked: '2026-08-29'
+visier solutions:
+  checked: '2026-09-11'
 voloridge:
   checked: '2026-08-29'
 w w grainger:
@@ -752,6 +784,10 @@ waymo:
   checked: '2026-09-06'
 wec energy:
   checked: '2026-08-29'
+wellington management:
+  checked: '2026-09-11'
+wellmark:
+  checked: '2026-09-11'
 wells fargo:
   checked: '2026-08-29'
 western southern financial:
@@ -768,6 +804,8 @@ xantium:
   checked: '2026-08-29'
 xcel energy:
   checked: '2026-09-07'
+zions bank:
+  checked: '2026-09-11'
 zip:
   checked: '2026-08-29'
 zipline:

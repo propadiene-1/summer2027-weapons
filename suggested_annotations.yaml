@@ -464,6 +464,14 @@ Spirit AeroSystems:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Target:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$98,029,662 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Teledyne:
   flags:
     defense:

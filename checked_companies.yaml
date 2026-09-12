@@ -10,6 +10,8 @@ aerotech:
   checked: '2026-09-01'
 aerovironment:
   checked: '2026-09-02'
+aes:
+  checked: '2026-09-12'
 aig:
   checked: '2026-09-02'
 air products:
@@ -38,6 +40,8 @@ american express:
   checked: '2026-08-29'
 ameriprise financial:
   checked: '2026-09-02'
+amgen:
+  checked: '2026-09-12'
 analysis:
   checked: '2026-08-29'
 anavation:
@@ -68,6 +72,8 @@ atoms:
   checked: '2026-08-29'
 auto owners insurance:
   checked: '2026-08-29'
+avis budget:
+  checked: '2026-09-12'
 axq capital:
   checked: '2026-09-04'
 baird:
@@ -162,6 +168,8 @@ collier aerospace:
   checked: '2026-09-10'
 commerce bank:
   checked: '2026-08-29'
+commure:
+  checked: '2026-09-12'
 compeer financial:
   checked: '2026-08-29'
 conocophillips:
@@ -172,6 +180,8 @@ continental resources:
   checked: '2026-08-29'
 corning:
   checked: '2026-09-02'
+corteva:
+  checked: '2026-09-12'
 country financial:
   checked: '2026-09-09'
 covestro:
@@ -238,10 +248,14 @@ elk valley resources:
   checked: '2026-08-29'
 ellipsis labs:
   checked: '2026-08-29'
+emc insurance:
+  checked: '2026-09-12'
 emerson electric:
   checked: '2026-09-11'
 empirical foods:
   checked: '2026-08-29'
+energy transfer partners:
+  checked: '2026-09-12'
 enfos:
   checked: '2026-09-05'
 entergy:
@@ -362,6 +376,8 @@ iat insurance:
   checked: '2026-09-01'
 iberdrola:
   checked: '2026-08-29'
+ibotta:
+  checked: '2026-09-12'
 icf international:
   checked: '2026-09-07'
 id me:
@@ -414,6 +430,8 @@ kinder morgan:
   checked: '2026-09-02'
 kpmg:
   checked: '2026-08-29'
+labcorp:
+  checked: '2026-09-12'
 land o lakes:
   checked: '2026-09-04'
 lawrence livermore national laboratory llnl:
@@ -422,6 +440,8 @@ leidos:
   checked: '2026-08-29'
 lpl financial:
   checked: '2026-08-29'
+lyft:
+  checked: '2026-09-12'
 mackenzie investments:
   checked: '2026-08-29'
 manulife financial:
@@ -446,6 +466,8 @@ medpace:
   checked: '2026-08-29'
 medtronic:
   checked: '2026-08-29'
+megazonecloud:
+  checked: '2026-09-12'
 meijer:
   checked: '2026-09-09'
 melius:
@@ -512,6 +534,8 @@ oppenheimer:
   checked: '2026-09-02'
 optiver:
   checked: '2026-08-29'
+oshkosh:
+  checked: '2026-09-12'
 ovintiv:
   checked: '2026-09-10'
 pacific fusion:
@@ -576,6 +600,8 @@ qorvo:
   checked: '2026-08-31'
 quadrillion:
   checked: '2026-08-29'
+qualcomm:
+  checked: '2026-09-12'
 quantbot technologies:
   checked: '2026-08-29'
 ragle:
@@ -650,6 +676,8 @@ spirit aerosystems:
   checked: '2026-09-09'
 springs window fashions:
   checked: '2026-08-29'
+stand together:
+  checked: '2026-09-12'
 state farm:
   checked: '2026-09-04'
 steel dynamics:
@@ -692,6 +720,8 @@ the exploration:
   checked: '2026-09-05'
 the federal reserve system:
   checked: '2026-08-29'
+the friedkin:
+  checked: '2026-09-12'
 the hartford:
   checked: '2026-08-29'
 the home depot:
@@ -734,6 +764,8 @@ trillium:
   checked: '2026-08-29'
 trimble:
   checked: '2026-09-09'
+ttp:
+  checked: '2026-09-12'
 twg global:
   checked: '2026-09-06'
 two sigma:
@@ -754,6 +786,8 @@ usaa:
   checked: '2026-09-10'
 vanguard:
   checked: '2026-08-29'
+veeam software:
+  checked: '2026-09-12'
 verisk:
   checked: '2026-09-06'
 verition fund management:
@@ -804,6 +838,8 @@ xantium:
   checked: '2026-08-29'
 xcel energy:
   checked: '2026-09-07'
+xcimer energy:
+  checked: '2026-09-12'
 zions bank:
   checked: '2026-09-11'
 zip:

@@ -350,6 +350,14 @@ Nationwide:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Oshkosh:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$12,526,745,141 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Parsons:
   flags:
     defense:

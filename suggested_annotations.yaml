@@ -1,3 +1,11 @@
+3M:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$150,490,761 (2021\u20132026, 3 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 AeroVironment:
   flags:
     defense:
@@ -182,6 +190,20 @@ Ernst & Young:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+General Dynamics Information Technology:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$3,107,748,943 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$191,963,176 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 General Dynamics Mission Systems:
   flags:
     defense:
@@ -220,6 +242,14 @@ Gulfstream:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+HF Sinclair:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$104,609,880 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 HNTB:
   flags:
     defense:
@@ -241,6 +271,14 @@ Humana:
     defense:
       confirmed: false
       detail: "DoD contracts ~$80,989,917,912 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Huntington Ingalls Industries:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$48,183,079,210 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

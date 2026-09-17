@@ -28,6 +28,8 @@ allegheny county:
   checked: '2026-08-29'
 allen control systems:
   checked: '2026-09-09'
+alliance laundry systems:
+  checked: '2026-09-17'
 allied solutions:
   checked: '2026-09-03'
 altamira technologies:
@@ -54,8 +56,12 @@ anheuser busch:
   checked: '2026-08-29'
 anthelion capital:
   checked: '2026-08-29'
+apera ai:
+  checked: '2026-09-17'
 apex:
   checked: '2026-09-04'
+apex analytix:
+  checked: '2026-09-17'
 appian:
   checked: '2026-08-29'
 applied materials:
@@ -72,6 +78,8 @@ arthur j gallagher:
   checked: '2026-08-29'
 aspentech:
   checked: '2026-09-16'
+atc:
+  checked: '2026-09-17'
 atkinsr alis:
   checked: '2026-09-15'
 atlassian:
@@ -128,6 +136,8 @@ bp:
   checked: '2026-08-29'
 brevan howard:
   checked: '2026-09-07'
+british columbia investment:
+  checked: '2026-09-17'
 brunswick:
   checked: '2026-08-29'
 bti360:
@@ -158,6 +168,8 @@ cdm smith:
   checked: '2026-09-05'
 charles schwab:
   checked: '2026-08-29'
+charter manufacturing:
+  checked: '2026-09-17'
 chicago trading:
   checked: '2026-08-29'
 cibc:
@@ -204,6 +216,8 @@ costar:
   checked: '2026-09-14'
 country financial:
   checked: '2026-09-09'
+covar:
+  checked: '2026-09-17'
 covestro:
   checked: '2026-09-10'
 cox:
@@ -218,10 +232,16 @@ cvent:
   checked: '2026-09-01'
 cybernetic labs:
   checked: '2026-08-29'
+cyvl:
+  checked: '2026-09-17'
+dallas fort worth international airport:
+  checked: '2026-09-17'
 danaher:
   checked: '2026-09-11'
 datadog:
   checked: '2026-09-09'
+decagon:
+  checked: '2026-09-17'
 dee zee:
   checked: '2026-08-29'
 dell technologies:
@@ -264,6 +284,8 @@ dtcc:
   checked: '2026-08-29'
 ducharme mcmillen associates:
   checked: '2026-08-29'
+duolingo:
+  checked: '2026-09-17'
 dv trading:
   checked: '2026-08-29'
 ecolab:
@@ -290,6 +312,8 @@ enfos:
   checked: '2026-09-05'
 entergy:
   checked: '2026-09-05'
+enterprise:
+  checked: '2026-09-17'
 epic games:
   checked: '2026-08-29'
 equipmentshare:
@@ -340,6 +364,8 @@ ge healthcare:
   checked: '2026-09-01'
 ge vernova:
   checked: '2026-08-29'
+gecko robotics:
+  checked: '2026-09-17'
 geico:
   checked: '2026-09-02'
 general dynamics information technology:
@@ -360,6 +386,8 @@ globalfoundries:
   checked: '2026-09-03'
 glossgenius:
   checked: '2026-08-29'
+gm financial:
+  checked: '2026-09-17'
 goldman sachs:
   checked: '2026-08-29'
 google:
@@ -404,6 +432,8 @@ hormel foods:
   checked: '2026-09-02'
 howden:
   checked: '2026-09-15'
+howmet aerospace:
+  checked: '2026-09-17'
 hp iq:
   checked: '2026-09-01'
 hpr hyannis port research:
@@ -536,6 +566,8 @@ merchants bank of indiana:
   checked: '2026-09-01'
 merck:
   checked: '2026-09-08'
+mercor:
+  checked: '2026-09-17'
 michelin:
   checked: '2026-09-02'
 micron technology:
@@ -552,6 +584,8 @@ montenson:
   checked: '2026-08-29'
 motorola:
   checked: '2026-08-29'
+nasdaq:
+  checked: '2026-09-17'
 national information solutions cooperative:
   checked: '2026-09-03'
 national life:
@@ -582,6 +616,8 @@ northwood space:
   checked: '2026-08-29'
 notion:
   checked: '2026-08-29'
+nov:
+  checked: '2026-09-17'
 nova tech:
   checked: '2026-09-10'
 nucor:
@@ -594,6 +630,8 @@ old mission:
   checked: '2026-08-29'
 one finance:
   checked: '2026-09-09'
+onsemi:
+  checked: '2026-09-17'
 ontario teachers pension plan:
   checked: '2026-08-29'
 opengov:
@@ -668,6 +706,8 @@ publicis groupe:
   checked: '2026-09-10'
 pylon:
   checked: '2026-08-29'
+q2:
+  checked: '2026-09-17'
 qorvo:
   checked: '2026-08-31'
 qts:
@@ -686,6 +726,8 @@ raymond james financial:
   checked: '2026-09-15'
 regions bank:
   checked: '2026-08-29'
+relay:
+  checked: '2026-09-17'
 repsol:
   checked: '2026-08-29'
 revel:
@@ -700,6 +742,8 @@ robinhood:
   checked: '2026-09-14'
 roblox:
   checked: '2026-08-29'
+rothesay:
+  checked: '2026-09-17'
 rovisys:
   checked: '2026-09-05'
 royal bank of canada:
@@ -750,6 +794,8 @@ skydio:
   checked: '2026-09-04'
 skyward:
   checked: '2026-09-04'
+smith nephew:
+  checked: '2026-09-17'
 southern star central gas pipeline:
   checked: '2026-09-03'
 spacex:
@@ -772,6 +818,8 @@ stoke space:
   checked: '2026-09-03'
 stryker:
   checked: '2026-08-31'
+sun life:
+  checked: '2026-09-17'
 superhuman:
   checked: '2026-09-16'
 susquehanna international:
@@ -826,6 +874,8 @@ the walt disney:
   checked: '2026-08-29'
 thermo fisher scientific:
   checked: '2026-09-08'
+tighe bond:
+  checked: '2026-09-17'
 tiktok:
   checked: '2026-08-29'
 tjx:

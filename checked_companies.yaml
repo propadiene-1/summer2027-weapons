@@ -120,6 +120,8 @@ blackrock:
   checked: '2026-09-15'
 blackstone:
   checked: '2026-08-29'
+blue cross and blue shield of kansas:
+  checked: '2026-09-18'
 bluecross blueshield of nebraska:
   checked: '2026-09-01'
 bny:
@@ -166,12 +168,16 @@ caterpillar:
   checked: '2026-09-04'
 cdm smith:
   checked: '2026-09-05'
+cerity partners:
+  checked: '2026-09-18'
 charles schwab:
   checked: '2026-08-29'
 charter manufacturing:
   checked: '2026-09-17'
 chicago trading:
   checked: '2026-08-29'
+church dwight:
+  checked: '2026-09-18'
 cibc:
   checked: '2026-09-05'
 cigna:
@@ -332,6 +338,8 @@ fast enterprises:
   checked: '2026-08-29'
 federated insurance:
   checked: '2026-09-10'
+fidelity national information services:
+  checked: '2026-09-18'
 fifth third bank:
   checked: '2026-09-01'
 figma:
@@ -368,6 +376,8 @@ gecko robotics:
   checked: '2026-09-17'
 geico:
   checked: '2026-09-02'
+generac:
+  checked: '2026-09-18'
 general dynamics information technology:
   checked: '2026-09-15'
 general dynamics mission systems:
@@ -520,6 +530,8 @@ lawrence livermore national laboratory llnl:
   checked: '2026-08-29'
 leidos:
   checked: '2026-08-29'
+lennox international:
+  checked: '2026-09-18'
 lexisnexis legal professional:
   checked: '2026-09-16'
 live oak bank:
@@ -528,6 +540,8 @@ lowe s:
   checked: '2026-09-15'
 lpl financial:
   checked: '2026-08-29'
+lseg:
+  checked: '2026-09-18'
 lunar outpost:
   checked: '2026-09-16'
 lyft:
@@ -596,6 +610,8 @@ navy federal:
   checked: '2026-09-09'
 neighbor:
   checked: '2026-09-09'
+netsmart:
+  checked: '2026-09-18'
 newrez:
   checked: '2026-09-02'
 nike:
@@ -626,6 +642,8 @@ nvidia:
   checked: '2026-08-29'
 nxp semiconductors:
   checked: '2026-09-07'
+occ:
+  checked: '2026-09-18'
 old mission:
   checked: '2026-08-29'
 one finance:
@@ -666,6 +684,8 @@ perpay:
   checked: '2026-09-02'
 perry homes:
   checked: '2026-09-05'
+persona:
+  checked: '2026-09-18'
 persona ai:
   checked: '2026-08-29'
 pgim:
@@ -730,6 +750,8 @@ relay:
   checked: '2026-09-17'
 repsol:
   checked: '2026-08-29'
+republic airways:
+  checked: '2026-09-18'
 revel:
   checked: '2026-09-09'
 rf smart:
@@ -878,6 +900,8 @@ tighe bond:
   checked: '2026-09-17'
 tiktok:
   checked: '2026-08-29'
+tive:
+  checked: '2026-09-18'
 tjx:
   checked: '2026-09-05'
 tmeic americas:
@@ -896,6 +920,8 @@ transmarket:
   checked: '2026-08-29'
 travelers:
   checked: '2026-09-05'
+trc companies:
+  checked: '2026-09-18'
 trillium:
   checked: '2026-08-29'
 trimble:
@@ -906,10 +932,14 @@ twg global:
   checked: '2026-09-06'
 two sigma:
   checked: '2026-08-29'
+tyler technologies:
+  checked: '2026-09-18'
 u s bank:
   checked: '2026-09-10'
 uline:
   checked: '2026-08-29'
+ulta beauty:
+  checked: '2026-09-18'
 united airlines:
   checked: '2026-09-06'
 united launch alliance:
@@ -922,6 +952,8 @@ urbn:
   checked: '2026-09-14'
 usaa:
   checked: '2026-09-10'
+v2x:
+  checked: '2026-09-18'
 vanguard:
   checked: '2026-08-29'
 veeam software:
@@ -942,16 +974,24 @@ viam:
   checked: '2026-09-11'
 virtu financial:
   checked: '2026-08-29'
+visa:
+  checked: '2026-09-18'
 visier solutions:
   checked: '2026-09-11'
 voloridge:
   checked: '2026-08-29'
+w r berkley:
+  checked: '2026-09-18'
 w w grainger:
   checked: '2026-08-29'
+wabash valley power alliance:
+  checked: '2026-09-18'
 walleye capital:
   checked: '2026-08-29'
 walmart:
   checked: '2026-09-06'
+watts water:
+  checked: '2026-09-18'
 waymo:
   checked: '2026-09-06'
 wec energy:
@@ -962,16 +1002,22 @@ wellmark:
   checked: '2026-09-11'
 wells fargo:
   checked: '2026-08-29'
+western digital:
+  checked: '2026-09-18'
 western southern financial:
   checked: '2026-09-06'
 westinghouse electric:
   checked: '2026-08-29'
+wex:
+  checked: '2026-09-18'
 whatnot:
   checked: '2026-09-06'
 whitewater midstream:
   checked: '2026-08-29'
 wipfli:
   checked: '2026-09-06'
+workshop:
+  checked: '2026-09-18'
 xantium:
   checked: '2026-08-29'
 xcel energy:

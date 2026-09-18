@@ -388,6 +388,14 @@ Nationwide:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+OCC:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$209,885,628 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Oshkosh:
   flags:
     defense:
@@ -563,6 +571,14 @@ United Parcel Service:
     defense:
       confirmed: false
       detail: "DoD contracts ~$188,080,088 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+V2X:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$11,313,669,814 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

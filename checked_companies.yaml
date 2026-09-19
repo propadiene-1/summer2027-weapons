@@ -44,6 +44,8 @@ ameren:
   checked: '2026-08-29'
 american express:
   checked: '2026-08-29'
+american family insurance:
+  checked: '2026-09-19'
 ameriprise financial:
   checked: '2026-09-02'
 amgen:
@@ -80,6 +82,8 @@ aspentech:
   checked: '2026-09-16'
 atc:
   checked: '2026-09-17'
+athene:
+  checked: '2026-09-19'
 atkinsr alis:
   checked: '2026-09-15'
 atlassian:
@@ -92,6 +96,8 @@ avis budget:
   checked: '2026-09-12'
 awardco:
   checked: '2026-09-15'
+axiom space:
+  checked: '2026-09-19'
 axq capital:
   checked: '2026-09-04'
 baird:
@@ -168,6 +174,8 @@ caterpillar:
   checked: '2026-09-04'
 cdm smith:
   checked: '2026-09-05'
+centene:
+  checked: '2026-09-19'
 cerity partners:
   checked: '2026-09-18'
 charles schwab:
@@ -196,8 +204,14 @@ cleveland cliffs:
   checked: '2026-09-14'
 clorox:
   checked: '2026-09-03'
+cme:
+  checked: '2026-09-19'
 cno financial:
   checked: '2026-08-29'
+cobank:
+  checked: '2026-09-19'
+cogna:
+  checked: '2026-09-19'
 coinbase:
   checked: '2026-09-09'
 collier aerospace:
@@ -246,6 +260,8 @@ danaher:
   checked: '2026-09-11'
 datadog:
   checked: '2026-09-09'
+datologyai:
+  checked: '2026-09-19'
 decagon:
   checked: '2026-09-17'
 dee zee:
@@ -350,6 +366,8 @@ first national bank:
   checked: '2026-09-01'
 five rings capital:
   checked: '2026-09-04'
+flex:
+  checked: '2026-09-19'
 flow traders:
   checked: '2026-08-29'
 fnbo:
@@ -528,6 +546,8 @@ land o lakes:
   checked: '2026-09-04'
 lawrence livermore national laboratory llnl:
   checked: '2026-08-29'
+lazard:
+  checked: '2026-09-19'
 leidos:
   checked: '2026-08-29'
 lennox international:
@@ -582,6 +602,8 @@ merck:
   checked: '2026-09-08'
 mercor:
   checked: '2026-09-17'
+metox international:
+  checked: '2026-09-19'
 michelin:
   checked: '2026-09-02'
 micron technology:
@@ -872,6 +894,8 @@ the aerospace:
   checked: '2026-09-10'
 the boeing:
   checked: '2026-08-29'
+the brattle:
+  checked: '2026-09-19'
 the exploration:
   checked: '2026-09-05'
 the federal reserve system:
@@ -896,6 +920,8 @@ the walt disney:
   checked: '2026-08-29'
 thermo fisher scientific:
   checked: '2026-09-08'
+thrivent:
+  checked: '2026-09-19'
 tighe bond:
   checked: '2026-09-17'
 tiktok:
@@ -906,6 +932,8 @@ tjx:
   checked: '2026-09-05'
 tmeic americas:
   checked: '2026-08-29'
+together ai:
+  checked: '2026-09-19'
 tokyo electron:
   checked: '2026-09-07'
 tower research capital:
@@ -1018,6 +1046,8 @@ wipfli:
   checked: '2026-09-06'
 workshop:
   checked: '2026-09-18'
+wtw:
+  checked: '2026-09-19'
 xantium:
   checked: '2026-08-29'
 xcel energy:

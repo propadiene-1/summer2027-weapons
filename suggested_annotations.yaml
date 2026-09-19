@@ -54,6 +54,14 @@ Appian:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Athene:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$181,546,778 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 BP:
   flags:
     defense:

@@ -6,6 +6,8 @@ abb:
   checked: '2026-09-09'
 abbvie:
   checked: '2026-08-29'
+acima:
+  checked: '2026-09-21'
 adobe:
   checked: '2026-09-01'
 aerotech:
@@ -92,6 +94,8 @@ atoms:
   checked: '2026-08-29'
 auto owners insurance:
   checked: '2026-08-29'
+autozone:
+  checked: '2026-09-21'
 avis budget:
   checked: '2026-09-12'
 awardco:
@@ -354,6 +358,8 @@ fast enterprises:
   checked: '2026-08-29'
 federated insurance:
   checked: '2026-09-10'
+fidelity investments:
+  checked: '2026-09-21'
 fidelity national information services:
   checked: '2026-09-18'
 fifth third bank:
@@ -362,6 +368,8 @@ figma:
   checked: '2026-09-15'
 finastra:
   checked: '2026-08-29'
+first citizens bancshares:
+  checked: '2026-09-21'
 first national bank:
   checked: '2026-09-01'
 five rings capital:
@@ -604,6 +612,8 @@ mercor:
   checked: '2026-09-17'
 metox international:
   checked: '2026-09-19'
+mfs:
+  checked: '2026-09-21'
 michelin:
   checked: '2026-09-02'
 micron technology:
@@ -976,6 +986,8 @@ united parcel service:
   checked: '2026-09-06'
 universal health services:
   checked: '2026-09-06'
+upbound:
+  checked: '2026-09-21'
 urbn:
   checked: '2026-09-14'
 usaa:

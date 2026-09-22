@@ -318,6 +318,8 @@ ecolab:
   checked: '2026-08-29'
 edison international:
   checked: '2026-09-01'
+electronic arts:
+  checked: '2026-09-22'
 elire:
   checked: '2026-09-16'
 elk valley resources:
@@ -346,6 +348,8 @@ equipmentshare:
   checked: '2026-09-15'
 ercot:
   checked: '2026-09-09'
+erie insurance:
+  checked: '2026-09-22'
 ernst young:
   checked: '2026-09-04'
 eulerity:
@@ -434,8 +438,12 @@ grant thornton:
   checked: '2026-08-29'
 greenheck:
   checked: '2026-09-05'
+grow financial federal credit union:
+  checked: '2026-09-22'
 guardian life:
   checked: '2026-09-14'
+guidestone:
+  checked: '2026-09-22'
 guidewell mutual:
   checked: '2026-08-29'
 gulfstream:
@@ -546,6 +554,8 @@ kinder morgan:
   checked: '2026-09-02'
 klaviyo:
   checked: '2026-09-13'
+koch industries:
+  checked: '2026-09-22'
 kpmg:
   checked: '2026-08-29'
 labcorp:
@@ -640,6 +650,8 @@ nationwide:
   checked: '2026-08-29'
 navy federal:
   checked: '2026-09-09'
+nebraska medicine:
+  checked: '2026-09-22'
 neighbor:
   checked: '2026-09-09'
 netsmart:
@@ -784,6 +796,8 @@ repsol:
   checked: '2026-08-29'
 republic airways:
   checked: '2026-09-18'
+resultant:
+  checked: '2026-09-22'
 revel:
   checked: '2026-09-09'
 rf smart:
@@ -974,6 +988,8 @@ tyler technologies:
   checked: '2026-09-18'
 u s bank:
   checked: '2026-09-10'
+udig:
+  checked: '2026-09-22'
 uline:
   checked: '2026-08-29'
 ulta beauty:
@@ -1012,6 +1028,8 @@ vertiv:
   checked: '2026-08-29'
 viam:
   checked: '2026-09-11'
+viking global:
+  checked: '2026-09-22'
 virtu financial:
   checked: '2026-08-29'
 visa:
@@ -1066,6 +1084,10 @@ xcel energy:
   checked: '2026-09-07'
 xcimer energy:
   checked: '2026-09-12'
+xpeng motors:
+  checked: '2026-09-22'
+zimmer biomet:
+  checked: '2026-09-22'
 zions bank:
   checked: '2026-09-11'
 zip:

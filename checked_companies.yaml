@@ -194,6 +194,8 @@ charter manufacturing:
   checked: '2026-09-17'
 chicago trading:
   checked: '2026-08-29'
+chs:
+  checked: '2026-09-25'
 church dwight:
   checked: '2026-09-18'
 cibc:
@@ -600,12 +602,16 @@ lseg:
   checked: '2026-09-18'
 lunar outpost:
   checked: '2026-09-16'
+lutron electronics:
+  checked: '2026-09-25'
 lyft:
   checked: '2026-09-12'
 mackenzie investments:
   checked: '2026-08-29'
 manulife financial:
   checked: '2026-08-29'
+marathon petroleum:
+  checked: '2026-09-25'
 marmon:
   checked: '2026-08-29'
 marsh:
@@ -804,6 +810,8 @@ quantbot technologies:
   checked: '2026-08-29'
 qumulo:
   checked: '2026-09-24'
+radiance technologies:
+  checked: '2026-09-25'
 ragle:
   checked: '2026-09-03'
 ralliant:
@@ -822,6 +830,8 @@ republic airways:
   checked: '2026-09-18'
 resultant:
   checked: '2026-09-22'
+revantage corporate services:
+  checked: '2026-09-25'
 revel:
   checked: '2026-09-09'
 rf smart:

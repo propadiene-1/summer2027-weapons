@@ -336,6 +336,14 @@ Leidos:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Marathon Petroleum:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$272,350,713 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 McKesson:
   flags:
     ice:
@@ -469,6 +477,14 @@ Qorvo:
     defense:
       confirmed: false
       detail: "DoD contracts ~$70,236,856 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Radiance Technologies:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$956,709,291 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

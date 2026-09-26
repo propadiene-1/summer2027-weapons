@@ -198,6 +198,14 @@ Ernst & Young:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Flint:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$176,502,573 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 General Dynamics Information Technology:
   flags:
     defense:

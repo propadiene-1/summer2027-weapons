@@ -6,6 +6,20 @@
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Acuity:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$62,843,116 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$138,017,826 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 AeroVironment:
   flags:
     defense:
@@ -173,6 +187,14 @@ Dev Technology Group:
     ice:
       confirmed: false
       detail: "ICE contracts ~$212,101,027 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Draper:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$4,784,615,061 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -349,6 +371,14 @@ Marathon Petroleum:
     defense:
       confirmed: false
       detail: "DoD contracts ~$272,350,713 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Marvell:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$184,332,137 (2021\u20132026, 1 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

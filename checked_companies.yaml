@@ -8,6 +8,8 @@ abbvie:
   checked: '2026-08-29'
 acima:
   checked: '2026-09-21'
+acuity:
+  checked: '2026-09-30'
 adobe:
   checked: '2026-09-01'
 aerotech:
@@ -40,6 +42,8 @@ altar d state:
   checked: '2026-09-16'
 amazon:
   checked: '2026-09-04'
+amca:
+  checked: '2026-09-30'
 amd:
   checked: '2026-08-29'
 ameren:
@@ -316,6 +320,8 @@ dow jones:
   checked: '2026-09-15'
 draftkings:
   checked: '2026-09-01'
+draper:
+  checked: '2026-09-30'
 drivetime:
   checked: '2026-09-04'
 dropbox:
@@ -354,6 +360,8 @@ energy transfer partners:
   checked: '2026-09-12'
 enfos:
   checked: '2026-09-05'
+enova:
+  checked: '2026-09-30'
 entergy:
   checked: '2026-09-05'
 enterprise:
@@ -556,8 +564,14 @@ intel:
   checked: '2026-09-03'
 intuit:
   checked: '2026-08-29'
+invesco:
+  checked: '2026-09-30'
+iridium communications:
+  checked: '2026-09-30'
 isn software:
   checked: '2026-09-01'
+itron:
+  checked: '2026-09-30'
 jabil:
   checked: '2026-09-24'
 jane street:
@@ -632,6 +646,8 @@ marsh mclennan:
   checked: '2026-09-07'
 marshall wace:
   checked: '2026-08-29'
+marvell:
+  checked: '2026-09-30'
 mastercard:
   checked: '2026-08-29'
 maven securities:
@@ -922,6 +938,8 @@ smith nephew:
   checked: '2026-09-17'
 southern star central gas pipeline:
   checked: '2026-09-03'
+southstate bank:
+  checked: '2026-09-30'
 spacex:
   checked: '2026-08-29'
 specter aerospace:

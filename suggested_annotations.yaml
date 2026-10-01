@@ -442,6 +442,14 @@ Nationwide:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Noblis:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$663,414,592 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 OCC:
   flags:
     defense:

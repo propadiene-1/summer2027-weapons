@@ -534,6 +534,22 @@ Radiance Technologies:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Regeneron Pharmaceuticals:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$5,565,000,000 (2021\u20132026, 1 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+SAS:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$78,853,059 (2021\u20132026, 4 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 SECURE:
   flags:
     defense:

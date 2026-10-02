@@ -48,6 +48,8 @@ amd:
   checked: '2026-08-29'
 ameren:
   checked: '2026-08-29'
+american bankers association:
+  checked: '2026-10-02'
 american century investments:
   checked: '2026-09-26'
 american express:
@@ -106,6 +108,8 @@ atoms:
   checked: '2026-08-29'
 auto owners insurance:
   checked: '2026-08-29'
+autodesk:
+  checked: '2026-10-02'
 autozone:
   checked: '2026-09-21'
 avis budget:
@@ -254,6 +258,8 @@ constellation energy:
   checked: '2026-09-10'
 continental resources:
   checked: '2026-08-29'
+corgan:
+  checked: '2026-10-02'
 corning:
   checked: '2026-09-02'
 corteva:
@@ -288,6 +294,8 @@ danaher:
   checked: '2026-09-11'
 dandy:
   checked: '2026-10-01'
+datacor:
+  checked: '2026-10-02'
 datadog:
   checked: '2026-09-09'
 datologyai:
@@ -430,6 +438,8 @@ gallup:
   checked: '2026-09-09'
 garda capital partners:
   checked: '2026-08-29'
+gas south:
+  checked: '2026-10-02'
 gcm grosvenor:
   checked: '2026-09-26'
 ge aerospace:
@@ -460,6 +470,8 @@ geneva trading:
   checked: '2026-09-11'
 genworth financial:
   checked: '2026-08-29'
+glean:
+  checked: '2026-10-02'
 globalfoundries:
   checked: '2026-09-03'
 glossgenius:
@@ -474,6 +486,8 @@ gordon food service:
   checked: '2026-09-15'
 grant thornton:
   checked: '2026-08-29'
+great american insurance:
+  checked: '2026-10-02'
 greenheck:
   checked: '2026-09-05'
 grow financial federal credit union:
@@ -494,6 +508,8 @@ hadrian:
   checked: '2026-09-03'
 hd supply:
   checked: '2026-09-03'
+helion energy:
+  checked: '2026-10-02'
 heliux:
   checked: '2026-08-29'
 hermeus:
@@ -694,6 +710,8 @@ micron technology:
   checked: '2026-08-29'
 microsoft:
   checked: '2026-09-02'
+mindex:
+  checked: '2026-10-02'
 mks instruments:
   checked: '2026-08-29'
 moderna:
@@ -814,6 +832,8 @@ pilot:
   checked: '2026-09-10'
 pimco:
   checked: '2026-08-29'
+pinterest:
+  checked: '2026-10-02'
 planview:
   checked: '2026-09-10'
 plastipak:
@@ -828,6 +848,8 @@ pricewaterhousecoopers pwc:
   checked: '2026-08-29'
 primer:
   checked: '2026-09-04'
+primient:
+  checked: '2026-10-02'
 principal financial:
   checked: '2026-09-04'
 procter gamble:
@@ -870,6 +892,8 @@ raymond james financial:
   checked: '2026-09-15'
 red ventures:
   checked: '2026-09-26'
+regeneron pharmaceuticals:
+  checked: '2026-10-02'
 regions bank:
   checked: '2026-08-29'
 relay:
@@ -886,6 +910,8 @@ revel:
   checked: '2026-09-09'
 rf smart:
   checked: '2026-09-09'
+riot games:
+  checked: '2026-10-02'
 rippling:
   checked: '2026-09-23'
 rivian and volkswagen technologies:
@@ -922,12 +948,16 @@ salesforce:
   checked: '2026-08-29'
 saronic:
   checked: '2026-09-10'
+sas:
+  checked: '2026-10-02'
 scale ai:
   checked: '2026-09-05'
 schonfeld:
   checked: '2026-09-05'
 schroders:
   checked: '2026-08-29'
+seatgeek:
+  checked: '2026-10-02'
 secure:
   checked: '2026-09-09'
 securian financial:
@@ -1108,6 +1138,8 @@ v2x:
   checked: '2026-09-18'
 vanguard:
   checked: '2026-08-29'
+varda space:
+  checked: '2026-10-02'
 veeam software:
   checked: '2026-09-12'
 verisk:

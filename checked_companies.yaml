@@ -18,6 +18,8 @@ aerovironment:
   checked: '2026-09-02'
 aes:
   checked: '2026-09-12'
+affirm:
+  checked: '2026-10-03'
 aig:
   checked: '2026-09-02'
 air products:
@@ -82,6 +84,8 @@ aqr capital management:
   checked: '2026-08-29'
 aquatic capital management:
   checked: '2026-08-29'
+arc:
+  checked: '2026-10-03'
 arch capital:
   checked: '2026-09-01'
 arconic:
@@ -294,6 +298,8 @@ danaher:
   checked: '2026-09-11'
 dandy:
   checked: '2026-10-01'
+databricks:
+  checked: '2026-10-03'
 datacor:
   checked: '2026-10-02'
 datadog:
@@ -356,6 +362,8 @@ edison international:
   checked: '2026-09-01'
 electronic arts:
   checked: '2026-09-22'
+elevance health:
+  checked: '2026-10-03'
 elire:
   checked: '2026-09-16'
 elk valley resources:
@@ -506,6 +514,8 @@ h r block:
   checked: '2026-09-29'
 hadrian:
   checked: '2026-09-03'
+harvey:
+  checked: '2026-10-03'
 hd supply:
   checked: '2026-09-03'
 helion energy:
@@ -532,6 +542,8 @@ honeywell:
   checked: '2026-08-29'
 hormel foods:
   checked: '2026-09-02'
+houlihan lokey:
+  checked: '2026-10-03'
 howden:
   checked: '2026-09-15'
 howmet aerospace:
@@ -736,10 +748,14 @@ nebraska medicine:
   checked: '2026-09-22'
 neighbor:
   checked: '2026-09-09'
+nelnet:
+  checked: '2026-10-03'
 netsmart:
   checked: '2026-09-18'
 neuberger berman:
   checked: '2026-09-23'
+new york mets:
+  checked: '2026-10-03'
 newrez:
   checked: '2026-09-02'
 nike:
@@ -798,6 +814,8 @@ pacific fusion:
   checked: '2026-09-10'
 pacific life:
   checked: '2026-09-26'
+palomar:
+  checked: '2026-10-03'
 panasonic:
   checked: '2026-09-01'
 parsons:
@@ -956,6 +974,8 @@ schonfeld:
   checked: '2026-09-05'
 schroders:
   checked: '2026-08-29'
+scout clean energy:
+  checked: '2026-10-03'
 seatgeek:
   checked: '2026-10-02'
 secure:
@@ -1210,6 +1230,8 @@ workshop:
   checked: '2026-09-18'
 wtw:
   checked: '2026-09-19'
+xai:
+  checked: '2026-10-03'
 xantium:
   checked: '2026-08-29'
 xcel energy:

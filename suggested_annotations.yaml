@@ -68,6 +68,14 @@ Appian:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Arc:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$22,715,451 (2021\u20132026, 4 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Athene:
   flags:
     defense:

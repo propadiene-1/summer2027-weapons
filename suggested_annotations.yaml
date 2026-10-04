@@ -236,6 +236,20 @@ Flint:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Gartner:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$148,454,831 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$3,011,947 (2021\u20132026, 5 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 General Dynamics Information Technology:
   flags:
     defense:

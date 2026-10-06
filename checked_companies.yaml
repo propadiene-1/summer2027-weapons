@@ -90,6 +90,8 @@ arch capital:
   checked: '2026-09-01'
 arconic:
   checked: '2026-09-24'
+arondite:
+  checked: '2026-10-06'
 arrowstreet capital:
   checked: '2026-08-29'
 arthur j gallagher:
@@ -152,6 +154,8 @@ blackstone:
   checked: '2026-08-29'
 blue cross and blue shield of kansas:
   checked: '2026-09-18'
+blue cross blue shield of michigan:
+  checked: '2026-10-06'
 bluecross blueshield of nebraska:
   checked: '2026-09-01'
 bny:
@@ -184,6 +188,8 @@ c3 ai:
   checked: '2026-09-01'
 caci:
   checked: '2026-08-29'
+cadence solutions:
+  checked: '2026-10-06'
 cai:
   checked: '2026-09-15'
 capital:
@@ -402,18 +408,24 @@ erie insurance:
   checked: '2026-09-22'
 ernst young:
   checked: '2026-09-04'
+etched:
+  checked: '2026-10-06'
 eulerity:
   checked: '2026-09-02'
 excellus bcbs:
   checked: '2026-09-23'
 exelon:
   checked: '2026-09-01'
+expedia:
+  checked: '2026-10-06'
 fannie mae:
   checked: '2026-08-29'
 fast enterprises:
   checked: '2026-08-29'
 federated insurance:
   checked: '2026-09-10'
+fhlbank chicago:
+  checked: '2026-10-06'
 fidelity investments:
   checked: '2026-09-21'
 fidelity national information services:
@@ -530,6 +542,8 @@ heliux:
   checked: '2026-08-29'
 hermeus:
   checked: '2026-09-02'
+hewlett packard enterprise:
+  checked: '2026-10-06'
 hexagon ab:
   checked: '2026-09-04'
 hf sinclair:
@@ -582,6 +596,8 @@ icf international:
   checked: '2026-09-07'
 id me:
   checked: '2026-09-05'
+idemia:
+  checked: '2026-10-06'
 illinois tool works:
   checked: '2026-09-24'
 imc trading:
@@ -598,6 +614,8 @@ infinitequant:
   checked: '2026-08-29'
 ingredion:
   checked: '2026-09-02'
+innovative defense technologies:
+  checked: '2026-10-06'
 innovative systems:
   checked: '2026-09-04'
 intel:
@@ -616,6 +634,8 @@ itt:
   checked: '2026-10-01'
 jabil:
   checked: '2026-09-24'
+jain global:
+  checked: '2026-10-06'
 jane street:
   checked: '2026-08-29'
 john deere:
@@ -638,14 +658,20 @@ keybank:
   checked: '2026-08-29'
 keysight technologies:
   checked: '2026-09-05'
+khan academy:
+  checked: '2026-10-06'
 kinder morgan:
   checked: '2026-09-02'
+kkr:
+  checked: '2026-10-06'
 klaviyo:
   checked: '2026-09-13'
 koch industries:
   checked: '2026-09-22'
 kpmg:
   checked: '2026-08-29'
+kyndryl:
+  checked: '2026-10-06'
 labcorp:
   checked: '2026-09-12'
 land o lakes:
@@ -660,6 +686,10 @@ lennox international:
   checked: '2026-09-18'
 lexisnexis legal professional:
   checked: '2026-09-16'
+lexisnexis risk solutions:
+  checked: '2026-10-06'
+liberty mutual:
+  checked: '2026-10-06'
 life fitness:
   checked: '2026-10-01'
 live oak bank:
@@ -678,6 +708,10 @@ lyft:
   checked: '2026-09-12'
 mackenzie investments:
   checked: '2026-08-29'
+macy s:
+  checked: '2026-10-06'
+magnite:
+  checked: '2026-10-06'
 manulife financial:
   checked: '2026-08-29'
 marathon petroleum:
@@ -728,6 +762,8 @@ micron technology:
   checked: '2026-08-29'
 microsoft:
   checked: '2026-09-02'
+midland states bank:
+  checked: '2026-10-06'
 mindex:
   checked: '2026-10-02'
 mks instruments:
@@ -826,6 +862,8 @@ palomar:
   checked: '2026-10-03'
 panasonic:
   checked: '2026-09-01'
+pangram labs:
+  checked: '2026-10-06'
 parsons:
   checked: '2026-08-29'
 patch my pc:
@@ -904,6 +942,8 @@ qualcomm:
   checked: '2026-09-12'
 quantbot technologies:
   checked: '2026-08-29'
+quantum signal ai:
+  checked: '2026-10-06'
 qumulo:
   checked: '2026-09-24'
 radiance technologies:
@@ -1002,6 +1042,8 @@ sierra:
   checked: '2026-09-03'
 sierra nevada:
   checked: '2026-09-04'
+signifyd:
+  checked: '2026-10-06'
 simventions:
   checked: '2026-09-16'
 skydio:
@@ -1016,6 +1058,8 @@ southstate bank:
   checked: '2026-09-30'
 southwest airlines:
   checked: '2026-10-01'
+space dynamics laboratory:
+  checked: '2026-10-06'
 spacex:
   checked: '2026-08-29'
 specter aerospace:
@@ -1046,6 +1090,8 @@ susquehanna international:
   checked: '2026-08-29'
 susquehanna international sig:
   checked: '2026-08-29'
+syngenta:
+  checked: '2026-10-06'
 t rowe price:
   checked: '2026-09-04'
 talos:
@@ -1068,6 +1114,8 @@ tesla:
   checked: '2026-08-29'
 textron:
   checked: '2026-09-03'
+thales:
+  checked: '2026-10-06'
 the aerospace:
   checked: '2026-09-10'
 the boeing:
@@ -1260,3 +1308,5 @@ zip:
   checked: '2026-08-29'
 zipline:
   checked: '2026-08-29'
+zurn elkay water solutions:
+  checked: '2026-10-06'

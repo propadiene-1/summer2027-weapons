@@ -318,6 +318,14 @@ HNTB:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Hewlett Packard Enterprise:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$335,671,615 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Honeywell:
   flags:
     defense:
@@ -339,6 +347,14 @@ Huntington Ingalls Industries:
     defense:
       confirmed: false
       detail: "DoD contracts ~$48,183,079,210 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Innovative Defense Technologies:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$600,377,512 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -385,6 +401,14 @@ Leidos:
     ice:
       confirmed: false
       detail: "ICE contracts ~$2,544,100 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+LexisNexis Risk Solutions:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$27,444,424 (2021\u20132026, 2 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending
@@ -626,6 +650,14 @@ SimVentions:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Space Dynamics Laboratory:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$498,451,518 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Spirit AeroSystems:
   flags:
     defense:
@@ -655,6 +687,14 @@ Textron:
     defense:
       confirmed: false
       detail: "DoD contracts ~$20,345,127,829 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Thales:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$801,787,173 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

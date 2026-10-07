@@ -278,6 +278,8 @@ costar:
   checked: '2026-09-14'
 country financial:
   checked: '2026-09-09'
+courier health:
+  checked: '2026-10-07'
 covar:
   checked: '2026-09-17'
 covestro:
@@ -418,6 +420,8 @@ exelon:
   checked: '2026-09-01'
 expedia:
   checked: '2026-10-06'
+f5:
+  checked: '2026-10-07'
 fannie mae:
   checked: '2026-08-29'
 fast enterprises:
@@ -550,6 +554,8 @@ hf sinclair:
   checked: '2026-09-15'
 highgate:
   checked: '2026-09-15'
+highmark health:
+  checked: '2026-10-07'
 hilton worldwide:
   checked: '2026-09-04'
 hitachi:
@@ -750,6 +756,8 @@ merck:
   checked: '2026-09-08'
 mercor:
   checked: '2026-09-17'
+meta:
+  checked: '2026-10-07'
 metlife:
   checked: '2026-10-01'
 metox international:
@@ -802,6 +810,10 @@ new york mets:
   checked: '2026-10-03'
 newrez:
   checked: '2026-09-02'
+newyork presbyterian:
+  checked: '2026-10-07'
+niantic spatial:
+  checked: '2026-10-07'
 nike:
   checked: '2026-09-01'
 nisource:
@@ -928,6 +940,8 @@ psp investments:
   checked: '2026-08-29'
 publicis groupe:
   checked: '2026-09-10'
+pure storage:
+  checked: '2026-10-07'
 pylon:
   checked: '2026-08-29'
 q2:
@@ -988,6 +1002,8 @@ robinhood:
   checked: '2026-09-14'
 roblox:
   checked: '2026-08-29'
+roche:
+  checked: '2026-10-07'
 rockwell automation:
   checked: '2026-09-26'
 rothesay:
@@ -1004,6 +1020,8 @@ ryan companies:
   checked: '2026-08-29'
 rystad energy:
   checked: '2026-08-29'
+s c electric:
+  checked: '2026-10-07'
 s p global:
   checked: '2026-09-10'
 saab:
@@ -1042,6 +1060,8 @@ sierra:
   checked: '2026-09-03'
 sierra nevada:
   checked: '2026-09-04'
+sigma computing:
+  checked: '2026-10-07'
 signifyd:
   checked: '2026-10-06'
 simventions:

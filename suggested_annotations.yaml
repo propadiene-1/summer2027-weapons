@@ -588,6 +588,14 @@ Regeneron Pharmaceuticals:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Roche:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$583,601,882 (2021\u20132026, 3 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 SAS:
   flags:
     defense:

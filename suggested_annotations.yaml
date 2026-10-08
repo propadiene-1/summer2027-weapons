@@ -556,6 +556,14 @@ Philips:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Phillips 66:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$203,228,267 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Polaris:
   flags:
     defense:

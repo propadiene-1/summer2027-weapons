@@ -1,5 +1,7 @@
 3m:
   checked: '2026-09-15'
+7 eleven:
+  checked: '2026-10-09'
 aarete:
   checked: '2026-09-06'
 abb:
@@ -176,6 +178,8 @@ bp:
   checked: '2026-08-29'
 brevan howard:
   checked: '2026-09-07'
+bristol myers squibb:
+  checked: '2026-10-09'
 british columbia investment:
   checked: '2026-09-17'
 brunswick:
@@ -654,6 +658,8 @@ johns hopkins applied physics laboratory:
   checked: '2026-09-01'
 johnson johnson:
   checked: '2026-08-29'
+jones lang lasalle:
+  checked: '2026-10-09'
 jp morgan chase:
   checked: '2026-08-29'
 jump trading:
@@ -692,6 +698,8 @@ lazard:
   checked: '2026-09-19'
 leidos:
   checked: '2026-08-29'
+lendable:
+  checked: '2026-10-09'
 lennox international:
   checked: '2026-09-18'
 lexisnexis legal professional:
@@ -778,16 +786,22 @@ midland states bank:
   checked: '2026-10-06'
 mindex:
   checked: '2026-10-02'
+mitsubishi ufg:
+  checked: '2026-10-09'
 mks instruments:
   checked: '2026-08-29'
 moderna:
   checked: '2026-09-05'
+modernizing medicine:
+  checked: '2026-10-09'
 momentive:
   checked: '2026-09-01'
 montenson:
   checked: '2026-08-29'
 motorola:
   checked: '2026-08-29'
+mufg:
+  checked: '2026-10-09'
 nasdaq:
   checked: '2026-09-17'
 national information solutions cooperative:
@@ -882,6 +896,8 @@ panasonic:
   checked: '2026-09-01'
 pangram labs:
   checked: '2026-10-06'
+papa john s:
+  checked: '2026-10-09'
 parsons:
   checked: '2026-08-29'
 patch my pc:
@@ -1268,6 +1284,8 @@ vertiv:
   checked: '2026-08-29'
 viam:
   checked: '2026-09-11'
+viget:
+  checked: '2026-10-09'
 viking global:
   checked: '2026-09-22'
 virtu financial:
@@ -1284,6 +1302,8 @@ w w grainger:
   checked: '2026-08-29'
 wabash valley power alliance:
   checked: '2026-09-18'
+walgreens:
+  checked: '2026-10-09'
 walleye capital:
   checked: '2026-08-29'
 walmart:

@@ -496,6 +496,14 @@ Nationwide:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Nissan:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$106,310,190 (2021\u20132026, 9 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Noblis:
   flags:
     defense:

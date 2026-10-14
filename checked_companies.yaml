@@ -8,6 +8,8 @@ abb:
   checked: '2026-09-09'
 abbvie:
   checked: '2026-08-29'
+acadian asset management:
+  checked: '2026-10-14'
 acima:
   checked: '2026-09-21'
 acuity:
@@ -72,6 +74,8 @@ anheuser busch:
   checked: '2026-08-29'
 anthelion capital:
   checked: '2026-08-29'
+aon:
+  checked: '2026-10-14'
 apera ai:
   checked: '2026-09-17'
 apex:
@@ -94,6 +98,8 @@ arch capital:
   checked: '2026-09-01'
 arconic:
   checked: '2026-09-24'
+armadin:
+  checked: '2026-10-14'
 arondite:
   checked: '2026-10-06'
 arrowstreet capital:
@@ -174,6 +180,8 @@ bosch home comfort:
   checked: '2026-09-01'
 bose:
   checked: '2026-10-08'
+boston consulting:
+  checked: '2026-10-14'
 boston scientific:
   checked: '2026-09-02'
 bp:
@@ -212,6 +220,8 @@ captech consulting:
   checked: '2026-10-12'
 capula:
   checked: '2026-08-29'
+carbon robotics:
+  checked: '2026-10-14'
 cardinal health:
   checked: '2026-09-01'
 castleton commodities international:
@@ -418,6 +428,8 @@ enterprise:
   checked: '2026-09-17'
 epic games:
   checked: '2026-08-29'
+equifax:
+  checked: '2026-10-14'
 equipmentshare:
   checked: '2026-09-15'
 ercot:
@@ -450,6 +462,8 @@ fidelity investments:
   checked: '2026-09-21'
 fidelity national information services:
   checked: '2026-09-18'
+field ai:
+  checked: '2026-10-14'
 fifth third bank:
   checked: '2026-09-01'
 figma:
@@ -526,6 +540,8 @@ gm financial:
   checked: '2026-09-17'
 goldman sachs:
   checked: '2026-08-29'
+goodlord:
+  checked: '2026-10-14'
 google:
   checked: '2026-08-29'
 gordon food service:
@@ -654,6 +670,8 @@ itron:
   checked: '2026-09-30'
 itt:
   checked: '2026-10-01'
+j m smucker:
+  checked: '2026-10-14'
 jabil:
   checked: '2026-09-24'
 jain global:
@@ -832,6 +850,8 @@ neighbor:
   checked: '2026-09-09'
 nelnet:
   checked: '2026-10-03'
+netflix:
+  checked: '2026-10-14'
 netsmart:
   checked: '2026-09-18'
 neuberger berman:
@@ -954,6 +974,8 @@ plastipak:
   checked: '2026-09-16'
 poet:
   checked: '2026-09-03'
+point72:
+  checked: '2026-10-14'
 polaris:
   checked: '2026-08-29'
 post:
@@ -1032,6 +1054,8 @@ revel:
   checked: '2026-09-09'
 rf smart:
   checked: '2026-09-09'
+rhombus:
+  checked: '2026-10-14'
 riot games:
   checked: '2026-10-02'
 rippling:
@@ -1098,6 +1122,8 @@ semgrep:
   checked: '2026-09-09'
 sep:
   checked: '2026-09-16'
+servicenow:
+  checked: '2026-10-14'
 shield ai:
   checked: '2026-09-10'
 shure:
@@ -1136,6 +1162,8 @@ springs window fashions:
   checked: '2026-08-29'
 stand together:
   checked: '2026-09-12'
+state affairs:
+  checked: '2026-10-14'
 state farm:
   checked: '2026-09-04'
 state of wisconsin investment board:

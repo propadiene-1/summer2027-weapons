@@ -114,6 +114,14 @@ Booz Allen:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Boston Consulting Group:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$195,888,908 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 CACI:
   flags:
     defense:

@@ -6,6 +6,14 @@
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+AECOM:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$771,305,065 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Acuity:
   flags:
     defense:
@@ -687,6 +695,14 @@ SimVentions:
     defense:
       confirmed: false
       detail: "DoD contracts ~$463,382,241 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Snap:
+  flags:
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$22,507,162 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

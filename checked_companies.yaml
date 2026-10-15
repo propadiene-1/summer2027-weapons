@@ -16,6 +16,8 @@ acuity:
   checked: '2026-09-30'
 adobe:
   checked: '2026-09-01'
+aecom:
+  checked: '2026-10-15'
 aerotech:
   checked: '2026-09-01'
 aerovironment:
@@ -24,6 +26,8 @@ aes:
   checked: '2026-09-12'
 affirm:
   checked: '2026-10-03'
+agco:
+  checked: '2026-10-15'
 aig:
   checked: '2026-09-02'
 air products:
@@ -192,6 +196,8 @@ bristol myers squibb:
   checked: '2026-10-09'
 british columbia investment:
   checked: '2026-09-17'
+brookfield:
+  checked: '2026-10-15'
 brunswick:
   checked: '2026-08-29'
 bti360:
@@ -1144,6 +1150,8 @@ skyward:
   checked: '2026-09-04'
 smith nephew:
   checked: '2026-09-17'
+snap:
+  checked: '2026-10-15'
 southern star central gas pipeline:
   checked: '2026-09-03'
 southstate bank:
@@ -1208,6 +1216,8 @@ telus digital:
   checked: '2026-08-29'
 tesla:
   checked: '2026-08-29'
+tessera labs:
+  checked: '2026-10-15'
 textron:
   checked: '2026-09-03'
 thales:

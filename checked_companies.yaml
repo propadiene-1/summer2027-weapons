@@ -8,6 +8,8 @@ abb:
   checked: '2026-09-09'
 abbvie:
   checked: '2026-08-29'
+abridge:
+  checked: '2026-10-16'
 acadian asset management:
   checked: '2026-10-14'
 acima:
@@ -312,6 +314,8 @@ courier health:
   checked: '2026-10-07'
 covar:
   checked: '2026-09-17'
+covermymeds:
+  checked: '2026-10-16'
 covestro:
   checked: '2026-09-10'
 cox:
@@ -322,6 +326,8 @@ csx:
   checked: '2026-08-29'
 ctgt:
   checked: '2026-08-29'
+cummins:
+  checked: '2026-10-16'
 cvent:
   checked: '2026-09-01'
 cybernetic labs:
@@ -578,6 +584,8 @@ harvey:
   checked: '2026-10-03'
 hd supply:
   checked: '2026-09-03'
+healthpeak properties:
+  checked: '2026-10-16'
 helion energy:
   checked: '2026-10-02'
 heliux:
@@ -594,6 +602,8 @@ highgate:
   checked: '2026-09-15'
 highmark health:
   checked: '2026-10-07'
+hilb:
+  checked: '2026-10-16'
 hilton worldwide:
   checked: '2026-09-04'
 hitachi:
@@ -838,6 +848,8 @@ motorola:
   checked: '2026-08-29'
 mufg:
   checked: '2026-10-09'
+muon space:
+  checked: '2026-10-16'
 nasdaq:
   checked: '2026-09-17'
 national information solutions cooperative:
@@ -900,6 +912,8 @@ nova tech:
   checked: '2026-09-10'
 nucor:
   checked: '2026-09-04'
+nutanix:
+  checked: '2026-10-16'
 nvidia:
   checked: '2026-08-29'
 nxp semiconductors:
@@ -1084,6 +1098,8 @@ rovisys:
   checked: '2026-09-05'
 royal bank of canada:
   checked: '2026-08-29'
+royal caribbean:
+  checked: '2026-10-16'
 rrs:
   checked: '2026-08-29'
 rsm:
@@ -1196,6 +1212,8 @@ susquehanna international sig:
   checked: '2026-08-29'
 syngenta:
   checked: '2026-10-06'
+t mobile:
+  checked: '2026-10-16'
 t rowe price:
   checked: '2026-09-04'
 talos:

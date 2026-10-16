@@ -192,6 +192,14 @@ Cox:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Cummins:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$558,686,286 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Deloitte:
   flags:
     defense:
@@ -719,6 +727,14 @@ Spirit AeroSystems:
     defense:
       confirmed: false
       detail: "DoD contracts ~$83,530,136 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+T-Mobile:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$367,472,999 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

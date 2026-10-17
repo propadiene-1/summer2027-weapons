@@ -644,6 +644,14 @@ Roche:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Ryan:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$132,122,995 (2021\u20132026, 6 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 SAS:
   flags:
     defense:

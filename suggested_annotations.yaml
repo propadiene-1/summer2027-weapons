@@ -436,6 +436,14 @@ Leidos:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Leonardo:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,221,793,778 (2021\u20132026, 4 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 LexisNexis Risk Solutions:
   flags:
     ice:

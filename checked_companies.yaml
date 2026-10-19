@@ -562,6 +562,8 @@ gordon food service:
   checked: '2026-09-15'
 grant thornton:
   checked: '2026-08-29'
+graviton:
+  checked: '2026-10-19'
 great american insurance:
   checked: '2026-10-02'
 greenheck:
@@ -1424,6 +1426,8 @@ whitewater midstream:
   checked: '2026-08-29'
 wipfli:
   checked: '2026-09-06'
+wise:
+  checked: '2026-10-19'
 workday:
   checked: '2026-10-10'
 workshop:
@@ -1450,5 +1454,7 @@ zip:
   checked: '2026-08-29'
 zipline:
   checked: '2026-08-29'
+zs:
+  checked: '2026-10-19'
 zurn elkay water solutions:
   checked: '2026-10-06'

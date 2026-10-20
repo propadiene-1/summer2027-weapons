@@ -746,6 +746,14 @@ Spirit AeroSystems:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Steel:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$13,389,399,311 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 T-Mobile:
   flags:
     defense:

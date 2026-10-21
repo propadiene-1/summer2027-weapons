@@ -166,6 +166,8 @@ bedrock robotics:
   checked: '2026-09-11'
 belvedere trading:
   checked: '2026-08-29'
+berkshire hathaway energy:
+  checked: '2026-10-21'
 berrydunn:
   checked: '2026-08-29'
 bjc healthcare:
@@ -298,6 +300,8 @@ collier aerospace:
   checked: '2026-09-10'
 commerce bank:
   checked: '2026-08-29'
+commonai c i c:
+  checked: '2026-10-21'
 commure:
   checked: '2026-09-12'
 compeer financial:
@@ -396,6 +400,8 @@ doordash:
   checked: '2026-09-15'
 dow jones:
   checked: '2026-09-15'
+dp world:
+  checked: '2026-10-21'
 draftkings:
   checked: '2026-09-01'
 draper:
@@ -404,6 +410,8 @@ dreamworks animation:
   checked: '2026-10-04'
 drivetime:
   checked: '2026-09-04'
+drivewealth:
+  checked: '2026-10-21'
 dropbox:
   checked: '2026-09-07'
 drw:
@@ -474,6 +482,8 @@ expedia:
   checked: '2026-10-06'
 f5:
   checked: '2026-10-07'
+fanduel:
+  checked: '2026-10-21'
 fannie mae:
   checked: '2026-08-29'
 fast enterprises:
@@ -538,6 +548,8 @@ gecko robotics:
   checked: '2026-09-17'
 geico:
   checked: '2026-09-02'
+genentech:
+  checked: '2026-10-21'
 generac:
   checked: '2026-09-18'
 general dynamics information technology:
@@ -774,6 +786,8 @@ liberty mutual:
   checked: '2026-10-06'
 life fitness:
   checked: '2026-10-01'
+linkedin:
+  checked: '2026-10-21'
 live oak bank:
   checked: '2026-09-16'
 lowe s:
@@ -836,6 +850,8 @@ mercor:
   checked: '2026-09-17'
 meta:
   checked: '2026-10-07'
+metamorphic:
+  checked: '2026-10-21'
 metlife:
   checked: '2026-10-01'
 metox international:
@@ -958,6 +974,8 @@ oshkosh:
   checked: '2026-09-12'
 ovintiv:
   checked: '2026-09-10'
+pa consulting:
+  checked: '2026-10-21'
 paccar:
   checked: '2026-10-20'
 pace:
@@ -1200,6 +1218,8 @@ smith nephew:
   checked: '2026-09-17'
 snap:
   checked: '2026-10-15'
+sony:
+  checked: '2026-10-21'
 southern star central gas pipeline:
   checked: '2026-09-03'
 southstate bank:
@@ -1332,6 +1352,8 @@ tokyo electron:
   checked: '2026-09-07'
 tower research capital:
   checked: '2026-08-29'
+toyota:
+  checked: '2026-10-21'
 tradeweb:
   checked: '2026-09-10'
 trane technologies:
@@ -1348,6 +1370,8 @@ trillium:
   checked: '2026-08-29'
 trimble:
   checked: '2026-09-09'
+trustage:
+  checked: '2026-10-21'
 ttp:
   checked: '2026-09-12'
 twg global:
@@ -1460,6 +1484,8 @@ whitewater midstream:
   checked: '2026-08-29'
 wipfli:
   checked: '2026-09-06'
+wisdomtree:
+  checked: '2026-10-21'
 wise:
   checked: '2026-10-19'
 workday:
@@ -1482,6 +1508,8 @@ zebra technologies:
   checked: '2026-10-20'
 zekelman industries:
   checked: '2026-09-24'
+zillow:
+  checked: '2026-10-21'
 zimmer biomet:
   checked: '2026-09-22'
 zions bank:

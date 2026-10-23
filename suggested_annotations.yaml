@@ -36,6 +36,14 @@ AeroVironment:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Airbus:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$6,410,639,219 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Altamira Technologies:
   flags:
     defense:
@@ -503,6 +511,14 @@ Moderna:
     defense:
       confirmed: false
       detail: "DoD contracts ~$9,993,306,277 (2021\u20132026, 2 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Moog:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$250,109,305 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

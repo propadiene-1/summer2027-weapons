@@ -200,6 +200,8 @@ bosch home comfort:
   checked: '2026-09-01'
 bose:
   checked: '2026-10-08'
+boson ai:
+  checked: '2026-10-24'
 boston consulting:
   checked: '2026-10-14'
 boston scientific:
@@ -246,6 +248,8 @@ carbon robotics:
   checked: '2026-10-14'
 cardinal health:
   checked: '2026-09-01'
+carrier global:
+  checked: '2026-10-24'
 castleton commodities international:
   checked: '2026-08-29'
 caterpillar:
@@ -772,6 +776,8 @@ kion:
   checked: '2026-10-23'
 kkr:
   checked: '2026-10-06'
+kla:
+  checked: '2026-10-24'
 klaviyo:
   checked: '2026-09-13'
 koch industries:
@@ -896,6 +902,8 @@ modernizing medicine:
   checked: '2026-10-09'
 momentive:
   checked: '2026-09-01'
+mongodb:
+  checked: '2026-10-24'
 montenson:
   checked: '2026-08-29'
 moog:
@@ -1234,6 +1242,8 @@ sigma computing:
   checked: '2026-10-07'
 signifyd:
   checked: '2026-10-06'
+simbe robotics:
+  checked: '2026-10-24'
 simventions:
   checked: '2026-09-16'
 skydio:
@@ -1278,6 +1288,8 @@ stepstone:
   checked: '2026-08-29'
 stoke space:
   checked: '2026-09-03'
+str:
+  checked: '2026-10-24'
 stripe:
   checked: '2026-10-01'
 stryker:
@@ -1432,6 +1444,8 @@ upbound:
   checked: '2026-09-21'
 urbn:
   checked: '2026-09-14'
+ursa major:
+  checked: '2026-10-24'
 usaa:
   checked: '2026-09-10'
 v2x:

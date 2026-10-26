@@ -22,6 +22,8 @@ adobe:
   checked: '2026-09-01'
 aecom:
   checked: '2026-10-15'
+aegon asset management:
+  checked: '2026-10-26'
 aerotech:
   checked: '2026-09-01'
 aerovironment:
@@ -1096,6 +1098,8 @@ prudential financial:
   checked: '2026-08-29'
 psp investments:
   checked: '2026-08-29'
+ptc:
+  checked: '2026-10-26'
 publicis groupe:
   checked: '2026-09-10'
 pure storage:

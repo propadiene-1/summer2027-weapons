@@ -576,6 +576,14 @@ Oshkosh:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+PTC:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$178,930,956 (2021\u20132026, 2 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Parsons:
   flags:
     defense:

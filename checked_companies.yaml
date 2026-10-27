@@ -32,6 +32,8 @@ aes:
   checked: '2026-09-12'
 affirm:
   checked: '2026-10-03'
+aflac:
+  checked: '2026-10-27'
 agco:
   checked: '2026-10-15'
 aig:
@@ -56,6 +58,8 @@ allied solutions:
   checked: '2026-09-03'
 allstate:
   checked: '2026-10-20'
+altalink:
+  checked: '2026-10-27'
 altamira technologies:
   checked: '2026-08-29'
 altar d state:
@@ -144,6 +148,8 @@ atlassian:
   checked: '2026-09-02'
 atoms:
   checked: '2026-08-29'
+aurora innovation:
+  checked: '2026-10-27'
 auto owners insurance:
   checked: '2026-08-29'
 autodesk:
@@ -306,6 +312,8 @@ cogna:
   checked: '2026-09-19'
 cognex:
   checked: '2026-10-20'
+cohesity:
+  checked: '2026-10-27'
 coinbase:
   checked: '2026-09-09'
 collier aerospace:
@@ -506,6 +514,8 @@ fannie mae:
   checked: '2026-08-29'
 fast enterprises:
   checked: '2026-08-29'
+federal home loan bank of indianapolis:
+  checked: '2026-10-27'
 federated insurance:
   checked: '2026-09-10'
 fhlbank chicago:
@@ -656,6 +666,10 @@ hilton worldwide:
   checked: '2026-09-04'
 hitachi:
   checked: '2026-08-29'
+hive financial systems:
+  checked: '2026-10-27'
+hiya:
+  checked: '2026-10-27'
 hmh:
   checked: '2026-09-10'
 hntb:
@@ -746,6 +760,8 @@ jain global:
   checked: '2026-10-06'
 jane street:
   checked: '2026-08-29'
+jm family:
+  checked: '2026-10-27'
 john deere:
   checked: '2026-09-02'
 johns hopkins applied physics laboratory:
@@ -852,6 +868,8 @@ mastercard:
   checked: '2026-08-29'
 maven securities:
   checked: '2026-08-29'
+mayo clinic:
+  checked: '2026-10-27'
 mckesson:
   checked: '2026-09-03'
 medline:
@@ -1214,6 +1232,8 @@ saronic:
   checked: '2026-09-10'
 sas:
   checked: '2026-10-02'
+saviynt:
+  checked: '2026-10-27'
 scale ai:
   checked: '2026-09-05'
 schonfeld:
@@ -1234,6 +1254,8 @@ sep:
   checked: '2026-09-16'
 servicenow:
   checked: '2026-10-14'
+sherwin williams:
+  checked: '2026-10-27'
 shield ai:
   checked: '2026-09-10'
 shure:
@@ -1260,6 +1282,8 @@ snap:
   checked: '2026-10-15'
 sony:
   checked: '2026-10-21'
+soti:
+  checked: '2026-10-27'
 southern star central gas pipeline:
   checked: '2026-09-03'
 southstate bank:
@@ -1398,6 +1422,8 @@ tower research capital:
   checked: '2026-08-29'
 toyota:
   checked: '2026-10-21'
+toyota research institute:
+  checked: '2026-10-27'
 tradeweb:
   checked: '2026-09-10'
 trane technologies:

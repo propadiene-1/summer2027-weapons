@@ -304,6 +304,14 @@ General Dynamics Mission Systems:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Glencore:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$450,609,458 (2021\u20132026, 2 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 GlobalFoundries:
   flags:
     defense:

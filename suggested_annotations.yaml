@@ -538,6 +538,14 @@ Moog:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Mosaic:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$96,944,421 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Motorola:
   flags:
     defense:
@@ -549,6 +557,20 @@ Motorola:
     ice:
       confirmed: false
       detail: "ICE contracts ~$118,546,908 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Motorola Solutions:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$356,926,189 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$120,336,543 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

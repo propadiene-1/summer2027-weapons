@@ -372,6 +372,8 @@ corteva:
   checked: '2026-09-12'
 costar:
   checked: '2026-09-14'
+costco:
+  checked: '2026-11-03'
 country financial:
   checked: '2026-09-09'
 courier health:
@@ -920,12 +922,16 @@ macy s:
   checked: '2026-10-06'
 magnite:
   checked: '2026-10-06'
+man:
+  checked: '2026-11-03'
 manulife financial:
   checked: '2026-08-29'
 marathon petroleum:
   checked: '2026-09-25'
 marmon:
   checked: '2026-08-29'
+marriott vacations worldwide:
+  checked: '2026-11-03'
 marsh:
   checked: '2026-08-29'
 marsh mclennan:
@@ -1000,8 +1006,12 @@ montenson:
   checked: '2026-08-29'
 moog:
   checked: '2026-10-23'
+mosaic:
+  checked: '2026-11-03'
 motorola:
   checked: '2026-08-29'
+motorola solutions:
+  checked: '2026-11-03'
 mufg:
   checked: '2026-10-09'
 muon space:
@@ -1118,6 +1128,8 @@ pacific fusion:
   checked: '2026-09-10'
 pacific life:
   checked: '2026-09-26'
+pacific northwest national laboratory:
+  checked: '2026-11-03'
 palomar:
   checked: '2026-10-03'
 panagora:
@@ -1264,6 +1276,8 @@ repsol:
   checked: '2026-08-29'
 republic airways:
   checked: '2026-09-18'
+resideo:
+  checked: '2026-11-03'
 resultant:
   checked: '2026-09-22'
 revantage corporate services:
@@ -1412,6 +1426,8 @@ springs window fashions:
   checked: '2026-08-29'
 stand together:
   checked: '2026-09-12'
+staples:
+  checked: '2026-11-03'
 state affairs:
   checked: '2026-10-14'
 state farm:
@@ -1558,6 +1574,8 @@ travelers:
   checked: '2026-09-05'
 trc companies:
   checked: '2026-09-18'
+tria federal:
+  checked: '2026-11-03'
 trillium:
   checked: '2026-08-29'
 trimble:

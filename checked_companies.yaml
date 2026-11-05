@@ -50,6 +50,8 @@ akuna capital:
   checked: '2026-10-29'
 akuna capital university:
   checked: '2026-09-04'
+alaska air:
+  checked: '2026-11-05'
 alberta investment management:
   checked: '2026-09-03'
 alixpartners:
@@ -184,10 +186,14 @@ bank of montreal:
   checked: '2026-09-05'
 barclays:
   checked: '2026-09-04'
+baringa:
+  checked: '2026-11-05'
 barnes thornburg:
   checked: '2026-09-10'
 barr:
   checked: '2026-09-10'
+barrios:
+  checked: '2026-11-05'
 bass pro shops:
   checked: '2026-09-16'
 bedrock robotics:
@@ -306,6 +312,8 @@ chicago trading:
   checked: '2026-08-29'
 chs:
   checked: '2026-09-25'
+chubb:
+  checked: '2026-11-05'
 church dwight:
   checked: '2026-09-18'
 cibc:
@@ -1086,6 +1094,10 @@ nov:
   checked: '2026-09-17'
 nova tech:
   checked: '2026-09-10'
+novelis:
+  checked: '2026-11-05'
+nrdc:
+  checked: '2026-11-05'
 nucor:
   checked: '2026-09-04'
 nutanix:
@@ -1720,6 +1732,8 @@ wisdomtree:
   checked: '2026-10-21'
 wise:
   checked: '2026-10-19'
+wolf:
+  checked: '2026-11-05'
 workday:
   checked: '2026-10-10'
 workshop:

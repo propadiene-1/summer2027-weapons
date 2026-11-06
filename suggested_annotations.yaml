@@ -92,6 +92,14 @@ Arc:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+AstraZeneca:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,107,936,703 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Athene:
   flags:
     defense:
@@ -703,6 +711,14 @@ Regeneron Pharmaceuticals:
     defense:
       confirmed: false
       detail: "DoD contracts ~$5,565,000,000 (2021\u20132026, 1 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Riverside Research:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$198,572,742 (2021\u20132026, 9 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

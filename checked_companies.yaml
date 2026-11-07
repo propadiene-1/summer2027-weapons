@@ -292,6 +292,8 @@ carrier global:
   checked: '2026-10-24'
 castleton commodities international:
   checked: '2026-08-29'
+category labs:
+  checked: '2026-11-07'
 caterpillar:
   checked: '2026-09-04'
 cdm smith:
@@ -442,6 +444,8 @@ decagon:
   checked: '2026-09-17'
 dee zee:
   checked: '2026-08-29'
+deeplocal:
+  checked: '2026-11-07'
 dell technologies:
   checked: '2026-09-10'
 deloitte:
@@ -530,6 +534,8 @@ enfos:
   checked: '2026-09-05'
 enova:
   checked: '2026-09-30'
+enovation controls:
+  checked: '2026-11-07'
 entergy:
   checked: '2026-09-05'
 enterprise:
@@ -894,6 +900,8 @@ kpmg:
   checked: '2026-08-29'
 kyndryl:
   checked: '2026-10-06'
+l l bean:
+  checked: '2026-11-07'
 labcorp:
   checked: '2026-09-12'
 land o lakes:
@@ -1198,6 +1206,8 @@ persona:
   checked: '2026-09-18'
 persona ai:
   checked: '2026-08-29'
+petronas canada:
+  checked: '2026-11-07'
 pgim:
   checked: '2026-08-29'
 philips:

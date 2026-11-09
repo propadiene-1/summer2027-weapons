@@ -716,6 +716,8 @@ hadrian:
   checked: '2026-09-03'
 harvey:
   checked: '2026-10-03'
+haskell:
+  checked: '2026-11-09'
 hd supply:
   checked: '2026-09-03'
 healthpeak properties:

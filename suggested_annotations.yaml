@@ -374,6 +374,14 @@ HNTB:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Haskell:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$435,502,048 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Hewlett Packard Enterprise:
   flags:
     defense:

@@ -430,6 +430,20 @@ Intel:
       match_confidence: 0.91
       needs_review: true
       source: usaspending
+International:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$10,354,594,778 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+    ice:
+      confirmed: false
+      detail: "ICE contracts ~$798,239,542 (2021\u20132026, 5 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Jones Lang LaSalle:
   flags:
     defense:

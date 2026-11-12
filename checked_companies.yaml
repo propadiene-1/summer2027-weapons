@@ -46,6 +46,8 @@ aig:
   checked: '2026-09-02'
 air products:
   checked: '2026-08-29'
+airbnb:
+  checked: '2026-11-12'
 airbus:
   checked: '2026-10-23'
 akuna capital:
@@ -244,6 +246,8 @@ boston scientific:
   checked: '2026-09-02'
 bp:
   checked: '2026-08-29'
+bracco:
+  checked: '2026-11-12'
 brain:
   checked: '2026-10-31'
 brevan howard:
@@ -318,6 +322,8 @@ charles schwab:
   checked: '2026-08-29'
 charter manufacturing:
   checked: '2026-09-17'
+chatham financial:
+  checked: '2026-11-12'
 chicago trading:
   checked: '2026-08-29'
 chs:
@@ -620,6 +626,8 @@ flow traders:
   checked: '2026-08-29'
 fnbo:
   checked: '2026-09-15'
+formlabs:
+  checked: '2026-11-12'
 formulary financial:
   checked: '2026-11-11'
 fortrea:
@@ -712,6 +720,8 @@ great american insurance:
   checked: '2026-10-02'
 greenheck:
   checked: '2026-09-05'
+greystone:
+  checked: '2026-11-12'
 grow financial federal credit union:
   checked: '2026-09-22'
 grow therapy:
@@ -988,6 +998,8 @@ marsh mclennan:
   checked: '2026-09-07'
 marshall wace:
   checked: '2026-08-29'
+martin marietta:
+  checked: '2026-11-12'
 marvell:
   checked: '2026-09-30'
 mastercard:
@@ -1110,6 +1122,8 @@ niantic spatial:
   checked: '2026-10-07'
 nike:
   checked: '2026-09-01'
+nintendo:
+  checked: '2026-11-12'
 nisource:
   checked: '2026-09-01'
 nissan:
@@ -1194,6 +1208,8 @@ panagora:
   checked: '2026-10-23'
 panasonic:
   checked: '2026-09-01'
+panera bread:
+  checked: '2026-11-12'
 pangram labs:
   checked: '2026-10-06'
 papa john s:
@@ -1450,6 +1466,8 @@ sep:
   checked: '2026-09-16'
 servicenow:
   checked: '2026-10-14'
+sharkninja:
+  checked: '2026-11-12'
 sherwin williams:
   checked: '2026-10-27'
 shield ai:
@@ -1554,6 +1572,8 @@ t mobile:
   checked: '2026-10-16'
 t rowe price:
   checked: '2026-09-04'
+tacit:
+  checked: '2026-11-12'
 talos:
   checked: '2026-09-09'
 tanium:
@@ -1664,6 +1684,8 @@ trilogy health services:
   checked: '2026-11-10'
 trimble:
   checked: '2026-09-09'
+trinity life sciences:
+  checked: '2026-11-12'
 trustage:
   checked: '2026-10-21'
 ttp:
@@ -1802,6 +1824,8 @@ wise:
   checked: '2026-10-19'
 wolf:
   checked: '2026-11-05'
+woolpert:
+  checked: '2026-11-12'
 workday:
   checked: '2026-10-10'
 workshop:

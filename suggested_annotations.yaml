@@ -538,6 +538,14 @@ Merck:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Merrick:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$92,522,573 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Microsoft:
   flags:
     defense:

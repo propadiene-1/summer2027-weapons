@@ -184,6 +184,14 @@ Cardinal Health:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Carnegie Mellon University:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$1,256,498,642 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Caterpillar:
   flags:
     defense:

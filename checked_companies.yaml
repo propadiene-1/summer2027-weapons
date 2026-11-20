@@ -102,6 +102,8 @@ ameriprise financial:
   checked: '2026-09-02'
 amgen:
   checked: '2026-09-12'
+amperity:
+  checked: '2026-11-20'
 amplify:
   checked: '2026-10-20'
 analysis:
@@ -214,6 +216,8 @@ barr:
   checked: '2026-09-10'
 barrios:
   checked: '2026-11-05'
+barry s:
+  checked: '2026-11-20'
 basis research institute:
   checked: '2026-11-18'
 bass pro shops:
@@ -332,6 +336,8 @@ carnegie mellon university:
   checked: '2026-11-14'
 carrier global:
   checked: '2026-10-24'
+cas:
+  checked: '2026-11-20'
 castleton commodities international:
   checked: '2026-08-29'
 category labs:
@@ -490,6 +496,8 @@ dee zee:
   checked: '2026-08-29'
 deeplocal:
   checked: '2026-11-07'
+deliveroo:
+  checked: '2026-11-20'
 dell technologies:
   checked: '2026-09-10'
 deloitte:
@@ -732,6 +740,8 @@ genius ai:
   checked: '2026-10-30'
 genworth financial:
   checked: '2026-08-29'
+georgian partners growth:
+  checked: '2026-11-20'
 glean:
   checked: '2026-10-02'
 glencore:
@@ -820,6 +830,8 @@ hntb:
   checked: '2026-08-29'
 honeywell:
   checked: '2026-08-29'
+honeywell aerospace:
+  checked: '2026-11-20'
 horizon3 ai:
   checked: '2026-11-14'
 hormel foods:
@@ -852,12 +864,16 @@ hy vee:
   checked: '2026-09-05'
 hyster yale materials handling:
   checked: '2026-10-31'
+ia:
+  checked: '2026-11-20'
 iat insurance:
   checked: '2026-09-01'
 iberdrola:
   checked: '2026-08-29'
 ibotta:
   checked: '2026-09-12'
+icapital network:
+  checked: '2026-11-20'
 icf international:
   checked: '2026-09-07'
 id me:
@@ -1020,6 +1036,8 @@ lpl financial:
   checked: '2026-08-29'
 lseg:
   checked: '2026-09-18'
+lucid motors:
+  checked: '2026-11-20'
 lumbermen s:
   checked: '2026-11-10'
 lunar outpost:
@@ -1076,6 +1094,8 @@ megazonecloud:
   checked: '2026-09-12'
 meijer:
   checked: '2026-09-09'
+melaleuca:
+  checked: '2026-11-20'
 melius:
   checked: '2026-08-29'
 memx:
@@ -1324,6 +1344,10 @@ pimco:
   checked: '2026-08-29'
 pinterest:
   checked: '2026-10-02'
+piper sandler:
+  checked: '2026-11-20'
+pivotal software:
+  checked: '2026-11-20'
 planview:
   checked: '2026-09-10'
 plastipak:
@@ -1572,6 +1596,8 @@ smith nephew:
   checked: '2026-09-17'
 snap:
   checked: '2026-10-15'
+snowflake:
+  checked: '2026-11-20'
 sonos:
   checked: '2026-10-28'
 sony:

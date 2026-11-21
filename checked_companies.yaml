@@ -22,6 +22,8 @@ acima:
   checked: '2026-09-21'
 acuity:
   checked: '2026-09-30'
+acuity insurance:
+  checked: '2026-11-21'
 addepar:
   checked: '2026-11-11'
 adobe:
@@ -40,6 +42,8 @@ aes:
   checked: '2026-09-12'
 affirm:
   checked: '2026-10-03'
+afl:
+  checked: '2026-11-21'
 aflac:
   checked: '2026-10-27'
 agco:
@@ -192,6 +196,8 @@ autozone:
   checked: '2026-09-21'
 avis budget:
   checked: '2026-09-12'
+avista:
+  checked: '2026-11-21'
 awardco:
   checked: '2026-09-15'
 axa:
@@ -232,6 +238,8 @@ berrydunn:
   checked: '2026-08-29'
 biodesix:
   checked: '2026-11-10'
+biohub:
+  checked: '2026-11-21'
 bissell:
   checked: '2026-11-18'
 bjc healthcare:
@@ -416,6 +424,8 @@ commonwealth fusion systems:
   checked: '2026-10-28'
 commure:
   checked: '2026-09-12'
+compassion international:
+  checked: '2026-11-21'
 compeer financial:
   checked: '2026-08-29'
 conocophillips:
@@ -472,6 +482,8 @@ cybernetic labs:
   checked: '2026-08-29'
 cyvl:
   checked: '2026-09-17'
+daikin comfort:
+  checked: '2026-11-21'
 daimler truck:
   checked: '2026-09-23'
 dallas fort worth international airport:
@@ -582,6 +594,8 @@ empirical foods:
   checked: '2026-08-29'
 enact mortgage insurance:
   checked: '2026-09-15'
+encore:
+  checked: '2026-11-21'
 energy transfer partners:
   checked: '2026-09-12'
 enfos:
@@ -598,6 +612,8 @@ enterprise:
   checked: '2026-09-17'
 environmental defense fund:
   checked: '2026-11-13'
+ep wealth advisors:
+  checked: '2026-11-21'
 epic games:
   checked: '2026-08-29'
 eqt:
@@ -700,6 +716,8 @@ gartner:
   checked: '2026-10-04'
 gas south:
   checked: '2026-10-02'
+gci:
+  checked: '2026-11-21'
 gcm grosvenor:
   checked: '2026-09-26'
 ge aerospace:
@@ -770,6 +788,8 @@ graviton:
   checked: '2026-10-19'
 great american insurance:
   checked: '2026-10-02'
+great southern wood preserving:
+  checked: '2026-11-21'
 greenheck:
   checked: '2026-09-05'
 greystone:
@@ -778,6 +798,8 @@ grow financial federal credit union:
   checked: '2026-09-22'
 grow therapy:
   checked: '2026-09-23'
+gti energy:
+  checked: '2026-11-21'
 guardian life:
   checked: '2026-09-14'
 guidestone:
@@ -786,6 +808,8 @@ guidewell mutual:
   checked: '2026-08-29'
 gulfstream:
   checked: '2026-08-29'
+gusto:
+  checked: '2026-11-21'
 h r block:
   checked: '2026-09-29'
 hadrian:
@@ -944,6 +968,8 @@ jane street:
   checked: '2026-08-29'
 javelin global commodities:
   checked: '2026-10-29'
+jewelers mutual:
+  checked: '2026-11-21'
 jm family:
   checked: '2026-10-27'
 jmp statistical discovery:
@@ -1030,6 +1056,8 @@ linkedin:
   checked: '2026-10-21'
 live oak bank:
   checked: '2026-09-16'
+los angeles dodgers:
+  checked: '2026-11-21'
 lowe s:
   checked: '2026-09-15'
 lpl financial:
@@ -1108,6 +1136,8 @@ mercor:
   checked: '2026-09-17'
 merrick:
   checked: '2026-11-13'
+mesirow:
+  checked: '2026-11-21'
 meta:
   checked: '2026-10-07'
 metamorphic:
@@ -1126,6 +1156,8 @@ microsoft:
   checked: '2026-09-02'
 midland states bank:
   checked: '2026-10-06'
+milliman:
+  checked: '2026-11-21'
 mindex:
   checked: '2026-10-02'
 mitsubishi ufg:
@@ -1138,6 +1170,8 @@ modernizing medicine:
   checked: '2026-10-09'
 molina healthcare:
   checked: '2026-10-31'
+mom s meals:
+  checked: '2026-11-21'
 momentive:
   checked: '2026-09-01'
 mongodb:
@@ -1302,6 +1336,8 @@ paretohealth:
   checked: '2026-11-02'
 parsons:
   checked: '2026-08-29'
+pason systems:
+  checked: '2026-11-21'
 patch my pc:
   checked: '2026-10-01'
 patreon:
@@ -1608,12 +1644,16 @@ soti:
   checked: '2026-10-27'
 soundexchange:
   checked: '2026-10-29'
+southern farm bureau life insurance:
+  checked: '2026-11-21'
 southern star central gas pipeline:
   checked: '2026-09-03'
 southstate bank:
   checked: '2026-09-30'
 southwest airlines:
   checked: '2026-10-01'
+southwest power pool:
+  checked: '2026-11-21'
 space dynamics laboratory:
   checked: '2026-10-06'
 spacex:
@@ -1822,6 +1862,8 @@ uline:
   checked: '2026-08-29'
 ulta beauty:
   checked: '2026-09-18'
+ulteig:
+  checked: '2026-11-21'
 united airlines:
   checked: '2026-09-06'
 united launch alliance:
@@ -1914,6 +1956,8 @@ wellmark:
   checked: '2026-09-11'
 wells fargo:
   checked: '2026-08-29'
+werner electric supply:
+  checked: '2026-11-21'
 west bend insurance:
   checked: '2026-09-23'
 western digital:
@@ -1940,6 +1984,8 @@ wise:
   checked: '2026-10-19'
 wolf:
   checked: '2026-11-05'
+woodward governor:
+  checked: '2026-11-21'
 woolpert:
   checked: '2026-11-12'
 workday:

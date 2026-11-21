@@ -262,6 +262,14 @@ Draper:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Encore:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$451,063,188 (2021\u20132026, 2 awards)"
+      match_confidence: 0.86
+      needs_review: true
+      source: usaspending
 Entergy:
   flags:
     defense:
@@ -289,6 +297,14 @@ Flint:
     defense:
       confirmed: false
       detail: "DoD contracts ~$176,502,573 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+GCI:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$624,562,362 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

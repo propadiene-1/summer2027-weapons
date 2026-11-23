@@ -846,6 +846,14 @@ Sierra Nevada Corporation:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+Sierra Space:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$82,204,590 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 SimVentions:
   flags:
     defense:
@@ -875,6 +883,14 @@ Spirit AeroSystems:
     defense:
       confirmed: false
       detail: "DoD contracts ~$83,530,136 (2021\u20132026, 7 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
+Stantec:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$203,793,651 (2021\u20132026, 10 awards)"
       match_confidence: 1.0
       needs_review: false
       source: usaspending

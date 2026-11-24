@@ -270,6 +270,14 @@ Encore:
       match_confidence: 0.86
       needs_review: true
       source: usaspending
+Energy Solutions:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$173,321,659 (2021\u20132026, 8 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Entergy:
   flags:
     defense:

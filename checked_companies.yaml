@@ -344,6 +344,8 @@ cardinal health:
   checked: '2026-09-01'
 caresource:
   checked: '2026-10-30'
+cargurus:
+  checked: '2026-11-24'
 carnegie mellon university:
   checked: '2026-11-14'
 carrier global:
@@ -442,6 +444,8 @@ corewell health:
   checked: '2026-10-13'
 corgan:
   checked: '2026-10-02'
+cornerstone partners:
+  checked: '2026-11-24'
 corning:
   checked: '2026-09-02'
 corteva:
@@ -476,6 +480,8 @@ csx:
   checked: '2026-08-29'
 ctgt:
   checked: '2026-08-29'
+culver s:
+  checked: '2026-11-24'
 cummins:
   checked: '2026-10-16'
 cvent:
@@ -600,6 +606,8 @@ enact mortgage insurance:
   checked: '2026-09-15'
 encore:
   checked: '2026-11-21'
+energy solutions:
+  checked: '2026-11-24'
 energy transfer partners:
   checked: '2026-09-12'
 enfos:
@@ -632,6 +640,8 @@ erie insurance:
   checked: '2026-09-22'
 ernst young:
   checked: '2026-09-04'
+esri:
+  checked: '2026-11-24'
 etched:
   checked: '2026-10-06'
 eulerity:
@@ -912,6 +922,8 @@ idemia:
   checked: '2026-10-06'
 illinois tool works:
   checked: '2026-09-24'
+illumio:
+  checked: '2026-11-24'
 imc trading:
   checked: '2026-08-29'
 imeg:
@@ -960,6 +972,8 @@ isam:
   checked: '2026-10-31'
 isn software:
   checked: '2026-09-01'
+iso new england:
+  checked: '2026-11-24'
 itron:
   checked: '2026-09-30'
 itt:
@@ -1056,6 +1070,8 @@ liberty mutual:
   checked: '2026-10-06'
 life fitness:
   checked: '2026-10-01'
+lifeway:
+  checked: '2026-11-24'
 lightmatter:
   checked: '2026-11-17'
 linkedin:
@@ -1392,6 +1408,8 @@ piper sandler:
   checked: '2026-11-20'
 pivotal software:
   checked: '2026-11-20'
+plains all american pipeline:
+  checked: '2026-11-24'
 planview:
   checked: '2026-09-10'
 plastipak:
@@ -1708,6 +1726,8 @@ strada education foundation:
   checked: '2026-10-31'
 stratolaunch:
   checked: '2026-10-30'
+strava:
+  checked: '2026-11-24'
 stripe:
   checked: '2026-10-01'
 stryker:
@@ -1906,6 +1926,8 @@ vatic investments:
   checked: '2026-11-04'
 veeam software:
   checked: '2026-09-12'
+veolia:
+  checked: '2026-11-24'
 verisk:
   checked: '2026-09-06'
 verition fund management:

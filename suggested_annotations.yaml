@@ -990,6 +990,14 @@ V2X:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+WSP:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$976,054,376 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Wise:
   flags:
     defense:

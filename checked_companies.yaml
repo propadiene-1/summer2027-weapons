@@ -212,6 +212,8 @@ axq capital:
   checked: '2026-09-04'
 baird:
   checked: '2026-09-03'
+bandwidth:
+  checked: '2026-11-25'
 bank of montreal:
   checked: '2026-09-05'
 barclays:
@@ -1026,6 +1028,8 @@ keysight technologies:
   checked: '2026-09-05'
 khan academy:
   checked: '2026-10-06'
+kimley horn:
+  checked: '2026-11-25'
 kinder morgan:
   checked: '2026-09-02'
 kion:
@@ -1590,6 +1594,8 @@ salesforce:
   checked: '2026-08-29'
 sallie mae:
   checked: '2026-10-29'
+sambanova systems:
+  checked: '2026-11-25'
 samsung research america:
   checked: '2026-11-04'
 sanofi:
@@ -1980,6 +1986,8 @@ walleye capital:
   checked: '2026-08-29'
 walmart:
   checked: '2026-09-06'
+waters:
+  checked: '2026-11-25'
 watts water:
   checked: '2026-09-18'
 wawa:
@@ -2030,6 +2038,8 @@ workday:
   checked: '2026-10-10'
 workshop:
   checked: '2026-09-18'
+wsp:
+  checked: '2026-11-25'
 wtw:
   checked: '2026-09-19'
 xai:

@@ -538,6 +538,14 @@ LexisNexis Risk Solutions:
       match_confidence: 1.0
       needs_review: false
       source: usaspending
+ManTech:
+  flags:
+    defense:
+      confirmed: false
+      detail: "DoD contracts ~$4,344,883,718 (2021\u20132026, 10 awards)"
+      match_confidence: 1.0
+      needs_review: false
+      source: usaspending
 Marathon Petroleum:
   flags:
     defense:

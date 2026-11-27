@@ -918,6 +918,8 @@ icapital network:
   checked: '2026-11-20'
 icf international:
   checked: '2026-09-07'
+iconiq capital:
+  checked: '2026-11-27'
 id me:
   checked: '2026-09-05'
 idemia:
@@ -1434,6 +1436,8 @@ polaris:
   checked: '2026-08-29'
 post:
   checked: '2026-09-03'
+pqshield:
+  checked: '2026-11-27'
 pretium:
   checked: '2026-10-31'
 pricewaterhousecoopers pwc:
